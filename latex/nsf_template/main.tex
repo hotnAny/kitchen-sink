@@ -1,0 +1,56 @@
+\documentclass{NSF}
+
+\usepackage{xac}
+\usepackage{enumitem}
+\usepackage[numbers, square]{natbib}
+\usepackage{hyperref}
+
+% set citation style
+\setcitestyle{numbers,square}
+
+% adjust line spacing
+\def\baselinestretch{1.25}
+
+% whether a new paragraph's first line has indentation
+% \setlength{\parindent}{0pt}
+
+% space between bullets
+\setlist[itemize]{itemsep=0em}
+
+% use symbol when referring to sections
+\renewcommand{\subsectionautorefname}{\S}
+
+\begin{document}
+
+% TODO: uncomment this before submission to remove page #
+% \pagestyle{empty}
+
+% A. PROJECT SUMMARY
+\newpage\newsection{A}
+\input{a_project_summary.tex}
+
+% B. PROJECT DESCRIPTION
+\newpage\newsection{B}
+\input{b0_overview.tex}
+\input{b0_related_work.tex}
+\input{b1_thrust1.tex}
+\input{b2_thrust2.tex}
+\input{b3_thrust3.tex}
+\input{b4_broader_impacts.tex}
+\input{b5_misc.tex}
+
+% C. REFERENCES CITED
+\newpage\newsection{C}
+\renewcommand\refname{References Cited}
+\bibliography{main,xac}
+\bibliographystyle{acm}
+
+% D. FACILITIES, EQUIPMENT, & OTHER RESOURCES
+\newpage\newsection{D}
+\input{d_resources.tex}
+
+% E. DATA MANAGEMENT PLAN
+\newpage\newsection{E}
+\input{e_data.tex}
+
+\end{document}

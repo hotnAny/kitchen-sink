@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{bush1945we}
+{\sc Bush, V., et~al.}
+\newblock As we may think.
+\newblock {\em The atlantic monthly 176}, 1 (1945), 101--108.
+
+\bibitem{gu2021lessons}
+{\sc Gu, H., Huang, J., Hung, L., and Chen, X.~A.}
+\newblock Lessons learned from designing an ai-enabled diagnosis tool for pathologists.
+\newblock {\em Proceedings of the ACM on Human-Computer Interaction 5}, CSCW1 (2021), 1--25.
+
+\bibitem{gu2023improving}
+{\sc Gu, H., Liang, Y., Xu, Y., Williams, C.~K., Magaki, S., Khanlou, N., Vinters, H., Chen, Z., Ni, S., Yang, C., et~al.}
+\newblock Improving workflow integration with xpath: Design and evaluation of a human-ai diagnosis system in pathology.
+\newblock {\em ACM Transactions on Computer-Human Interaction 30}, 2 (2023), 1--37.
+
+\bibitem{gu2023augmenting}
+{\sc Gu, H., Yang, C., Haeri, M., Wang, J., Tang, S., Yan, W., He, S., Williams, C.~K., Magaki, S., and Chen, X.~A.}
+\newblock Augmenting pathologists with navipath: Design and evaluation of a human-ai collaborative navigation system.
+\newblock In {\em Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems\/} (2023), pp.~1--19.
+
+\bibitem{xie2020chexplain}
+{\sc Xie, Y., Chen, M., Kao, D., Gao, G., and Chen, X.~A.}
+\newblock Chexplain: enabling physicians to explore and understand data-driven, ai-enabled medical imaging analysis.
+\newblock In {\em Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems\/} (2020), pp.~1--13.
+
+\end{thebibliography}
