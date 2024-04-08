@@ -9,9 +9,15 @@ latex_res = ["xac.bib", "xac.sty", "split.py", "gitignore"]
 template_dir = "nsf_template"
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-       project_path = sys.argv[1]
+    if len(sys.argv) <= 1:
+       print("Please specify proposal directory.")
+       exit(1)
 
+    project_path = sys.argv[1]
+
+    if len(sys.argv) > 2:
+        template_dir += "_" + sys.argv[2]
+    
     # create the main dir and subdirs
     os.makedirs(project_path)
     for sub_dir in sub_dirs:

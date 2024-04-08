@@ -1,0 +1,99 @@
+\usepackage{booktabs}
+\usepackage{todonotes}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{xspace}
+\usepackage{fontawesome}
+\usepackage{csquotes}
+
+% For NSF: section name of bibliography
+%\renewcommand{\refname}{\centerline{References cited}}
+
+% comments and placeholders
+\newcommand{\xx}[0]
+{{\fontfamily{cmss}\selectfont \bfseries \color{red} \colorbox{yellow}{xx}}}
+
+\newcommand{\xxx}[0]
+{{\fontfamily{cmss}\selectfont \bfseries \color{red} \colorbox{yellow}{ ... xx ...}}}
+
+\newcommand{\xac}[1]
+{{\color{red} $\leftarrow$ {\bf XAC}: #1 }}
+
+%\NewDocumentCommand{\codeword}{v}{%
+%\texttt{\small #1}}
+
+% figures
+% label, file, width, caption, 
+\newcommand{\fgw}[4]{
+\begin{figure*}[t]
+\centering
+\includegraphics[width=#3\textwidth]{figures/#2}
+\caption{#4}
+\label{fg:#1}
+\end{figure*}
+}
+
+\newcommand{\fg}[4]{
+\begin{figure}[t]
+\centering
+\includegraphics[width=#3\columnwidth]{figures/#2}
+\caption{#4}
+\label{fg:#1}
+\end{figure}
+}
+
+\newcommand{\fgh}[4]{
+\begin{figure}[H]
+\centering
+\includegraphics[width=#3\columnwidth]{figures/#2}
+\caption{#4}
+\label{fg:#1}
+\end{figure}
+}
+
+% references
+\newcommand{\fgref}[1]{Figure~\ref{fg:#1}}
+\newcommand{\tbref}[1]{Table~\ref{tb:#1}}
+\newcommand{\secref}[1]{\S\ref{sec:#1}}
+\newcommand{\citeref}[1]{~[\cite{#1}]}
+
+% common abbreviations
+\newcommand{\eg}{{\it e.g.}, }
+\newcommand{\ie}{{\it i.e.}, }
+\newcommand{\etal}{{\it et al.}\xspace}
+\newcommand{\vs}{{\it vs.}\xspace}
+
+\newcommand{\one}[0] {{\it (i)}~}
+\newcommand{\two}[0] {{\it (ii)}~}
+\newcommand{\three}[0] {{\it (iii)}~}
+\newcommand{\four}[0] {{\it (iv)}~}
+\newcommand{\five}[0] {{\it (v)}~}
+
+\providecommand{\td}[1]{\todo[inline]{#1}}
+
+\renewcommand{\arraystretch}{1.5}
+
+% for quoting participants
+\newcommand{\quo}[2]{
+    \vspace{0.2em}
+    \begin{displayquote}
+        {\it #1} (P#2)
+    \end{displayquote}
+    \vspace{0.2em}
+}
+
+\newcommand{\inquo}[2]{
+    ``{\it #1}'' (T#2)\xspace
+}
+
+% for highlighting revisions
+\newcommand{\rev}[2]
+{{\color{red}\st{#1}}{\color{red}#2}}
+
+
+\definecolor{verylightgray}{gray}{0.85}
+\newcommand\greybox[1]{%
+  \par\noindent\colorbox{verylightgray}{%
+    \begin{minipage}{\textwidth} #1\end{minipage}%
+  }%
+}

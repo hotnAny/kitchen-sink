@@ -1,0 +1,43 @@
+\documentclass{NSF}
+
+\usepackage{xac}
+\usepackage{enumitem}
+\usepackage[numbers, square]{natbib}
+\usepackage{hyperref}
+\usepackage{xspace}
+
+% set citation style
+\setcitestyle{numbers,square}
+
+% adjust line spacing
+\def\baselinestretch{1.25}
+
+% whether a new paragraph's first line has indentation
+% \setlength{\parindent}{0pt}
+
+% space between bullets
+\setlist[itemize]{itemsep=0em}
+
+% use symbol when referring to sections
+\renewcommand{\subsectionautorefname}{\S}
+
+% meta
+\newcommand{\awardno}[0]{2047297}
+\newcommand{\awardtitle}[0]{\emph{Expanding the Interaction Bandwidth between Physicians and AI}}
+\newcommand{\awardenddate}[0]{3/31/2026}
+\newcommand{\awardsummary}[0]{develops interaction techniques that enable physicians to comprehend AI's findings, control AI's behavior, and collaborate with AI in making medical diagnoses}
+\newcommand{\numstudents}[0]{two\xspace}
+
+
+\begin{document}
+
+% TODO: uncomment this before submission to remove page #
+% \pagestyle{empty}
+
+\input{0_supplement_justification.tex}
+\newpage
+\input{1_summary.tex}
+\newpage
+\input{2_budgetr_justification.tex}
+
+\end{document}
