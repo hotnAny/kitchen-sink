@@ -328,7 +328,7 @@ Publications:
       label: ICHI
       description: >-
         Hongyan Gu, Zihan Yan, Ayesha Alvi, Brandon Day, Chunxu Yang, Zida Wu,
-        Shino Magaki, Mohammad Haeri, Xiang'Anthony' Chen. Supporting Mitosis
+        Shino Magaki, Mohammad Haeri, Xiang 'Anthony' Chen. Supporting Mitosis
         Detection AI Training with Inter-Observer Eye-Gaze Consistencies. To
         appear at IEEE ICHI 2024.
       link: ''
@@ -339,7 +339,7 @@ Publications:
         Marc Aubreville, Nikolas Stathonikos, Taryn A. Donovan, Robert
         Klopfleisch, Jonas Ammeling, Jonathan Ganz, Frauke Wilm, Mitko Veta,
         Samir Jabari, Markus Eckstein, Jonas Annuscheit, Christian Krumnow,
-        Engin Bozaba, Sercan Çayır, Hongyan Gu, Xiang ‘Anthony’ Chen, Mostafa
+        Engin Bozaba, Sercan Çayır, Hongyan Gu, Xiang 'Anthony' Chen, Mostafa
         Jahanifar, Adam Shephard, Satoshi Kondo, Satoshi Kasai, Sujatha Kotte,
         V.G. Saipradeep, Maxime W. Lafarge, Viktor H. Koelzer, Ziyue Wang,
         Yongbing Zhang, Sen Yang, Xiyue Wang, Katharina Breininger, Christof A.
@@ -369,7 +369,7 @@ Publications:
       label: LNCS
       description: >-
         Hongyan Gu, Mohammad Haeri, Shuo Ni, Christopher Kazu Williams, Neda
-        Zarrin-Khameh, Shino Magaki, Xiang ‘Anthony’ Chen. Detecting Mitoses
+        Zarrin-Khameh, Shino Magaki, Xiang 'Anthony' Chen. Detecting Mitoses
         with a Convolutional Neural Network for MIDOG 2022 Challenge. In: Sheng,
         B., Aubreville, M. (eds) Mitosis Domain Generalization and Diabetic
         Retinopathy Analysis. MIDOG DRAC 2022. Lecture Notes in Computer
@@ -399,7 +399,7 @@ Publications:
       description: >-
         Hongyan Gu, Chunxu Yang, Mohammad Haeri, Jing Wang, Shirley Tang,
         Wenzhong Yan, Shujin He, Christopher Kazu Williams, Shino Magaki, Xiang
-        ‘Anthony’ Chen. Augmenting Pathologists with NaviPath: Design and
+        'Anthony' Chen. Augmenting Pathologists with NaviPath: Design and
         Evaluation of a Human-AI Collaborative Navigation System. Proceedings of
         the 2023 CHI Conference on Human Factors in Computing Systems, 2023.
       award: Best Paper Honorable Mention Award
@@ -464,7 +464,7 @@ Publications:
       endYear: ''
       label: EMNLP
       description: >-
-        Philippe Laban, Chien-Sheng Wu, Lidiya Murakhovs’ka, Xiang 'Anthony'
+        Philippe Laban, Chien-Sheng Wu, Lidiya Murakhovs'ka, Xiang 'Anthony'
         Chen, Caiming Xiong. Discord Questions: A Computational Approach To
         Diversity Analysis in News Coverage. Proceedings of the Findings of the
         Association for Computational Linguistics: EMNLP 2022
@@ -483,7 +483,7 @@ Publications:
       label: IMWUT
       description: >-
         Zihan Yan, Jiayi Zhou, Yufei Wu, Guanhong Liu, Danli, Luo, Zihong Zhou,
-        Haipeng Mi, Lingyun Sun, Xiang `Anthony’ Chen, Ye Tao, Yang Zhang,
+        Haipeng Mi, Lingyun Sun, Xiang `Anthony' Chen, Ye Tao, Yang Zhang,
         Guanyun Wang. Shoes++: A Smart Detachable Sole for Social Foot-to-foot
         Interaction. Proceedings of the ACM on Interactive, Mobile, Wearable and
         Ubiquitous Technologies.
@@ -903,14 +903,14 @@ Publications:
       label: M. Sc.
       description: |-
         Body-Centric Interaction with a Screen-based Handheld Device
-        Master’s thesis, University of Calgary
+        Master's thesis, University of Calgary
       link: 'https://prism.ucalgary.ca/handle/1880/106037'
   Book Chapters:
     - startYear: '2021'
       endYear: ''
       label: ' '
       description: >-
-        Yuan Liang, Lei He, Xiang ‘Anthony’ Chen. Human-Centered AI for Medical
+        Yuan Liang, Lei He, Xiang 'Anthony' Chen. Human-Centered AI for Medical
         Imaging. In: Yang Li, Otmar Hilliges. (eds) Artificial Intelligence for
         Human Computer Interaction: A Modern Approach. Human–Computer
         Interaction Series. Springer, Cham.
@@ -939,8 +939,8 @@ Publications:
       label: CHI
       description: >-
         Xinyue Gui, Koki Toda, Stela H. Seo, Felix Martin Eckert, Chia-Ming
-        Chang, Xiang ‘Anthony’ Chen, Takeo Igarashi. A Field Study on
-        Pedestrians’ Thoughts toward a Car with Gazing Eyes. Proceedings of the
+        Chang, Xiang 'Anthony' Chen, Takeo Igarashi. A Field Study on
+        Pedestrians' Thoughts toward a Car with Gazing Eyes. Proceedings of the
         Extended Abstracts of the 2023 CHI Conference on Human Factors in
         Computing Systems, 2023.
       link: ''
@@ -1027,7 +1027,7 @@ Patents:
       endYear: ''
       label: ''
       description: >-
-        Gierad Laput, Christopher Harrison, and Xiang ‘Anthony’ Chen. Method of
+        Gierad Laput, Christopher Harrison, and Xiang 'Anthony' Chen. Method of
         Fabricating Soft Fibers Using Fused Deposition Modeling. U.S. Patent
         Application 15/772,193, issued filed April 5, 2022.
       link: 'https://patents.google.com/patent/US11292169B2/en'
@@ -1035,7 +1035,7 @@ Patents:
       endYear: ''
       label: ''
       description: >-
-        Yang Li, and Xiang ‘Anthony’ Chen. Cross-device interaction through
+        Yang Li, and Xiang 'Anthony' Chen. Cross-device interaction through
         user-demonstrated gestures. U.S. Patent 10,234,953, issued March 19,
         2019.
       link: 'https://patents.google.com/patent/US10234953/'
@@ -1044,7 +1044,7 @@ Patents:
       label: ''
       description: >-
         Techniques For Interacting With Wearable Devices. Tovi Grossman, Xiang
-        ‘Anthony’ Chen, George Fitzmaurice. U.S. Patent 10,082,953, issued
+        'Anthony' Chen, George Fitzmaurice. U.S. Patent 10,082,953, issued
         September 25, 2018.
       link: 'https://patents.google.com/patent/US10082953/'
     - startYear: '2015'
@@ -1052,7 +1052,7 @@ Patents:
       label: ''
       description: >-
         Techniques For Interacting With Handheld Devices. Tovi Grossman, Xiang
-        ‘Anthony’ Chen, George Fitzmaurice. U.S. Patent 20,150,153,928, issued
+        'Anthony' Chen, George Fitzmaurice. U.S. Patent 20,150,153,928, issued
         June 4, 2015.
       link: 'https://patents.google.com/patent/US20150153928/'
     - startYear: '2015'
@@ -1154,7 +1154,7 @@ Press:
       endYear: ''
       label: ''
       description: |-
-        Let’s Redesign the Laptop for a Work-From-Home Era 
+        Let's Redesign the Laptop for a Work-From-Home Era 
         Wall Street Journal
       link: >-
         https://www.wsj.com/articles/lets-redesign-the-laptop-for-a-work-from-home-era-11615318285
@@ -1220,7 +1220,7 @@ Press:
       label: ''
       description: |-
         Tablet+Stylus Interaction (collaborated with Ken Hinckley)
-        FastCo Design’s #2 User Interface Innovation of 2014
+        FastCo Design's #2 User Interface Innovation of 2014
       link: ''
     - startYear: '2012'
       endYear: ''
