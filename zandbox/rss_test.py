@@ -8,6 +8,6 @@ feed = feedparser.parse(feed_url)
 
 # Display the titles and links of the latest posts
 for entry in feed.entries:
-    # print(f"Title: {entry.title}")
+    print(f"Title: {entry.title}")
     # print(f"Link: {entry.link}\n")
-    print(entry)
+    print(f"Summary: {entry.summary}\n")
