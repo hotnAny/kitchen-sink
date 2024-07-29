@@ -6,9 +6,6 @@ input_pdf_filename = "main.pdf"
 # TODO: edit this
 split_pages = [
     # ["sub_file_name", start_page, end_page]
-    ["justification_supplement", 1, 1],
-    ["summary_work", 2, 3],
-    ["budget_justification", 4, 4]
 ]
  
 # NOTE shouldn't have changed anything below
