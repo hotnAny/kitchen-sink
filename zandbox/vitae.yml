@@ -71,6 +71,11 @@ Education:
       link: ''
 Awards:
   '':
+    - startYear: '2024'
+      endYear: ''
+      label: ''
+      description: CHI Best Paper Honorable Mention Award
+      link: ''
     - startYear: '2023'
       endYear: ''
       label: ''
@@ -295,6 +300,7 @@ Publications:
         Xingyu Bruce Liu, Jiahao Nick Li, David Kim, Xiang 'Anthony' Chen,
         Ruofei Du. Human I/O: Towards a Unified Approach to Detecting
         Situational Impairments. To appear at CHI 2024.
+      award: Best Paper Honorable Mention Award
       link: ''
     - startYear: '2024'
       endYear: ''
@@ -464,7 +470,7 @@ Publications:
       endYear: ''
       label: EMNLP
       description: >-
-        Philippe Laban, Chien-Sheng Wu, Lidiya Murakhovs'ka, Xiang 'Anthony'
+        Philippe Laban, Chien-Sheng Wu, Lidiya Murakhovs’ka, Xiang 'Anthony'
         Chen, Caiming Xiong. Discord Questions: A Computational Approach To
         Diversity Analysis in News Coverage. Proceedings of the Findings of the
         Association for Computational Linguistics: EMNLP 2022
@@ -483,7 +489,7 @@ Publications:
       label: IMWUT
       description: >-
         Zihan Yan, Jiayi Zhou, Yufei Wu, Guanhong Liu, Danli, Luo, Zihong Zhou,
-        Haipeng Mi, Lingyun Sun, Xiang `Anthony' Chen, Ye Tao, Yang Zhang,
+        Haipeng Mi, Lingyun Sun, Xiang 'Anthony' Chen, Ye Tao, Yang Zhang,
         Guanyun Wang. Shoes++: A Smart Detachable Sole for Social Foot-to-foot
         Interaction. Proceedings of the ACM on Interactive, Mobile, Wearable and
         Ubiquitous Technologies.
@@ -603,7 +609,7 @@ Publications:
       label: CHI
       description: >-
         Yuan Liang, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan
-        Zhang, Weibin Sun, Kun Wang, Lei He, Xiang Anthony Chen. OralCam:
+        Zhang, Weibin Sun, Kun Wang, Lei He, Xiang 'Anthony' Chen. OralCam:
         Enabling Self-Examination and Awareness of Oral Health Using a
         Smartphone Camera. Proceedings of the CHI '20: CHI Conference on Human
         Factors in Computing Systems, 2020.
@@ -852,7 +858,7 @@ Publications:
       endYear: ''
       label: Visual Computer
       description: >-
-        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang Chen, Wei Chen, Qunsheng Peng.
+        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang 'Anthony' Chen, Wei Chen, Qunsheng Peng.
         Perception-motivated visualization for 3D city scenes. The Visual
         Computer. 29.4 (2013): 277-286.
       link: ''
@@ -886,7 +892,7 @@ Publications:
       endYear: ''
       label: CAD/CG
       description: >-
-        Bin Pan, Xiang Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng. Interactive
+        Bin Pan, Xiang 'Anthony' Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng. Interactive
         Expressive Illustration of 3D City Scene. Proc. CAD/Graphics 2011.
       link: ''
   Dissertations & These:
@@ -903,7 +909,7 @@ Publications:
       label: M. Sc.
       description: |-
         Body-Centric Interaction with a Screen-based Handheld Device
-        Master's thesis, University of Calgary
+        Master’s thesis, University of Calgary
       link: 'https://prism.ucalgary.ca/handle/1880/106037'
   Book Chapters:
     - startYear: '2021'
@@ -940,7 +946,7 @@ Publications:
       description: >-
         Xinyue Gui, Koki Toda, Stela H. Seo, Felix Martin Eckert, Chia-Ming
         Chang, Xiang 'Anthony' Chen, Takeo Igarashi. A Field Study on
-        Pedestrians' Thoughts toward a Car with Gazing Eyes. Proceedings of the
+        Pedestrians’ Thoughts toward a Car with Gazing Eyes. Proceedings of the
         Extended Abstracts of the 2023 CHI Conference on Human Factors in
         Computing Systems, 2023.
       link: ''
@@ -1059,7 +1065,7 @@ Patents:
       endYear: ''
       label: ''
       description: >-
-        Hrvoje Benko, Xiang Chen, and Kenneth Paul Hinckley. Motion and context
+        Hrvoje Benko, Xiang 'Anthony' Chen, and Kenneth Paul Hinckley. Motion and context
         sharing for pen-based computing inputs. U.S. Patent 9,201,520, issued
         December 1, 2015.
       link: 'https://patents.google.com/patent/US9201520/'
@@ -1154,7 +1160,7 @@ Press:
       endYear: ''
       label: ''
       description: |-
-        Let's Redesign the Laptop for a Work-From-Home Era 
+        Let’s Redesign the Laptop for a Work-From-Home Era 
         Wall Street Journal
       link: >-
         https://www.wsj.com/articles/lets-redesign-the-laptop-for-a-work-from-home-era-11615318285
@@ -1220,7 +1226,7 @@ Press:
       label: ''
       description: |-
         Tablet+Stylus Interaction (collaborated with Ken Hinckley)
-        FastCo Design's #2 User Interface Innovation of 2014
+        FastCo Design’s #2 User Interface Innovation of 2014
       link: ''
     - startYear: '2012'
       endYear: ''
