@@ -353,6 +353,18 @@ Publications:
         species—Insights from the 2022 edition of the Mitosis Domain
         Generalization Challenge. Medical Image Analysis, 94, 103155. 
       link: 'https://doi.org/10.1016/j.media.2024.103155'
+    - startYear: '2024'
+      endYear: ''
+      label: IJHCS
+      description: >-
+        Hongyan Gu, Chunxu Yang, Shino Magaki, Neda Zarrin-Khameh, Nelli S.
+        Lakis, Inma Cobos, Negar Khanlou, Xinhai R. Zhang, Jasmeet Assi, Joshua
+        T. Byers, Ameer Hamza, Karam Han, Anders Meyer, Hilda Mirbaha, Carrie A.
+        Mohila, Todd M. Stevens, Sara L. Stone, Wenzhong Yan, Mohammad Haeri,
+        Xiang 'Anthony' Chen. Majority voting of doctors improves
+        appropriateness of AI reliance in pathology. International Journal of
+        Human-Computer Studies, p.103315.
+      link: 'https://doi.org/10.1016/j.ijhcs.2024.103315'
     - startYear: '2023'
       endYear: ''
       label: UIST
@@ -858,9 +870,9 @@ Publications:
       endYear: ''
       label: Visual Computer
       description: >-
-        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang 'Anthony' Chen, Wei Chen, Qunsheng Peng.
-        Perception-motivated visualization for 3D city scenes. The Visual
-        Computer. 29.4 (2013): 277-286.
+        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang 'Anthony' Chen, Wei Chen,
+        Qunsheng Peng. Perception-motivated visualization for 3D city scenes.
+        The Visual Computer. 29.4 (2013): 277-286.
       link: ''
     - startYear: '2012'
       endYear: ''
@@ -892,8 +904,9 @@ Publications:
       endYear: ''
       label: CAD/CG
       description: >-
-        Bin Pan, Xiang 'Anthony' Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng. Interactive
-        Expressive Illustration of 3D City Scene. Proc. CAD/Graphics 2011.
+        Bin Pan, Xiang 'Anthony' Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng.
+        Interactive Expressive Illustration of 3D City Scene. Proc. CAD/Graphics
+        2011.
       link: ''
   Dissertations & These:
     - startYear: '2017'
@@ -1065,9 +1078,9 @@ Patents:
       endYear: ''
       label: ''
       description: >-
-        Hrvoje Benko, Xiang 'Anthony' Chen, and Kenneth Paul Hinckley. Motion and context
-        sharing for pen-based computing inputs. U.S. Patent 9,201,520, issued
-        December 1, 2015.
+        Hrvoje Benko, Xiang 'Anthony' Chen, and Kenneth Paul Hinckley. Motion
+        and context sharing for pen-based computing inputs. U.S. Patent
+        9,201,520, issued December 1, 2015.
       link: 'https://patents.google.com/patent/US9201520/'
 Funding:
   '':
@@ -1153,6 +1166,15 @@ Funding:
         Improve Models Underlying Intelligent Systems
 
         Xiang 'Anthony' Chen (Sole PI)
+      link: ''
+    - startYear: '2024'
+      endYear: '2025'
+      label: '$75,000'
+      description: >-
+        Amazon Science Hub: Human-Centered Design of AI Systems to Support Drug
+        Discovery
+
+        Xiang 'Anthony' Chen (PI), Eunice Jun (Co-PI), Varghese John (Co-PI)
       link: ''
 Press:
   Research Conducted or Led by Me:
