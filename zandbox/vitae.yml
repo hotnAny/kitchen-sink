@@ -356,6 +356,18 @@ Publications:
         species—Insights from the 2022 edition of the Mitosis Domain
         Generalization Challenge. Medical Image Analysis, 94, 103155. 
       link: 'https://doi.org/10.1016/j.media.2024.103155'
+    - startYear: '2024'
+      endYear: ''
+      label: IJHCS
+      description: >-
+        Hongyan Gu, Chunxu Yang, Shino Magaki, Neda Zarrin-Khameh, Nelli S.
+        Lakis, Inma Cobos, Negar Khanlou, Xinhai R. Zhang, Jasmeet Assi, Joshua
+        T. Byers, Ameer Hamza, Karam Han, Anders Meyer, Hilda Mirbaha, Carrie A.
+        Mohila, Todd M. Stevens, Sara L. Stone, Wenzhong Yan, Mohammad Haeri,
+        Xiang 'Anthony' Chen. Majority voting of doctors improves
+        appropriateness of AI reliance in pathology. International Journal of
+        Human-Computer Studies, p.103315.
+      link: 'https://doi.org/10.1016/j.ijhcs.2024.103315'
     - startYear: '2023'
       endYear: ''
       label: UIST
@@ -1157,6 +1169,15 @@ Funding:
         Improve Models Underlying Intelligent Systems
 
         Xiang 'Anthony' Chen (Sole PI)
+      link: ''
+    - startYear: '2024'
+      endYear: '2025'
+      label: '$75,000'
+      description: >-
+        Amazon Science Hub: Human-Centered Design of AI Systems to Support Drug
+        Discovery
+
+        Xiang 'Anthony' Chen (PI), Eunice Jun (Co-PI), Varghese John (Co-PI)
       link: ''
 Press:
   Research Conducted or Led by Me:
