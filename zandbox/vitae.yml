@@ -85,7 +85,8 @@ Awards:
       endYear: ''
       label: ''
       description: Intel Rising Star Award
-      link: ''
+      link: >-
+        https://www.intel.com/content/www/us/en/research/blogs/intel-rising-stars-awards-2022.html
     - startYear: '2022'
       endYear: ''
       label: ''
@@ -95,12 +96,13 @@ Awards:
       endYear: ''
       label: ''
       description: Google Research Scholar Award
-      link: ''
+      link: 'https://research.google/outreach/research-scholar-program/recipients/'
     - startYear: '2021'
       endYear: ''
       label: ''
       description: ONR Young Investigator Award
-      link: ''
+      link: >-
+        https://www.nre.navy.mil/education-outreach/sponsored-research/yip/2021-young-investigators
     - startYear: '2021'
       endYear: ''
       label: ''
@@ -110,7 +112,8 @@ Awards:
       endYear: ''
       label: ''
       description: Hellman Fellowship
-      link: ''
+      link: >-
+        https://www.universityofcalifornia.edu/sites/default/files/hellman-fellows-2020.pdf
     - startYear: '2020'
       endYear: ''
       label: ''
@@ -1087,6 +1090,15 @@ Patents:
       link: 'https://patents.google.com/patent/US9201520/'
 Funding:
   '':
+    - startYear: '2024'
+      endYear: '2025'
+      label: '$75,000'
+      description: >-
+        Amazon Science Hub: Human-Centered Design of AI Systems to Support Drug
+        Discovery
+
+        Xiang 'Anthony' Chen (PI), Eunice Jun (Co-PI), Varghese John (Co-PI)
+      link: ''
     - startYear: '2023'
       endYear: ''
       label: '$20,000'
@@ -1169,15 +1181,6 @@ Funding:
         Improve Models Underlying Intelligent Systems
 
         Xiang 'Anthony' Chen (Sole PI)
-      link: ''
-    - startYear: '2024'
-      endYear: '2025'
-      label: '$75,000'
-      description: >-
-        Amazon Science Hub: Human-Centered Design of AI Systems to Support Drug
-        Discovery
-
-        Xiang 'Anthony' Chen (PI), Eunice Jun (Co-PI), Varghese John (Co-PI)
       link: ''
 Press:
   Research Conducted or Led by Me:
@@ -1440,7 +1443,7 @@ Teaching & Mentoring:
       endYear: Now
       label: ECE 209AS
       description: |-
-        Human-Computer Interaction
+        Human Factors in Artificial Intelligence
         ECE Department, UCLA
       link: 'https://hci.ucla.edu/209as'
     - startYear: '2015'
@@ -1500,6 +1503,8 @@ Teaching & Mentoring:
       endYear: Now
       label: ''
       description: |-
+        Ziwen Li (UCLA ECE)
+        Christopher Hwang (UCLA ECE)
         Wayne Zhang (UCLA ECE)
         Roy Jara (UCLA ECE)
         Yifan Xu (UCLA ECE)
