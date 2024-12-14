@@ -291,7 +291,8 @@ Publications:
       description: >-
         Noyan Evirgen, Ruolin Wang, Xiang 'Anthony' Chen. From Text to Pixels:
         Enhancing User Understanding through Text-to-Image Model Explanations.
-        To appear at IUI 2024.
+        In Proceedings of the 29th International Conference on Intelligent User
+        Interfaces.
       link: ''
     - startYear: '2024'
       endYear: ''
@@ -299,7 +300,8 @@ Publications:
       description: >-
         Xingyu Bruce Liu, Jiahao Nick Li, David Kim, Xiang 'Anthony' Chen,
         Ruofei Du. Human I/O: Towards a Unified Approach to Detecting
-        Situational Impairments. To appear at CHI 2024.
+        Situational Impairments. In Proceedings of the 2024 CHI Conference on
+        Human Factors in Computing Systems.
       award: Best Paper Honorable Mention Award
       link: ''
     - startYear: '2024'
@@ -326,8 +328,9 @@ Publications:
       endYear: ''
       label: alt.chi
       description: >-
-        Xiang 'Anthony' Chen. HCI Papers Cite HCI Papers, Increasingly So. To
-        appear at CHI 2024.
+        Xiang 'Anthony' Chen. HCI Papers Cite HCI Papers, Increasingly So. In
+        Proceedings of the 2024 CHI Conference on Human Factors in Computing
+        Systems.
       link: ''
     - startYear: '2024'
       endYear: ''
@@ -335,8 +338,8 @@ Publications:
       description: >-
         Hongyan Gu, Zihan Yan, Ayesha Alvi, Brandon Day, Chunxu Yang, Zida Wu,
         Shino Magaki, Mohammad Haeri, Xiang 'Anthony' Chen. Supporting Mitosis
-        Detection AI Training with Inter-Observer Eye-Gaze Consistencies. To
-        appear at IEEE ICHI 2024.
+        Detection AI Training with Inter-Observer Eye-Gaze Consistencies. In
+        2024 IEEE 12th International Conference on Healthcare Informatics.
       link: ''
     - startYear: '2024'
       endYear: ''
@@ -858,9 +861,9 @@ Publications:
       endYear: ''
       label: Visual Computer
       description: >-
-        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang 'Anthony' Chen, Wei Chen, Qunsheng Peng.
-        Perception-motivated visualization for 3D city scenes. The Visual
-        Computer. 29.4 (2013): 277-286.
+        Bin Pan, Yong Zhao, Xiaoming Guo, Xiang 'Anthony' Chen, Wei Chen,
+        Qunsheng Peng. Perception-motivated visualization for 3D city scenes.
+        The Visual Computer. 29.4 (2013): 277-286.
       link: ''
     - startYear: '2012'
       endYear: ''
@@ -892,8 +895,9 @@ Publications:
       endYear: ''
       label: CAD/CG
       description: >-
-        Bin Pan, Xiang 'Anthony' Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng. Interactive
-        Expressive Illustration of 3D City Scene. Proc. CAD/Graphics 2011.
+        Bin Pan, Xiang 'Anthony' Chen, Xiaoming Guo, Wei Chen, Qunsheng Peng.
+        Interactive Expressive Illustration of 3D City Scene. Proc. CAD/Graphics
+        2011.
       link: ''
   Dissertations & These:
     - startYear: '2017'
@@ -1065,9 +1069,9 @@ Patents:
       endYear: ''
       label: ''
       description: >-
-        Hrvoje Benko, Xiang 'Anthony' Chen, and Kenneth Paul Hinckley. Motion and context
-        sharing for pen-based computing inputs. U.S. Patent 9,201,520, issued
-        December 1, 2015.
+        Hrvoje Benko, Xiang 'Anthony' Chen, and Kenneth Paul Hinckley. Motion
+        and context sharing for pen-based computing inputs. U.S. Patent
+        9,201,520, issued December 1, 2015.
       link: 'https://patents.google.com/patent/US9201520/'
 Funding:
   '':
