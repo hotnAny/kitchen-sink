@@ -5275,3 +5275,1512 @@ Timestamp,Grade,Type of problem,Types of holds,Number of attempts,Is it a send?,
 5/22/2024 16:10:59,V7,Arête,"Jug, Sloper, Undercling",4,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Yes,,Maybe,No
 5/22/2024 16:15:07,V5,Arête,"Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Yes,Maybe
 5/22/2024 16:17:58,V5,Arête,"Pinch, Side-pull",3,No,,"Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+5/26/2024 14:50:54,V4,Vertical,"Jug, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,Maybe
+5/26/2024 14:53:12,V4,Vertical,"Jug, Undercling",3,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+5/26/2024 14:54:55,V4,Vertical,"Jug, Undercling",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+5/26/2024 14:57:27,V4,Arête,"Edge, Sloper, Side-pull",1,Yes,7,,,No,Maybe,No,,Yes,Yes
+5/26/2024 15:03:06,V5,Vertical,"Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+5/26/2024 15:05:36,V5,Vertical,"Crimp, Undercling, Side-pull",2,Yes,6,,,No,Yes,Maybe,,Yes,Maybe
+5/26/2024 15:11:29,V6,Roof,"Jug, Undercling",1,No,,Lack familiarity with the move,,No,No,No,,No,No
+5/26/2024 15:14:10,V6,Roof,"Jug, Edge, Undercling",2,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+5/26/2024 15:21:46,V7,Roof,"Jug, Undercling",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+5/26/2024 15:27:31,V6,Roof,"Jug, Undercling, Side-pull",2,Yes,6,,,No,Maybe,Maybe,,Yes,Yes
+5/26/2024 15:32:35,V6,Roof,"Crimp, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+5/26/2024 15:34:59,V6,Roof,"Crimp, Side-pull",2,No,,Beta to the next move,,Maybe,Maybe,No,,Maybe,No
+5/26/2024 15:37:36,V6,Roof,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+5/26/2024 15:40:38,V6,Roof,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+5/26/2024 15:42:31,V6,Roof,"Crimp, Side-pull",5,No,,Beta to the next move,,No,No,No,,Maybe,No
+5/26/2024 15:45:37,V7,Vertical,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,Maybe
+5/26/2024 15:49:36,V7,Vertical,"Crimp, Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,Yes,Yes
+5/26/2024 15:52:48,V7,Roof,"Crimp, Sloper, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,No,Maybe,Yes,,Maybe,Maybe
+5/26/2024 15:55:05,V7,Vertical,"Crimp, Sloper, Side-pull",4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Yes
+5/26/2024 15:58:36,V7,Vertical,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Footwork issue",,Maybe,Yes,Yes,,Yes,Yes
+5/26/2024 16:04:36,V7,Roof,"Jug, Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+5/26/2024 16:07:33,V5,Vertical,"Crimp, Side-pull",1,Yes,6,,,Maybe,Maybe,Yes,,Yes,Maybe
+5/26/2024 16:11:30,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Yes
+5/26/2024 16:13:58,V6,Roof,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+5/26/2024 16:17:02,V6,Roof,"Crimp, Undercling, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+5/26/2024 16:20:29,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+5/26/2024 16:24:10,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",5,No,,"Cannot grab on to the hold, Too tired",,Maybe,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 15:34:36,V4,Vertical,"Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+5/29/2024 15:37:02,V4,Vertical,"Pinch, Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,No
+5/29/2024 15:39:00,V4,Vertical,"Pinch, Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,Maybe,,Maybe,No
+5/29/2024 15:40:38,V4,Vertical,"Pinch, Sloper, Undercling, Side-pull",5,Yes,6,,,No,Yes,Yes,,Yes,No
+5/29/2024 15:43:36,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+5/29/2024 15:45:25,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+5/29/2024 15:46:48,V5,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+5/29/2024 15:48:42,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+5/29/2024 15:50:29,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",5,No,,Beta to the next move,,No,No,No,,No,No
+5/29/2024 15:52:57,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+5/29/2024 15:54:47,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+5/29/2024 15:56:33,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",8,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+5/29/2024 16:02:34,V5,Overhang,"Crimp, Pinch, Side-pull",2,No,,Beta to the next move,,No,Yes,Maybe,,Maybe,No
+5/29/2024 16:05:34,V5,Overhang,"Crimp, Pinch, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold, Wrong body position",,No,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 16:07:19,V5,Arête,"Crimp, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,No
+5/29/2024 16:09:38,V5,Arête,"Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Lack familiarity with the move, Footwork issue",,Maybe,Yes,Maybe,,Yes,Maybe
+5/29/2024 16:14:37,V5,Arête,"Crimp, Pinch, Side-pull",6,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+5/29/2024 16:17:06,V5,Arête,"Crimp, Pinch, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence, Wrong body position",,No,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 16:18:57,V5,Arête,"Crimp, Pinch, Side-pull",7,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+5/29/2024 16:21:14,V5,Arête,"Crimp, Pinch, Side-pull",8,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Yes,Maybe,,Yes,Yes
+5/29/2024 16:23:35,V5,Arête,"Crimp, Pinch, Side-pull",9,No,,Beta to the next move,,Maybe,Yes,Yes,,Maybe,Maybe
+5/29/2024 16:26:07,V5,Arête,"Crimp, Pinch, Side-pull",10,No,,Wrong body position,,Maybe,Yes,Maybe,,Yes,Maybe
+5/29/2024 16:28:44,V5,Arête,"Crimp, Pinch, Side-pull",11,No,,"Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 16:31:21,V6,Overhang,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Wrong body position",,No,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 16:33:49,V6,Overhang,"Crimp, Side-pull",2,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+5/29/2024 16:38:06,V8,Arête,"Edge, Crimp, Side-pull",1,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+5/29/2024 16:39:32,V8,Arête,"Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Yes,No,Yes,,Maybe,No
+5/29/2024 16:41:00,V8,Arête,"Crimp, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Yes,No,Yes,,Maybe,Yes
+5/29/2024 16:42:42,V8,Arête,"Crimp, Side-pull",5,No,,"Cannot grab on to the hold, Too tired",,Maybe,Maybe,No,,Maybe,No
+5/29/2024 16:44:02,V8,Arête,"Crimp, Side-pull",6,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Yes,,Maybe,Maybe
+5/29/2024 16:45:50,V8,Arête,"Crimp, Side-pull",7,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Yes,Maybe,Maybe,,Maybe,No
+5/29/2024 16:47:37,V8,Arête,"Crimp, Side-pull",8,No,,"Cannot grab on to the hold, Too tired",,Yes,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 16:50:22,V8,Overhang,"Jug, Edge, Crimp, Undercling",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+5/29/2024 16:53:48,V7,Arête,"Jug, Edge, Sloper, Side-pull",1,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+5/29/2024 16:56:03,V8,Vertical,"Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,No
+5/29/2024 16:58:13,V5,Slab,"Crimp, Side-pull",2,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Maybe,,Maybe,Maybe
+5/29/2024 17:00:12,V5,Slab,"Crimp, Side-pull",3,Yes,5,,,No,Yes,Yes,,Yes,Maybe
+6/1/2024 10:43:59,V4,Vertical,"Pinch, Sloper, Side-pull",1,Yes,6,,,No,Maybe,No,,Maybe,Yes
+6/1/2024 10:47:03,V5,Roof,Undercling,2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/1/2024 10:50:45,V5,Overhang,"Jug, Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+6/1/2024 10:54:56,V5,Overhang,"Sloper, Side-pull",4,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,No
+6/1/2024 11:02:02,V5,Roof,"Jug, Sloper, Side-pull",5,Yes,6,,,Maybe,Maybe,Maybe,,Yes,Maybe
+6/1/2024 11:15:51,V6,Vertical,"Crimp, Pinch, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 11:16:34,V6,Vertical,"Crimp, Pinch, Undercling, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,No
+6/1/2024 11:18:27,V6,Vertical,"Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/1/2024 11:22:14,V6,Vertical,"Crimp, Pinch, Side-pull",4,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+6/1/2024 11:24:48,V6,Vertical,"Pinch, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/1/2024 11:26:38,V6,Vertical,"Pinch, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Maybe,,Maybe,Maybe
+6/1/2024 11:29:23,V6,Vertical,"Pinch, Side-pull",7,Yes,6,,,No,Yes,Maybe,,Yes,Maybe
+6/1/2024 11:38:01,V8,Roof,Pinch,2,No,,Beta to the next move,,No,Maybe,No,,No,Maybe
+6/1/2024 12:16:17,V8,Roof,"Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 12:18:28,V8,Roof,"Crimp, Pinch",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,No
+6/1/2024 12:19:08,V8,Roof,"Crimp, Pinch, Side-pull",4,No,,"Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,No,Yes,,Maybe,No
+6/1/2024 12:21:16,V8,Roof,"Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 12:22:56,V8,Roof,"Crimp, Pinch, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+6/1/2024 12:25:43,V7,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,No,,Maybe,Maybe
+6/1/2024 12:28:06,V8,Arête,"Crimp, Side-pull",1,No,,Cannot grab on to the hold,,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 12:30:18,V8,Roof,"Crimp, Pinch, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/1/2024 12:33:06,V6,Arête,"Edge, Crimp, Pinch, Side-pull",1,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+6/1/2024 12:36:01,V6,Arête,"Crimp, Pinch, Side-pull",2,No,,Beta to the next move,,No,Yes,Maybe,,Yes,Maybe
+6/1/2024 12:38:36,V6,Arête,"Edge, Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 12:40:47,V6,Arête,"Edge, Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Too tired",,No,Yes,Maybe,,Yes,Maybe
+6/1/2024 12:46:32,V5,Arête,"Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+6/1/2024 12:49:53,V5,Arête,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,Maybe
+6/5/2024 14:55:04,V4,Vertical,"Sloper, Undercling, Side-pull",1,No,,Lack familiarity with the move,,No,Maybe,Yes,,Maybe,Maybe
+6/5/2024 14:56:56,V4,Vertical,"Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/5/2024 14:58:42,V4,Vertical,"Sloper, Undercling, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move, Wrong body position",,No,No,Maybe,,Maybe,Maybe
+6/5/2024 15:01:09,V4,Vertical,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Maybe,No
+6/5/2024 15:02:57,V4,Vertical,"Sloper, Undercling, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+6/5/2024 15:05:46,V4,Vertical,"Sloper, Undercling, Side-pull",5,No,,"Lack familiarity with the move, Dry fire",,No,Yes,No,,Maybe,No
+6/5/2024 15:07:47,V4,Vertical,"Sloper, Undercling, Side-pull",6,No,,Cannot grab on to the hold,,No,Yes,No,,Maybe,Maybe
+6/5/2024 15:10:18,V4,Vertical,"Sloper, Undercling, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+6/5/2024 15:11:48,V4,Vertical,"Jug, Sloper, Undercling, Side-pull",7,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+6/5/2024 15:13:46,V4,Vertical,"Jug, Sloper, Undercling, Side-pull",8,Yes,7,,,Maybe,Yes,No,,Yes,Yes
+6/5/2024 15:16:45,V5,Vertical,"Crimp, Side-pull",1,Yes,6,,,Maybe,No,Maybe,,Maybe,Maybe
+6/5/2024 15:22:26,V6,Vertical,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+6/5/2024 15:26:03,V6,Slab,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+6/5/2024 15:30:19,V6,Slab,"Edge, Sloper, Side-pull",3,Yes,6,,,No,Maybe,Yes,,Yes,Maybe
+6/5/2024 15:36:44,V7,Arête,"Pinch, Sloper, Undercling, Side-pull",1,No,,Too tired,,No,Maybe,Yes,,Yes,No
+6/5/2024 15:41:16,V5,Vertical,"Jug, Sloper, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,Maybe
+6/5/2024 15:48:38,V8,Overhang,"Crimp, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/5/2024 15:50:28,V8,Arête,"Crimp, Pinch, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+6/5/2024 15:52:10,V8,Arête,"Crimp, Pinch, Sloper, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,No
+6/5/2024 15:57:00,V8,Arête,"Crimp, Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Maybe,No
+6/5/2024 15:57:37,V8,Arête,"Crimp, Pinch, Sloper, Side-pull",5,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/5/2024 16:00:40,V7,Arête,"Edge, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+6/5/2024 16:03:37,V7,Arête,"Edge, Pinch, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/5/2024 16:06:54,V7,Arête,"Edge, Side-pull",3,No,,Finished second half,,No,Maybe,Maybe,,Maybe,Maybe
+6/5/2024 16:11:12,V6,Vertical,"Edge, Pinch",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,Maybe
+6/5/2024 16:13:28,V6,Vertical,"Edge, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/5/2024 16:15:58,V7,Vertical,"Jug, Sloper, Undercling",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+6/5/2024 16:17:31,V7,Vertical,"Jug, Sloper, Undercling, Side-pull",2,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Maybe
+6/5/2024 16:19:49,V7,Overhang,"Crimp, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Yes,Maybe,,Yes,Maybe
+6/5/2024 16:23:12,V5,Vertical,"Jug, Pinch, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+6/8/2024 13:59:34,V4,Overhang,"Jug, Pinch, Side-pull",1,Yes,5,,,Maybe,No,Maybe,,Maybe,No
+6/8/2024 14:05:43,V5,Vertical,"Crimp, Side-pull",1,Yes,6,,,Maybe,Maybe,Maybe,,Yes,Maybe
+6/8/2024 14:07:48,V6,Arête,"Crimp, Pinch, Sloper, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold, Dry fire",,No,Maybe,No,,Yes,Maybe
+6/8/2024 14:12:23,V6,Arête,"Crimp, Sloper, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too nervous",,No,Maybe,No,,Maybe,Maybe
+6/8/2024 14:15:14,V6,Arête,"Crimp, Sloper, Side-pull",3,No,,"Suboptimal sequence, Too nervous",,Maybe,Maybe,Maybe,,Maybe,No
+6/8/2024 14:18:46,V6,Arête,"Crimp, Sloper, Side-pull",4,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+6/8/2024 14:24:31,V6,Arête,"Crimp, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+6/8/2024 14:26:41,V6,Arête,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Yes,Maybe
+6/8/2024 14:29:35,V6,Arête,"Edge, Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,No,,Maybe,Maybe
+6/8/2024 14:32:10,V6,Arête,"Edge, Crimp, Pinch, Side-pull",4,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/8/2024 14:37:09,V5,Slab,"Edge, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Yes,Maybe
+6/8/2024 14:39:34,V5,Slab,"Edge, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Yes,Yes
+6/8/2024 14:41:45,V5,Slab,"Edge, Side-pull",6,No,,"Beta to the next move, Footwork issue",,No,Maybe,No,,Yes,Maybe
+6/8/2024 14:44:50,V6,Roof,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+6/8/2024 14:48:30,V6,Roof,"Crimp, Sloper, Undercling, Side-pull",3,No,,Suboptimal sequence,,No,No,No,,Maybe,Maybe
+6/8/2024 14:52:21,V6,Roof,"Crimp, Sloper, Undercling, Side-pull",4,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+6/8/2024 14:57:45,V7,Roof,"Jug, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+6/8/2024 15:01:05,V7,Roof,"Jug, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+6/8/2024 15:02:59,V7,Roof,"Jug, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Footwork issue",,No,No,Yes,,Yes,No
+6/8/2024 15:06:19,V7,Roof,"Jug, Crimp, Undercling, Side-pull",5,No,,Beta to the next move,,No,Yes,Yes,,Yes,Maybe
+6/8/2024 15:09:31,V7,Roof,"Jug, Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Yes,Maybe
+6/8/2024 15:15:08,V7,Roof,"Crimp, Sloper, Side-pull",1,No,,"Suboptimal sequence, Too tired",,No,No,Maybe,,Maybe,No
+6/8/2024 15:17:27,V7,Roof,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/8/2024 15:20:29,V7,Roof,"Crimp, Sloper, Undercling",4,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+6/8/2024 15:24:58,V6,Roof,"Crimp, Sloper, Side-pull",2,No,,"Lack familiarity with the move, Too tired",,No,No,Maybe,,Yes,Yes
+6/8/2024 15:29:46,V5,Vertical,"Crimp, Pinch, Side-pull",1,Yes,7,,,Maybe,Yes,Yes,,Maybe,Yes
+6/12/2024 9:34:28,V4,Arête,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+6/12/2024 9:36:25,V4,Arête,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/12/2024 9:39:20,V4,Arête,"Crimp, Side-pull",3,Yes,7,,,No,Maybe,Maybe,,Yes,Maybe
+6/12/2024 9:47:53,V5,Slab,Crimp,1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+6/12/2024 9:49:14,V5,Slab,Crimp,2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+6/12/2024 9:51:05,V5,Vertical,Crimp,3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,No
+6/12/2024 9:53:03,V5,Vertical,Crimp,4,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+6/12/2024 9:56:07,V5,Vertical,Crimp,5,No,,Cannot grab on to the hold,,No,Yes,No,,Yes,Maybe
+6/12/2024 9:57:47,V5,Vertical,Crimp,6,No,,Cannot grab on to the hold,,No,Yes,No,,Yes,Yes
+6/12/2024 9:59:38,V5,Vertical,Crimp,7,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+6/12/2024 10:04:21,V5,Vertical,Crimp,1,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+6/12/2024 10:09:58,V7,Roof,"Crimp, Sloper, Undercling, Side-pull",1,No,,Suboptimal sequence,,No,Maybe,Maybe,,Maybe,Yes
+6/12/2024 10:12:55,V7,Roof,"Jug, Crimp, Sloper",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/12/2024 10:16:27,V7,Roof,"Jug, Crimp, Sloper, Undercling",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+6/12/2024 10:18:23,V7,Roof,"Jug, Crimp, Sloper, Undercling",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/12/2024 10:20:47,V7,Roof,"Jug, Crimp, Sloper, Undercling",5,No,,Try out,,No,Maybe,No,,Maybe,No
+6/12/2024 10:25:55,V7,Roof,"Jug, Crimp, Sloper, Undercling, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Yes
+6/12/2024 10:27:40,V7,Roof,"Crimp, Side-pull",7,No,,Suboptimal sequence,,Maybe,Maybe,Yes,,Maybe,Maybe
+6/12/2024 10:32:09,V5,Vertical,"Crimp, Side-pull",8,No,,"Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/12/2024 10:37:12,V7,Vertical,"Crimp, Side-pull",8,No,,"Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/12/2024 10:40:44,V7,Roof,"Jug, Crimp, Sloper, Undercling",9,No,,"Suboptimal sequence, Too tired",,Yes,No,Maybe,,Yes,Maybe
+6/12/2024 10:45:48,V4,Vertical,"Jug, Crimp, Sloper, Side-pull",3,Yes,5,,,No,Maybe,Yes,,Maybe,Maybe
+6/12/2024 10:49:38,V7,Roof,"Jug, Crimp, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Yes,Maybe
+6/12/2024 10:51:53,V7,Roof,"Crimp, Side-pull",3,No,,Flexibility ,,No,Maybe,Maybe,,Maybe,Maybe
+6/12/2024 10:54:30,V7,Vertical,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,No,No
+6/12/2024 10:59:36,V6,Roof,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/12/2024 11:01:27,V6,Roof,Crimp,2,No,,Cannot grab on to the hold,,No,No,No,,Maybe,Maybe
+6/12/2024 11:05:04,V7,Roof,"Jug, Crimp, Side-pull",3,No,,Beta to the next move,,No,Yes,Maybe,,Yes,No
+6/12/2024 11:07:51,V7,Roof,"Jug, Pinch, Side-pull",4,Yes,6,,,Maybe,Maybe,Yes,,Maybe,No
+6/12/2024 11:15:47,V5,Roof,"Jug, Undercling, Side-pull",1,Yes,6,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/12/2024 11:20:08,V4,Arête,"Jug, Crimp, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,No
+6/15/2024 10:56:19,V4,Vertical,"Crimp, Side-pull",1,Yes,7,,,Maybe,Yes,Maybe,,Maybe,No
+6/15/2024 10:58:32,V5,Vertical,"Pinch, Side-pull",2,No,,"Beta to the next move, Footwork issue",,No,No,No,,Maybe,No
+6/15/2024 11:01:28,V5,Vertical,"Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Maybe
+6/15/2024 11:03:28,V5,Vertical,"Pinch, Sloper, Side-pull",5,Yes,6,,,No,Yes,Maybe,,Yes,Yes
+6/15/2024 11:18:47,V6,Vertical,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/15/2024 11:24:56,V6,Vertical,"Edge, Side-pull",4,Yes,,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/15/2024 11:34:39,V6,Slab,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/15/2024 11:36:28,V6,Slab,"Crimp, Side-pull",2,No,,"Suboptimal sequence, Dry fire",,No,Maybe,Maybe,,Maybe,No
+6/15/2024 11:38:31,V6,Slab,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+6/15/2024 11:40:54,V6,Slab,"Crimp, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,No,,Maybe,Maybe
+6/15/2024 11:45:05,V6,Slab,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/19/2024 10:21:15,V4,Vertical,Edge,1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+6/19/2024 10:22:33,V4,Vertical,Edge,2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+6/19/2024 10:24:16,V4,Vertical,"Edge, Side-pull",3,Yes,6,,,No,Yes,Yes,,Yes,Yes
+6/19/2024 10:31:29,V6,Arête,"Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/19/2024 10:35:28,V6,Arête,"Edge, Sloper, Undercling, Side-pull",2,No,,Beta to the next move,,No,Yes,Yes,,Maybe,Maybe
+6/19/2024 10:37:27,V6,Arête,"Edge, Sloper, Undercling, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,No
+6/19/2024 10:42:26,V6,Arête,"Edge, Sloper, Undercling, Side-pull",4,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Yes,,Maybe,Maybe
+6/19/2024 10:45:00,V6,Arête,"Edge, Crimp, Sloper, Undercling, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too nervous",,Maybe,Maybe,Yes,,Maybe,Maybe
+6/19/2024 10:47:08,V6,Arête,"Jug, Edge, Sloper, Undercling, Side-pull",6,Yes,6,,,No,Maybe,Yes,,Maybe,Maybe
+6/19/2024 10:53:27,V7,Arête,Crimp,1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,Maybe,,Yes,No
+6/19/2024 10:57:21,V7,Arête,"Crimp, Undercling, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,No
+6/19/2024 10:59:34,V7,Arête,"Crimp, Side-pull",2,No,,Cannot grab on to the hold,,No,No,No,,Maybe,No
+6/19/2024 11:06:43,V6,Overhang,"Sloper, Side-pull",1,No,,Suboptimal sequence,,No,No,No,,Maybe,No
+6/19/2024 11:09:02,V6,Overhang,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+6/19/2024 11:11:50,V6,Slab,"Edge, Side-pull",1,No,,"Lack familiarity with the move, Flexible ",,No,Maybe,No,,Maybe,Maybe
+6/19/2024 11:15:58,V6,Slab,"Edge, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/19/2024 11:17:30,V6,Slab,"Edge, Side-pull",2,No,,Finished second half,,No,Maybe,Yes,,Maybe,Maybe
+6/19/2024 11:23:58,V6,Slab,"Edge, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/19/2024 11:25:54,V6,Slab,"Edge, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/19/2024 11:28:23,V6,Overhang,"Sloper, Side-pull",3,No,,"Beta to the next move, Footwork issue",,No,Maybe,Maybe,,Maybe,No
+6/19/2024 11:32:24,V5,Slab,"Edge, Side-pull",1,Yes,7,,,No,No,Maybe,,Yes,Maybe
+6/19/2024 11:34:41,V6,Slab,"Edge, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+6/19/2024 11:37:22,V6,Overhang,"Edge, Side-pull",4,No,,"Beta to the next move, Too tired",,No,No,Yes,,Maybe,No
+6/19/2024 11:40:19,V6,Slab,"Edge, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/19/2024 11:42:55,V7,Overhang,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Maybe
+6/19/2024 11:45:06,V7,Overhang,"Jug, Edge, Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+6/23/2024 14:32:59,V4,Overhang,"Crimp, Pinch, Sloper, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+6/23/2024 14:36:01,V5,Vertical,"Jug, Crimp, Side-pull",1,Yes,7,,,No,Yes,Yes,,Maybe,Maybe
+6/23/2024 14:39:25,V6,Vertical,"Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+6/23/2024 14:43:52,V6,Vertical,"Pinch, Sloper, Side-pull",1,No,,Suboptimal sequence,,No,No,Yes,,Maybe,Maybe
+6/23/2024 14:45:46,V6,Vertical,"Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+6/23/2024 14:47:45,V6,Vertical,"Sloper, Side-pull",3,No,,"Beta to the next move, Footwork issue",,No,No,Maybe,,Maybe,Maybe
+6/23/2024 14:49:14,V6,Vertical,"Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+6/23/2024 14:51:12,V6,Vertical,"Sloper, Side-pull",5,No,,"Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,No
+6/23/2024 14:52:38,V6,Vertical,"Sloper, Side-pull",6,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,No
+6/23/2024 14:54:53,V6,Vertical,"Pinch, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,Yes,Yes,Yes,,Yes,No
+6/23/2024 14:56:48,V6,Vertical,"Sloper, Side-pull",7,No,,"Cannot grab on to the hold, Too tired",,Yes,Yes,Yes,,Yes,Maybe
+6/23/2024 15:00:48,V6,Roof,"Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/23/2024 15:04:12,V6,Roof,"Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+6/23/2024 15:05:58,V6,Roof,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Maybe,Maybe
+6/23/2024 15:10:03,V6,Roof,"Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/23/2024 15:12:17,V6,Roof,"Sloper, Undercling, Side-pull",6,No,,"Suboptimal sequence, Lack familiarity with the move, Footwork issue",,No,Maybe,No,,Maybe,No
+6/23/2024 15:15:01,V6,Roof,"Sloper, Undercling, Side-pull",6,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+6/23/2024 15:18:29,V6,Roof,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Yes,Maybe,,Yes,No
+6/23/2024 15:21:04,V6,Roof,"Crimp, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Yes,Maybe
+6/23/2024 15:23:57,V6,Roof,"Crimp, Side-pull",4,No,,"Lack familiarity with the move, Wrong body position",,No,Maybe,Yes,,Yes,Maybe
+6/23/2024 15:33:50,V6,Overhang,"Pinch, Sloper",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+6/23/2024 15:36:03,V6,Overhang,"Pinch, Sloper, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Yes,Maybe
+6/23/2024 15:39:12,V6,Arête,"Pinch, Sloper, Side-pull",3,No,,"Beta to the next move, Footwork issue",,No,Maybe,Maybe,,Maybe,No
+6/23/2024 15:48:11,V6,Roof,"Crimp, Side-pull",5,Yes,6,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/23/2024 15:52:16,V5,Arête,"Sloper, Side-pull",1,Yes,7,,,No,Maybe,No,,Yes,Yes
+6/23/2024 15:55:09,V6,Overhang,Crimp,1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+6/23/2024 16:01:28,V6,Roof,"Jug, Pinch, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Maybe,Maybe
+6/23/2024 16:09:03,V6,Roof,"Jug, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+6/23/2024 16:11:13,V6,Roof,"Jug, Pinch, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,Maybe,,Maybe,Maybe
+6/23/2024 16:14:49,V6,Roof,"Jug, Pinch",3,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/23/2024 16:18:49,V7,Overhang,"Edge, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,Maybe
+6/23/2024 16:20:56,V7,Overhang,"Edge, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Yes,,Maybe,Yes
+6/23/2024 16:23:47,V7,Overhang,"Edge, Side-pull",3,No,,"Suboptimal sequence, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,Maybe
+6/23/2024 16:25:59,V7,Overhang,"Edge, Sloper, Side-pull",3,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Maybe
+6/23/2024 16:31:07,V7,Roof,"Jug, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Maybe,,Yes,Maybe
+6/23/2024 16:35:21,V7,Roof,"Pinch, Side-pull",2,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/23/2024 16:38:27,V6,Vertical,"Sloper, Side-pull",7,No,,"Lack familiarity with the move, Footwork issue",,No,No,No,,Maybe,Yes
+6/23/2024 16:40:30,V6,Vertical,"Pinch, Sloper, Side-pull",8,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Maybe,,Maybe,Yes
+6/23/2024 16:42:52,V6,Vertical,"Sloper, Side-pull",9,No,,Beta to the next move,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/23/2024 16:45:10,V6,Roof,"Sloper, Side-pull",7,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Maybe
+6/23/2024 16:47:09,V4,Overhang,"Jug, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,No,No,,No,No
+6/23/2024 16:49:13,V4,Overhang,"Jug, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/27/2024 14:48:14,V4,Vertical,Pocket,3,Yes,5,,,No,Maybe,No,,Yes,Maybe
+6/27/2024 14:50:50,V5,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+6/27/2024 14:52:31,V5,Vertical,"Edge, Crimp, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+6/27/2024 14:54:22,V5,Vertical,"Edge, Crimp, Side-pull",4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,No
+6/27/2024 14:56:09,V5,Vertical,"Edge, Crimp, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 14:58:03,V5,Vertical,"Edge, Crimp, Side-pull",6,No,,"Cannot grab on to the hold, Wrong body position",,No,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 15:00:29,V5,Vertical,"Edge, Crimp, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Maybe
+6/27/2024 15:02:41,V5,Vertical,"Edge, Crimp, Side-pull",8,Yes,6,,,Maybe,Yes,Yes,,Yes,Yes
+6/27/2024 15:11:25,V6,Arête,"Crimp, Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Dry fire",,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:13:01,V6,Arête,"Crimp, Pinch, Side-pull",3,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:15:47,V6,Arête,"Edge, Crimp, Side-pull",4,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:18:26,V6,Arête,"Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,No,,Maybe,Maybe
+6/27/2024 15:22:37,V6,Arête,"Edge, Crimp, Side-pull",6,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:25:53,V6,Arête,"Edge, Crimp, Side-pull",6,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:29:40,V6,Arête,"Edge, Crimp, Side-pull",7,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:32:17,V6,Arête,"Edge, Crimp, Side-pull",8,No,,"Beta to the next move, Wrong body position",,Maybe,Maybe,No,,Maybe,Maybe
+6/27/2024 15:35:47,V6,Arête,"Edge, Crimp, Side-pull",8,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Yes,Maybe
+6/27/2024 15:38:10,V6,Vertical,"Jug, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+6/27/2024 15:39:58,V6,Vertical,"Sloper, Undercling",2,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+6/27/2024 15:42:02,V6,Vertical,"Sloper, Undercling, Side-pull",5,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 15:46:35,V7,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Footwork issue",,No,No,No,,Maybe,Maybe
+6/27/2024 15:47:56,V7,Vertical,"Crimp, Side-pull",4,No,,"Lack familiarity with the move, Footwork issue",,No,No,No,,Maybe,Maybe
+6/27/2024 15:50:20,V7,Vertical,"Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+6/27/2024 15:53:04,V7,Vertical,"Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 15:55:10,V7,Vertical,"Edge, Sloper, Side-pull",4,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 15:57:52,V7,Vertical,"Sloper, Undercling, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/27/2024 16:04:10,V7,Overhang,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+6/27/2024 16:06:04,V7,Overhang,"Edge, Crimp, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 16:08:23,V5,Vertical,"Jug, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+6/27/2024 16:09:48,V5,Vertical,"Jug, Side-pull",3,No,,Beta to the next move,,No,Maybe,Yes,,Yes,Maybe
+6/27/2024 16:13:41,V7,Roof,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Footwork issue",,Maybe,No,Maybe,,Maybe,Maybe
+6/27/2024 16:17:31,V7,Roof,"Crimp, Sloper, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Footwork issue",,Maybe,Maybe,Yes,,Maybe,Maybe
+6/27/2024 16:21:58,V7,Roof,"Sloper, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,Yes,Maybe,,Maybe,Maybe
+6/27/2024 16:23:32,V7,Roof,"Sloper, Side-pull",3,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+6/27/2024 16:25:26,V7,Roof,"Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+6/27/2024 16:28:50,V5,Slab,"Crimp, Undercling, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Yes,Maybe
+6/27/2024 16:31:35,V5,Slab,"Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/27/2024 16:33:22,V5,Slab,"Crimp, Undercling, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/27/2024 16:38:41,V6,Arête,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Footwork issue, Too tired",,No,Maybe,Maybe,,Maybe,No
+6/27/2024 16:42:01,V6,Roof,"Jug, Crimp, Side-pull",2,No,,"Cannot grab on to the hold, Footwork issue",,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 16:44:41,V6,Roof,"Jug, Crimp, Side-pull",3,No,,Dry fire,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/27/2024 16:48:46,V6,Roof,"Jug, Crimp, Side-pull",4,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Yes,,Maybe,Maybe
+6/27/2024 16:51:44,V6,Roof,"Jug, Crimp, Side-pull",5,No,,"Beta to the next move, Footwork issue",,Maybe,Yes,Maybe,,Maybe,Maybe
+6/30/2024 13:36:20,V4,Slab,"Crimp, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Yes,No
+6/30/2024 13:38:06,V5,Slab,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+6/30/2024 13:39:48,V5,Vertical,"Crimp, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Maybe,,Maybe,No
+6/30/2024 13:41:55,V5,Slab,"Crimp, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 13:43:19,V5,Slab,"Crimp, Side-pull",4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+6/30/2024 13:45:02,V5,Slab,"Crimp, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Maybe,,Maybe,No
+6/30/2024 13:47:11,V5,Slab,"Crimp, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,No
+6/30/2024 13:55:12,V5,Slab,"Crimp, Side-pull",7,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Maybe,,Maybe,No
+6/30/2024 13:58:17,V5,Slab,"Crimp, Side-pull",8,Yes,6,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 14:04:39,V6,Roof,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/30/2024 14:09:07,V6,Roof,"Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+6/30/2024 14:10:24,V6,Roof,"Sloper, Undercling, Side-pull",4,No,,Beta to the next move,,Maybe,Maybe,Maybe,,Maybe,No
+6/30/2024 14:12:22,V6,Vertical,"Sloper, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,Maybe,,Maybe,No
+6/30/2024 14:15:04,V6,Vertical,"Sloper, Side-pull",2,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 14:17:42,V6,Vertical,"Sloper, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 14:24:02,V6,Roof,"Jug, Crimp, Pinch",1,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,No
+6/30/2024 14:28:32,V6,Roof,"Jug, Crimp, Pinch, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Yes
+6/30/2024 14:31:29,V6,Roof,"Jug, Pinch, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 14:34:59,V6,Roof,"Jug, Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+6/30/2024 14:39:07,V6,Roof,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+6/30/2024 14:42:57,V6,Roof,"Jug, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+6/30/2024 14:48:28,V6,Roof,"Jug, Sloper, Side-pull",7,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+6/30/2024 14:51:50,V6,Roof,"Jug, Pinch, Sloper, Side-pull",8,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+6/30/2024 14:57:50,V6,Roof,"Sloper, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+6/30/2024 14:59:36,V6,Roof,"Pinch, Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 15:02:00,V6,Overhang,Crimp,1,No,,Beta to the next move,,No,Maybe,Maybe,,No,No
+6/30/2024 15:06:22,V7,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Yes,,Yes,Maybe
+6/30/2024 15:10:55,V7,Overhang,"Crimp, Pocket, Side-pull",2,No,,"Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+6/30/2024 15:13:36,V7,Overhang,"Crimp, Side-pull",3,No,,Suboptimal sequence,,Maybe,No,Yes,,Maybe,No
+6/30/2024 15:17:53,V5,Overhang,"Jug, Crimp, Side-pull",1,Yes,7,,,Maybe,No,Yes,,Maybe,Maybe
+6/30/2024 15:20:21,V5,Overhang,"Jug, Crimp, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Yes,Maybe
+6/30/2024 15:22:56,V5,Overhang,"Crimp, Side-pull",2,No,,Too tired,,Maybe,Maybe,Yes,,Maybe,Maybe
+6/30/2024 15:28:09,V5,Overhang,"Jug, Crimp, Side-pull",3,Yes,7,,,Yes,No,Yes,,Yes,No
+7/3/2024 14:52:37,V4,Vertical,"Jug, Sloper, Side-pull",1,Yes,7,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+7/3/2024 14:53:08,V5,Overhang,"Jug, Crimp, Side-pull",1,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+7/3/2024 14:56:37,V6,Overhang,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+7/3/2024 14:58:30,V6,Overhang,"Sloper, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+7/3/2024 15:00:26,V6,Overhang,"Sloper, Side-pull",4,No,,"Suboptimal sequence, Cannot grab on to the hold, Dry fire",,No,Maybe,Maybe,,Yes,Yes
+7/3/2024 15:02:27,V6,Overhang,"Sloper, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold, Dry fire",,No,No,No,,Maybe,Maybe
+7/3/2024 15:05:12,V6,Overhang,"Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+7/3/2024 15:06:57,V6,Overhang,"Sloper, Side-pull",6,No,,"Wrong body position, Footwork issue",,No,No,No,,Maybe,No
+7/3/2024 15:11:27,V6,Vertical,"Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+7/3/2024 15:13:09,V6,Vertical,"Sloper, Side-pull",4,No,,"Beta to the next move, Too tired",,No,Yes,No,,Maybe,Maybe
+7/3/2024 15:15:12,V6,Arête,"Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+7/3/2024 15:17:47,V6,Arête,"Crimp, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Yes,,Maybe,No
+7/3/2024 15:21:20,V6,Arête,"Crimp, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+7/3/2024 15:23:03,V6,Arête,"Crimp, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,Maybe
+7/3/2024 15:27:34,V6,Arête,"Crimp, Side-pull",6,No,,Cannot grab on to the hold,,Maybe,Maybe,Yes,,Yes,Maybe
+7/3/2024 15:30:23,V6,Arête,"Crimp, Side-pull",8,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+7/3/2024 15:34:00,V7,Arête,"Jug, Crimp, Side-pull",1,Yes,7,,,No,Yes,Maybe,,Yes,Yes
+7/3/2024 15:39:20,V8,Arête,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Maybe,,Maybe,Maybe
+7/3/2024 15:40:45,V8,Arête,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+7/3/2024 15:42:51,V7,Arête,"Pinch, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+7/3/2024 15:44:58,V7,Arête,"Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,Maybe
+7/3/2024 15:47:08,V7,Arête,"Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+7/3/2024 15:54:27,V7,Vertical,"Edge, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+7/3/2024 15:56:21,V7,Vertical,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+7/3/2024 16:02:51,V6,Vertical,"Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Footwork issue",,No,Maybe,No,,Maybe,No
+7/3/2024 16:05:16,V6,Vertical,"Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Yes,Yes
+7/3/2024 16:13:20,V6,Vertical,"Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+7/3/2024 16:15:54,V6,Vertical,"Edge, Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+7/3/2024 16:17:25,V6,Vertical,"Edge, Sloper, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,Maybe,,Maybe,Maybe
+7/3/2024 16:20:18,V6,Vertical,"Edge, Sloper, Side-pull",4,No,,Suboptimal sequence,,No,No,No,,Maybe,Maybe
+7/3/2024 16:22:07,V6,Vertical,"Edge, Sloper, Side-pull",4,No,,Beta to the next move,,No,Yes,Yes,,Yes,Maybe
+7/3/2024 16:26:02,V6,Vertical,"Edge, Sloper, Side-pull",5,No,,"Suboptimal sequence, Dry fire",,No,Maybe,Maybe,,Maybe,Maybe
+7/3/2024 16:33:38,V5,Vertical,"Edge, Crimp",1,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+7/3/2024 16:35:19,V5,Vertical,"Jug, Crimp, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Maybe,No
+7/3/2024 16:37:12,V5,Vertical,"Edge, Crimp, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,No
+7/3/2024 16:39:58,V5,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+7/3/2024 16:43:05,V5,Vertical,"Crimp, Side-pull",4,No,,"Suboptimal sequence, Too tired, Too nervous",,No,Maybe,No,,Yes,Maybe
+7/3/2024 16:46:03,V5,Vertical,"Jug, Crimp, Undercling, Side-pull",5,No,,"Suboptimal sequence, Footwork issue",,No,No,No,,No,No
+7/3/2024 16:48:47,V5,Vertical,"Crimp, Side-pull",6,Yes,6,,,No,Maybe,Yes,,Maybe,Maybe
+7/3/2024 16:52:42,V5,Arête,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+7/3/2024 16:55:30,V5,Overhang,"Jug, Sloper, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,No,Yes,,Maybe,No
+7/3/2024 16:57:36,V5,Overhang,"Jug, Sloper, Side-pull",2,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+7/7/2024 10:02:58,V4,Roof,"Jug, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Maybe,,Maybe,No
+7/7/2024 10:05:33,V4,Roof,"Jug, Side-pull",2,Yes,4,,,Maybe,Maybe,Yes,,Maybe,No
+7/7/2024 10:09:36,V5,Vertical,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+7/7/2024 10:13:17,V5,Vertical,"Jug, Sloper",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+7/7/2024 10:15:56,V5,Overhang,"Jug, Side-pull",1,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+7/7/2024 10:20:11,V5,Overhang,"Jug, Side-pull",3,No,,Finished second half,,No,Maybe,No,,Yes,Yes
+7/7/2024 10:21:53,V5,Overhang,Jug,4,No,,Beta to the next move,,No,No,No,,No,No
+7/7/2024 10:24:38,V5,Roof,"Jug, Sloper",3,No,,Beta to the next move,,No,No,No,,No,Maybe
+7/7/2024 10:28:40,V5,Roof,"Sloper, Undercling",5,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Yes,Yes
+7/7/2024 10:30:04,V5,Roof,"Sloper, Undercling",6,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Yes,,Yes,Maybe
+7/7/2024 10:32:11,V5,Roof,"Jug, Sloper, Side-pull",7,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Yes,No
+7/7/2024 10:36:43,V5,Roof,"Crimp, Sloper, Side-pull",7,No,,Lack familiarity with the move,,Maybe,No,Yes,,Yes,Yes
+7/7/2024 10:38:48,V5,Roof,"Crimp, Sloper, Side-pull",8,No,,Cannot grab on to the hold,,No,Maybe,Maybe,,Maybe,Yes
+7/7/2024 10:42:09,V5,Roof,"Jug, Sloper, Side-pull",8,No,,"Lack familiarity with the move, Wrong body position",,Maybe,Maybe,Yes,,Yes,Maybe
+7/7/2024 10:44:38,V7,Roof,"Jug, Sloper, Side-pull",9,Yes,7,,,Maybe,Maybe,Yes,,Maybe,Maybe
+7/7/2024 10:54:23,V7,Overhang,"Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,No
+7/7/2024 10:56:26,V6,Arête,"Crimp, Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,No
+7/7/2024 10:58:16,V7,Overhang,"Crimp, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,Maybe,,Maybe,No
+7/7/2024 11:00:07,V7,Overhang,"Crimp, Side-pull",3,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,No
+7/7/2024 11:04:47,V6,Vertical,"Sloper, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+7/7/2024 11:08:50,V6,Roof,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+7/7/2024 11:10:58,V6,Roof,"Jug, Crimp, Sloper",1,No,,"Beta to the next move, Footwork issue",,No,Maybe,Maybe,,Yes,Maybe
+7/7/2024 11:12:21,V6,Roof,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Yes,Yes
+7/7/2024 11:14:05,V6,Roof,"Crimp, Sloper, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 11:15:59,V6,Roof,"Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Yes,Yes
+7/7/2024 11:18:41,V6,Roof,"Jug, Sloper",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Yes
+7/7/2024 11:21:29,V6,Roof,"Jug, Sloper, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Yes,Yes
+7/7/2024 11:26:07,V6,Roof,"Pinch, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 11:28:40,V6,Roof,"Jug, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Yes
+7/7/2024 11:32:14,V6,Roof,"Jug, Pinch, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Yes
+7/7/2024 11:34:57,V6,Roof,"Jug, Sloper, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 11:40:13,V6,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+7/7/2024 11:42:26,V6,Vertical,"Crimp, Side-pull",2,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 11:45:17,V6,Vertical,"Crimp, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,No
+7/7/2024 11:48:17,V6,Overhang,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,No,No
+7/7/2024 11:50:23,V6,Arête,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+7/7/2024 11:52:29,V6,Arête,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Yes,No
+7/7/2024 11:54:33,V6,Arête,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,No
+7/7/2024 11:58:01,V6,Arête,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Yes,Yes
+7/7/2024 12:00:30,V6,Arête,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+7/7/2024 12:02:22,V6,Arête,"Crimp, Sloper, Side-pull",6,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+7/7/2024 12:04:34,V6,Arête,"Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+7/7/2024 12:09:11,V6,Overhang,"Crimp, Side-pull",5,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+7/7/2024 12:11:13,V6,Vertical,"Crimp, Side-pull",6,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,No
+7/7/2024 12:14:15,V6,Overhang,"Crimp, Side-pull",6,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 12:16:53,V5,Arête,"Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+7/7/2024 12:18:43,V5,Arête,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+7/7/2024 12:22:40,V5,Arête,"Crimp, Sloper, Side-pull",3,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+7/9/2024 14:53:39,V4,Vertical,"Crimp, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Maybe,Yes
+7/9/2024 14:55:56,V5,Overhang,"Pinch, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+7/9/2024 14:58:42,V5,Overhang,"Pinch, Side-pull",2,Yes,4,,,No,No,Maybe,,Maybe,No
+7/9/2024 15:03:57,V6,Roof,"Jug, Crimp, Side-pull",1,Yes,6,,,Maybe,Maybe,Maybe,,Yes,Maybe
+7/9/2024 15:11:06,V6,Overhang,"Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+7/9/2024 15:14:16,V6,Overhang,"Sloper, Undercling, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+7/9/2024 15:18:33,V6,Overhang,"Sloper, Undercling, Side-pull",3,No,,"Lack familiarity with the move, Too tired",,Maybe,No,Maybe,,Maybe,No
+7/9/2024 15:24:16,V8,Arête,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,No
+7/9/2024 15:26:26,V8,Overhang,"Sloper, Side-pull",2,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Maybe,,Maybe,No
+7/9/2024 15:29:29,V8,Arête,"Sloper, Side-pull",3,No,,Cannot grab on to the hold,,Maybe,No,Yes,,Maybe,No
+7/9/2024 15:31:38,V8,Arête,"Sloper, Side-pull",4,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Yes
+7/9/2024 15:34:03,V8,Arête,"Sloper, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+7/9/2024 15:36:28,V8,Arête,"Sloper, Side-pull",5,No,,"Cannot grab on to the hold, Footwork issue",,Maybe,No,Yes,,Maybe,No
+7/9/2024 15:38:10,V8,Arête,"Sloper, Side-pull",6,No,,Footwork issue,,Maybe,No,Maybe,,No,No
+7/9/2024 15:41:30,V8,Arête,"Sloper, Side-pull",7,No,,"Beta to the next move, Wrong body position",,No,Yes,Maybe,,Maybe,Maybe
+7/9/2024 15:47:02,V7,Roof,"Jug, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,No
+7/9/2024 15:49:24,V7,Overhang,"Jug, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+7/9/2024 15:51:48,V7,Overhang,"Jug, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+7/9/2024 15:55:30,V7,Overhang,"Jug, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Yes,,Maybe,No
+7/9/2024 15:57:20,V7,Overhang,"Jug, Side-pull",5,No,,"Suboptimal sequence, Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Maybe,,Maybe,No
+7/9/2024 16:03:51,V7,Overhang,"Jug, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold, Footwork issue",,No,Maybe,Maybe,,Maybe,No
+7/9/2024 16:07:10,V7,Overhang,"Jug, Crimp, Sloper, Undercling, Side-pull",7,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+7/9/2024 16:18:32,V7,Overhang,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+7/9/2024 16:16:14,V7,Overhang,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+7/9/2024 16:20:53,V7,Arête,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Yes,Maybe
+7/9/2024 16:22:45,V7,Overhang,"Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+7/9/2024 16:24:20,V7,Arête,"Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+7/9/2024 16:27:01,V7,Arête,"Sloper, Side-pull",5,No,,Beta to the next move,,No,No,No,,Maybe,Yes
+7/9/2024 16:28:52,V7,Arête,"Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+7/9/2024 16:31:46,V5,Arête,"Edge, Crimp, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+7/9/2024 16:32:23,V7,Arête,"Sloper, Side-pull",1,No,,"Beta to the next move, Too tired",,No,No,No,,No,No
+7/9/2024 16:34:44,V5,Arête,"Crimp, Sloper, Side-pull",2,No,,"Lack familiarity with the move, Too tired",,No,No,Maybe,,Maybe,No
+7/9/2024 16:36:36,V5,Arête,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,No,Yes,,Maybe,No
+7/15/2024 1:02:15,V5,Vertical,"Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+7/15/2024 1:04:40,V5,Vertical,"Jug, Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Yes,Maybe
+7/15/2024 1:07:56,V6,Vertical,"Jug, Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,Maybe
+7/15/2024 1:10:35,V6,Vertical,"Jug, Edge, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,Maybe
+7/15/2024 1:12:49,V5,Vertical,"Jug, Crimp, Pinch, Side-pull",4,Yes,5,,,No,Maybe,Maybe,,Yes,Maybe
+7/15/2024 1:16:54,V5,Vertical,"Pinch, Sloper, Side-pull",1,Yes,6,,,No,No,Maybe,,Yes,Maybe
+7/15/2024 1:20:05,V6,Arête,"Pinch, Sloper, Side-pull",1,No,,Suboptimal sequence,,No,No,Yes,,Maybe,Maybe
+7/15/2024 1:23:16,V6,Arête,"Jug, Pinch, Undercling, Side-pull",2,Yes,6,,,No,Maybe,Yes,,Yes,Yes
+7/15/2024 1:28:49,V7,Vertical,"Jug, Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+7/15/2024 1:31:05,V7,Vertical,"Jug, Pinch, Sloper, Side-pull",2,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+7/15/2024 1:35:19,V6,Vertical,"Edge, Crimp, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+7/15/2024 1:39:15,V6,Vertical,"Jug, Crimp, Side-pull",2,Yes,6,,,Maybe,Yes,Yes,,Yes,Yes
+7/15/2024 1:43:22,V7,Vertical,"Jug, Sloper, Side-pull",1,No,,Knee hot hold,,No,Maybe,No,,Maybe,Maybe
+7/15/2024 1:45:31,V7,Vertical,"Crimp, Sloper, Side-pull",2,Yes,,,,No,Maybe,Maybe,,Yes,Maybe
+7/15/2024 1:51:37,V5,Slab,"Edge, Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Missing foot hold",,No,Maybe,No,,Maybe,Yes
+7/15/2024 1:53:23,V5,Slab,"Edge, Crimp, Sloper, Undercling, Side-pull",2,Yes,,,,No,Maybe,Yes,,Yes,Yes
+7/15/2024 1:59:19,V7,Overhang,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Dry fire",,Yes,Maybe,Yes,,Yes,Maybe
+7/15/2024 2:01:38,V7,Overhang,"Crimp, Sloper, Side-pull",2,No,,Suboptimal sequence,,Yes,No,Maybe,,Maybe,Maybe
+7/15/2024 2:03:31,V7,Overhang,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+7/15/2024 2:05:33,V7,Overhang,"Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+7/15/2024 2:07:34,V7,Overhang,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+7/15/2024 2:12:23,V7,Overhang,"Crimp, Sloper, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+7/15/2024 2:15:31,V7,Vertical,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Yes
+7/15/2024 2:18:55,V6,Vertical,Crimp,1,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,No,,Yes,No
+7/15/2024 2:22:25,V6,Arête,"Crimp, Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+7/15/2024 2:26:55,V6,Arête,Sloper,2,No,,Beta to the next move,,No,Yes,Maybe,,Yes,Maybe
+7/15/2024 2:30:02,V6,Arête,"Crimp, Sloper, Side-pull",4,No,,Beta to the next move,,No,Yes,Maybe,,Yes,Yes
+7/21/2024 23:30:09,V4,Overhang,"Jug, Sloper, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+7/21/2024 23:32:24,V5,Vertical,"Jug, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+7/21/2024 23:34:56,V5,Vertical,"Edge, Crimp, Pinch, Undercling, Side-pull",1,Yes,7,,,No,Yes,Maybe,,Yes,Maybe
+7/21/2024 23:37:54,V5,Vertical,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+7/21/2024 23:39:24,V5,Vertical,"Edge, Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+7/21/2024 23:41:05,V5,Vertical,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+7/21/2024 23:45:29,V5,Vertical,"Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+7/21/2024 23:45:53,V5,Vertical,"Crimp, Sloper, Side-pull",6,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+7/21/2024 23:58:48,V4,Overhang,"Jug, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+8/5/2024 14:47:45,V4,Slab,"Crimp, Side-pull",1,Yes,6,,,No,Maybe,Yes,,Yes,No
+8/5/2024 14:51:51,V5,Vertical,"Crimp, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Yes,Maybe
+8/5/2024 14:53:24,V5,Vertical,"Crimp, Side-pull",2,Yes,6,,,Maybe,Yes,Yes,,Maybe,No
+8/5/2024 14:56:39,V6,Overhang,"Jug, Pocket, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Yes,,Yes,Maybe
+8/5/2024 14:57:48,V6,Overhang,"Jug, Pocket, Side-pull",2,No,,Practice ,,No,No,Maybe,,Maybe,Maybe
+8/5/2024 14:59:44,V6,Overhang,"Jug, Pocket, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,Maybe
+8/5/2024 15:07:29,V5,Arête,"Edge, Sloper",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:09:29,V5,Arête,"Crimp, Side-pull",2,No,,Beta to the next move,,Maybe,Maybe,Yes,,Yes,No
+8/5/2024 15:12:43,V5,Arête,"Edge, Crimp, Side-pull",3,Yes,,,,Maybe,Yes,Yes,,Yes,Maybe
+8/5/2024 15:15:56,V6,Overhang,"Crimp, Sloper",1,No,,Lack familiarity with the move,,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:19:10,V6,Overhang,"Crimp, Sloper",2,Yes,6,,,No,Maybe,Yes,,Yes,Maybe
+8/5/2024 15:23:44,V5,Slab,"Pinch, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:28:26,V5,Slab,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+8/5/2024 15:31:40,V5,Slab,"Edge, Sloper, Side-pull",3,Yes,7,,,No,Maybe,No,,Maybe,No
+8/5/2024 15:39:32,V7,Overhang,"Edge, Side-pull",2,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:42:46,V7,Overhang,"Crimp, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:46:35,V7,Overhang,"Crimp, Side-pull",3,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:48:37,V7,Overhang,"Crimp, Side-pull",4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Yes,Maybe
+8/5/2024 15:51:11,V7,Overhang,"Crimp, Side-pull",5,No,,"Suboptimal sequence, Too tired",,No,Yes,No,,Yes,Yes
+8/5/2024 15:56:30,V6,Vertical,"Crimp, Pinch, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+8/5/2024 15:59:22,V6,Vertical,"Crimp, Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,Maybe,No
+8/5/2024 15:59:48,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",1,No,,Suboptimal sequence,,No,No,No,,Maybe,Maybe
+8/5/2024 16:01:52,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+8/5/2024 16:03:56,V7,Vertical,"Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+8/8/2024 14:54:29,V4,Overhang,"Edge, Sloper, Side-pull",1,Yes,6,,,No,Yes,No,,Maybe,Maybe
+8/8/2024 14:56:43,V5,Overhang,"Sloper, Pocket, Side-pull",1,No,,"Lack familiarity with the move, Footwork issue",,Maybe,Maybe,Maybe,,No,No
+8/8/2024 14:59:20,V5,Overhang,"Sloper, Pocket, Side-pull",2,Yes,5,,,No,Maybe,Maybe,,Yes,No
+8/8/2024 15:05:24,V6,Vertical,"Jug, Sloper, Side-pull",2,No,,Lack familiarity with the move,,No,No,Yes,,Maybe,Maybe
+8/8/2024 15:07:47,V6,Vertical,"Jug, Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Yes,No
+8/8/2024 15:10:03,V6,Vertical,"Jug, Crimp, Sloper, Side-pull",4,No,,Beta to the next move,,No,No,Yes,,Yes,No
+8/8/2024 15:12:50,V6,Vertical,"Jug, Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Too nervous",,No,No,Yes,,Maybe,No
+8/8/2024 15:16:49,V6,Vertical,"Jug, Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,No
+8/8/2024 15:24:35,V6,Vertical,"Jug, Crimp, Sloper, Side-pull",7,Yes,6,,,Maybe,Maybe,Yes,,Maybe,Maybe
+8/8/2024 15:25:07,V6,Vertical,"Edge, Undercling, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Yes
+8/8/2024 15:27:38,V6,Vertical,"Edge, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Maybe,Maybe
+8/8/2024 15:30:50,V6,Vertical,"Edge, Undercling, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+8/8/2024 15:33:04,V6,Vertical,"Edge, Undercling, Side-pull",4,No,,Beta to the next move,,No,No,Yes,,No,Maybe
+8/8/2024 15:35:51,V6,Vertical,"Edge, Undercling, Side-pull",5,No,,"Beta to the next move, Too tired",,No,No,Yes,,Maybe,Maybe
+8/8/2024 15:39:40,V6,Vertical,Crimp,2,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,Maybe,,Maybe,Maybe
+8/8/2024 15:41:25,V6,Vertical,Crimp,4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Yes,,Yes,Maybe
+8/8/2024 15:43:37,V6,Vertical,Crimp,5,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,Yes,,Yes,No
+8/8/2024 15:45:17,V6,Vertical,Crimp,6,No,,"Beta to the next move, Wrong body position, Footwork issue",,No,Maybe,Yes,,Yes,Maybe
+8/8/2024 15:51:56,V6,Overhang,"Pinch, Sloper, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+8/8/2024 15:55:43,V6,Slab,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Yes,Maybe
+8/8/2024 15:57:19,V6,Slab,"Edge, Crimp, Side-pull",2,No,,Lack familiarity with the move,,No,Maybe,No,,Yes,Maybe
+8/8/2024 15:59:07,V6,Slab,"Edge, Crimp, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Maybe,,Yes,Maybe
+8/8/2024 16:01:29,V6,Slab,"Edge, Crimp, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold, Footwork issue",,No,Yes,Yes,,Maybe,Maybe
+8/8/2024 16:07:32,V6,Slab,"Crimp, Side-pull",5,No,,Beta to the next move,,No,Maybe,Yes,,Yes,Maybe
+8/8/2024 16:09:12,V7,Overhang,"Jug, Pinch, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+8/8/2024 16:12:35,V7,Overhang,"Jug, Crimp, Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,No
+8/8/2024 16:15:10,V7,Overhang,"Jug, Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Too tired",,Yes,Maybe,Yes,,Yes,Maybe
+8/8/2024 16:17:29,V5,Vertical,"Pinch, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+8/11/2024 16:10:06,V4,Vertical,"Pinch, Sloper, Side-pull",1,Yes,6,,,No,No,Maybe,,No,Maybe
+8/11/2024 16:12:54,V5,Slab,"Crimp, Sloper, Side-pull",1,Yes,7,,,No,Yes,No,,Yes,Maybe
+8/11/2024 16:17:56,V6,Overhang,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,Yes,Maybe,Yes,,Yes,Yes
+8/11/2024 16:21:17,V6,Overhang,"Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Too tired",,No,Maybe,Yes,,Maybe,Maybe
+8/11/2024 16:24:09,V6,Overhang,"Crimp, Undercling, Side-pull",3,Yes,6,,,No,Maybe,Yes,,Maybe,Maybe
+8/11/2024 16:31:22,V6,Overhang,"Jug, Pocket, Side-pull",1,Yes,7,,,No,Maybe,Yes,,Maybe,Maybe
+8/11/2024 16:37:01,V7,Overhang,"Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Yes,Maybe
+8/11/2024 16:39:10,V7,Overhang,Sloper,3,No,,"Beta to the next move, Missed a hold",,No,No,Yes,,Maybe,Yes
+8/11/2024 16:41:33,V7,Overhang,"Jug, Sloper, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Yes,Maybe
+8/11/2024 16:44:29,V7,Overhang,"Jug, Sloper, Side-pull",5,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Maybe,,Maybe,Maybe
+8/11/2024 16:48:57,V7,Vertical,"Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,No
+8/11/2024 16:50:50,V7,Vertical,"Pinch, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+8/11/2024 16:53:06,V7,Vertical,"Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Maybe,,Maybe,No
+8/11/2024 16:55:58,V7,Vertical,"Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,Maybe
+8/11/2024 16:58:45,V7,Vertical,"Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Maybe
+8/11/2024 17:02:45,V7,Vertical,"Pinch, Undercling, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Yes,Yes
+8/11/2024 17:07:03,V7,Vertical,"Pinch, Side-pull",5,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+8/11/2024 17:11:45,V7,Vertical,"Pinch, Undercling, Side-pull",6,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+8/11/2024 17:14:30,V7,Vertical,"Pinch, Undercling, Side-pull",7,No,,"Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,No
+8/11/2024 17:19:27,V6,Roof,"Jug, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Maybe,No
+8/11/2024 17:21:12,V6,Roof,"Jug, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,Maybe
+8/11/2024 17:24:30,V6,Roof,"Jug, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Yes,Maybe
+8/11/2024 17:26:41,V6,Roof,"Jug, Side-pull",4,No,,"Suboptimal sequence, Too tired",,No,No,Maybe,,Yes,Maybe
+8/11/2024 17:29:52,V5,Roof,"Jug, Side-pull",1,Yes,6,,,Yes,Maybe,Maybe,,Maybe,Maybe
+8/14/2024 14:00:30,V4,Vertical,"Crimp, Sloper, Side-pull",1,Yes,6,,,Maybe,Yes,Yes,,Maybe,Maybe
+8/14/2024 14:03:22,V5,Vertical,"Edge, Undercling, Side-pull",1,Yes,6,,,No,No,Maybe,,Yes,Maybe
+8/14/2024 14:05:55,V7,Overhang,"Jug, Pinch, Undercling, Side-pull",1,No,,Footwork issue,,No,Maybe,Maybe,,No,Maybe
+8/14/2024 14:13:02,V6,Overhang,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+8/14/2024 14:15:21,V6,Overhang,Undercling,2,Yes,6,,,No,Yes,Yes,,Maybe,Maybe
+8/14/2024 14:21:15,V6,Overhang,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Yes,Maybe,,Yes,Maybe
+8/14/2024 14:23:55,V6,Arête,"Jug, Pinch, Side-pull",1,Yes,6,,,Maybe,No,Maybe,,Maybe,No
+8/14/2024 14:27:31,V6,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+8/14/2024 14:30:01,V6,Overhang,"Jug, Crimp, Side-pull",1,Yes,,,,No,Yes,Yes,,Yes,Maybe
+8/14/2024 14:35:15,V6,Vertical,"Crimp, Side-pull",3,No,,Beta to the next move,,No,Yes,Yes,,Yes,Maybe
+8/14/2024 14:37:22,V7,Arête,"Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+8/14/2024 14:40:42,V7,Arête,"Sloper, Undercling",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,Maybe
+8/14/2024 14:44:53,V6,Arête,"Jug, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,No
+8/14/2024 14:47:56,V6,Arête,"Jug, Edge, Side-pull",3,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+8/14/2024 14:50:09,V6,Overhang,"Jug, Edge, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+8/14/2024 14:52:10,V6,Arête,"Jug, Edge, Side-pull",5,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+8/14/2024 15:00:27,V8,Vertical,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+8/14/2024 15:02:56,V8,Vertical,"Crimp, Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+8/14/2024 15:09:38,V8,Vertical,"Edge, Crimp",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+8/14/2024 15:12:19,V7,Vertical,"Pinch, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Yes,Maybe
+8/14/2024 15:14:05,V7,Vertical,"Pinch, Pocket, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Yes,,Maybe,Maybe
+8/14/2024 15:15:17,V7,Vertical,"Pinch, Pocket, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,Maybe
+8/14/2024 15:16:48,V7,Vertical,"Pinch, Pocket, Side-pull",4,No,,Cannot grab on to the hold,,Yes,Maybe,Yes,,Yes,Maybe
+8/14/2024 15:19:38,V6,Vertical,"Edge, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,No,Yes,,Maybe,No
+8/14/2024 15:21:10,V6,Vertical,"Edge, Undercling, Side-pull",2,Yes,7,,,No,Yes,Yes,,Yes,Yes
+8/18/2024 15:09:28,V4,Overhang,"Crimp, Sloper, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Maybe,No
+8/18/2024 15:12:14,V5,Overhang,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Yes,,Yes,Maybe
+8/18/2024 15:15:48,V5,Arête,"Edge, Side-pull",2,No,,"Beta to the next move, Footwork issue",,No,Maybe,Yes,,Yes,Maybe
+8/18/2024 15:19:06,V5,Overhang,"Edge, Side-pull",3,Yes,,,,Yes,Maybe,Yes,,Maybe,Yes
+8/18/2024 15:25:33,V7,Vertical,"Crimp, Pinch, Undercling",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+8/18/2024 15:30:04,V4,Slab,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+8/18/2024 15:31:36,V4,Slab,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,No,,Maybe,No
+8/18/2024 15:34:28,V4,Slab,"Edge, Crimp, Pinch, Side-pull",3,Yes,,,,No,Yes,Maybe,,Yes,Maybe
+8/18/2024 15:44:45,V8,Overhang,"Jug, Side-pull",2,No,,Beta to the next move,,No,No,No,,No,Maybe
+8/18/2024 15:48:09,V7,Vertical,"Edge, Crimp, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+8/18/2024 15:49:34,V7,Vertical,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,No,,Yes,Maybe
+8/18/2024 15:51:45,V7,Slab,"Edge, Crimp, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold, Footwork issue",,No,Maybe,No,,Maybe,Maybe
+8/18/2024 15:53:55,V7,Vertical,"Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Yes,Yes
+8/18/2024 15:59:02,V7,Vertical,"Edge, Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+8/18/2024 16:05:26,V6,Overhang,"Edge, Crimp, Side-pull",1,No,,Suboptimal sequence,,No,Maybe,Maybe,,Maybe,Maybe
+8/18/2024 16:07:44,V6,Overhang,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+8/18/2024 16:12:04,V6,Overhang,"Edge, Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+8/18/2024 16:13:54,V6,Overhang,"Edge, Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+8/18/2024 16:16:15,V6,Overhang,"Edge, Crimp, Side-pull",6,Yes,7,,,Yes,Maybe,Yes,,Yes,Yes
+8/18/2024 16:23:35,V8,Overhang,"Sloper, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Yes,,Maybe,Yes
+8/18/2024 16:24:09,V8,Vertical,"Jug, Undercling, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move, Footwork issue",,No,No,No,,Maybe,Maybe
+8/18/2024 16:25:36,V8,Vertical,"Jug, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Footwork issue",,No,No,No,,Maybe,No
+8/18/2024 16:28:22,V8,Vertical,"Jug, Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Footwork issue",,No,No,No,,Maybe,No
+8/18/2024 16:30:18,V8,Vertical,"Crimp, Undercling, Side-pull",5,No,,"Suboptimal sequence, Footwork issue",,No,No,No,,Maybe,No
+8/18/2024 16:36:29,V5,Arête,"Crimp, Side-pull",2,Yes,7,,,No,Maybe,No,,Yes,Maybe
+8/18/2024 16:41:36,V5,Overhang,"Pinch, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Maybe,Maybe
+8/18/2024 16:43:45,V6,Overhang,Jug,1,No,,Lack familiarity with the move,,No,No,No,,Maybe,Maybe
+8/18/2024 16:46:20,V6,Overhang,"Jug, Edge, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,Maybe
+8/18/2024 16:48:55,V6,Overhang,"Jug, Edge, Side-pull",3,Yes,7,,,Maybe,Maybe,Maybe,,Yes,Yes
+8/22/2024 15:17:22,V4,Vertical,"Crimp, Side-pull",1,No,,Suboptimal sequence,,No,Maybe,Yes,,Maybe,Maybe
+8/22/2024 15:18:50,V4,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,No,Maybe
+8/22/2024 15:21:32,V4,Vertical,"Crimp, Side-pull",3,Yes,6,,,No,Maybe,Yes,,Maybe,Maybe
+8/22/2024 15:24:05,V5,Arête,"Jug, Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+8/22/2024 15:26:27,V5,Arête,"Edge, Pinch, Sloper, Side-pull",2,Yes,6,,,No,No,Maybe,,Yes,No
+8/22/2024 15:31:31,V6,Vertical,"Jug, Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Yes,No
+8/22/2024 15:34:32,V6,Vertical,"Jug, Crimp, Pinch, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+8/22/2024 15:40:10,V6,Vertical,"Jug, Pinch, Side-pull",5,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Yes,,Maybe,No
+8/22/2024 15:41:45,V6,Vertical,"Jug, Edge, Pinch, Side-pull",6,No,,"Suboptimal sequence, Footwork issue",,No,No,No,,Maybe,No
+8/22/2024 15:44:40,V6,Vertical,"Jug, Edge, Pinch, Side-pull",7,No,,Beta to the next move,,No,Maybe,Yes,,Yes,Maybe
+8/22/2024 15:48:10,V6,Vertical,"Edge, Pinch, Side-pull",8,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Yes,,Yes,Maybe
+8/22/2024 15:51:45,V7,Arête,"Jug, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,Maybe
+8/22/2024 15:53:23,V7,Arête,"Jug, Undercling",3,No,,"Lack familiarity with the move, Footwork issue",,No,No,No,,Maybe,No
+8/22/2024 15:55:41,V7,Arête,"Jug, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Wrong body position",,No,Maybe,No,,Maybe,Maybe
+8/22/2024 15:58:56,V7,Arête,"Jug, Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Footwork issue",,No,Maybe,No,,Maybe,Yes
+8/22/2024 16:03:10,V7,Arête,"Jug, Crimp, Undercling, Side-pull",6,Yes,7,,,Maybe,Maybe,Maybe,,Yes,Yes
+8/22/2024 16:06:35,V7,Overhang,"Crimp, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+8/22/2024 16:11:14,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+8/22/2024 16:13:56,V6,Arête,"Crimp, Pinch, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Yes,Maybe
+8/22/2024 16:16:52,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+8/22/2024 16:20:10,V6,Arête,"Crimp, Pinch, Side-pull",5,No,,Suboptimal sequence,,No,Maybe,No,,Maybe,Maybe
+8/22/2024 16:24:06,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",6,No,,"Lack familiarity with the move, Footwork issue",,No,No,Maybe,,Maybe,Maybe
+8/22/2024 16:28:35,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",6,No,,"Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+8/22/2024 16:31:20,V7,Vertical,"Crimp, Sloper, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Yes,No
+8/22/2024 16:34:19,V7,Vertical,"Crimp, Sloper, Side-pull",2,Yes,7,,,No,No,Yes,,Yes,Yes
+8/22/2024 16:39:22,V5,Overhang,"Jug, Side-pull",1,Yes,7,,,No,Maybe,Yes,,Yes,No
+8/22/2024 16:41:50,V4,Slab,"Sloper, Side-pull",1,Yes,7,,,No,Yes,No,,Yes,Yes
+8/25/2024 14:59:18,V4,Arête,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+8/25/2024 15:00:36,V4,Arête,"Crimp, Sloper, Side-pull",2,No,,Try out,,No,Maybe,No,,Maybe,Maybe
+8/25/2024 15:02:41,V4,Arête,"Crimp, Sloper, Side-pull",3,Yes,6,,,Maybe,Maybe,Maybe,,Yes,Maybe
+8/25/2024 15:07:21,V5,Overhang,"Jug, Sloper, Side-pull",1,Yes,7,,,Yes,Maybe,Yes,,Yes,Yes
+8/25/2024 15:12:34,V6,Roof,"Jug, Pinch, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Maybe
+8/25/2024 15:16:14,V6,Roof,"Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+8/25/2024 15:19:15,V6,Roof,"Pinch, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+8/25/2024 15:21:12,V6,Roof,"Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Yes,Maybe
+8/25/2024 15:26:28,V6,Roof,"Jug, Pinch, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+8/25/2024 15:29:19,V6,Roof,"Jug, Pinch, Side-pull",6,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+8/25/2024 15:30:46,V6,Roof,"Jug, Pinch, Side-pull",7,No,,Beta to the next move,,No,Maybe,Yes,,Yes,Maybe
+8/25/2024 15:35:02,V6,Roof,"Jug, Sloper, Undercling, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Maybe,Maybe
+8/25/2024 15:40:34,V6,Vertical,Crimp,1,No,,Beta to the next move,,No,No,Maybe,,No,No
+8/25/2024 15:42:33,V6,Vertical,"Jug, Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+8/25/2024 15:45:25,V6,Overhang,Jug,2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+8/25/2024 15:47:36,V6,Vertical,"Jug, Crimp, Sloper",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Maybe
+8/25/2024 15:50:40,V6,Overhang,Jug,5,No,,Beta to the next move,,No,No,No,,Maybe,No
+8/25/2024 15:56:55,V6,Roof,"Jug, Edge, Side-pull",1,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Yes,Maybe
+8/25/2024 16:00:13,V6,Roof,"Edge, Crimp, Side-pull",3,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,No
+8/25/2024 16:02:59,V7,Roof,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,Maybe
+8/25/2024 16:04:44,V7,Roof,"Jug, Side-pull",3,No,,"Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,Maybe
+8/25/2024 16:13:46,V5,Slab,"Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+8/25/2024 16:14:47,V5,Slab,"Crimp, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+8/25/2024 16:16:38,V5,Slab,"Crimp, Pinch, Undercling, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+8/30/2024 14:06:27,V4,Vertical,"Edge, Sloper, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,Maybe
+8/30/2024 14:09:35,V5,Vertical,"Crimp, Side-pull",1,Yes,7,,,Maybe,Yes,Yes,,Yes,Maybe
+8/30/2024 14:18:32,V7,Vertical,"Crimp, Pinch, Pocket, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+8/30/2024 14:20:44,V7,Vertical,"Crimp, Pinch, Pocket, Side-pull",3,No,,Tried ,,No,No,No,,Maybe,No
+8/30/2024 14:22:43,V7,Vertical,"Crimp, Pinch, Pocket, Side-pull",4,Yes,7,,,No,Maybe,Maybe,,Yes,Maybe
+8/30/2024 14:29:41,V6,Vertical,"Sloper, Side-pull",2,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+8/30/2024 14:34:57,V6,Vertical,"Crimp, Side-pull",1,Yes,7,,,No,Maybe,Maybe,,Yes,Maybe
+8/30/2024 14:37:46,V7,Vertical,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+8/30/2024 14:41:47,V6,Vertical,"Crimp, Undercling, Side-pull",1,Yes,6,,,Maybe,Maybe,No,,Yes,Maybe
+8/30/2024 14:45:17,V7,Arête,"Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+8/30/2024 14:47:00,V7,Overhang,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+8/30/2024 14:49:08,V7,Arête,"Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,Maybe,Yes,,Yes,No
+8/30/2024 14:51:46,V7,Overhang,"Sloper, Undercling, Side-pull",4,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Yes,,Yes,Maybe
+8/30/2024 14:55:03,V7,Overhang,"Sloper, Undercling, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Yes,Yes
+8/30/2024 14:56:38,V7,Arête,"Sloper, Undercling, Side-pull",6,No,,Lack familiarity with the move,,No,Maybe,Maybe,,Maybe,No
+8/30/2024 14:58:40,V7,Arête,"Sloper, Undercling, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold, Footwork issue",,No,No,No,,Yes,No
+8/30/2024 15:02:29,V7,Arête,"Sloper, Undercling, Side-pull",8,No,,Suboptimal sequence,,No,No,Yes,,Yes,Maybe
+8/30/2024 15:03:59,V7,Arête,"Sloper, Undercling, Side-pull",9,No,,Beta to the next move,,No,Maybe,Maybe,,Yes,No
+8/30/2024 15:06:09,V8,Overhang,"Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Yes,Maybe
+8/30/2024 15:10:17,V5,Arête,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Missed a hold",,No,No,No,,Maybe,Maybe
+8/30/2024 15:12:25,V5,Arête,"Sloper, Side-pull",2,Yes,7,,,No,Maybe,No,,Yes,Yes
+8/30/2024 15:14:15,V5,Vertical,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+8/30/2024 15:17:20,V5,Vertical,"Jug, Sloper, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,Maybe,Yes
+8/30/2024 15:19:26,V5,Vertical,"Edge, Sloper, Side-pull",3,Yes,7,,,No,Yes,Maybe,,Yes,Yes
+8/30/2024 15:22:11,V5,Vertical,"Jug, Side-pull",1,No,,Beta to the next move,,No,Maybe,Maybe,,Yes,No
+8/30/2024 15:23:46,V5,Vertical,"Jug, Side-pull",2,Yes,6,,,Maybe,No,Yes,,Yes,No
+9/3/2024 13:29:23,V4,Vertical,Crimp,1,Yes,5,,,No,Maybe,Yes,,Maybe,Maybe
+9/3/2024 13:31:17,V5,Roof,"Pocket, Side-pull",1,Yes,5,,,No,No,Maybe,,Maybe,No
+9/3/2024 13:35:12,V6,Arête,"Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,No
+9/3/2024 13:38:21,V6,Arête,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move, Too tired",,No,Maybe,No,,Maybe,Maybe
+9/3/2024 13:41:28,V6,Arête,"Crimp, Pinch, Side-pull",3,No,,Footwork issue,,No,No,No,,No,No
+9/3/2024 13:44:05,V6,Arête,"Crimp, Pinch, Undercling, Side-pull",4,No,,"Cannot grab on to the hold, Footwork issue",,No,Maybe,No,,Maybe,No
+9/3/2024 13:47:20,V6,Arête,"Crimp, Pinch, Sloper, Undercling, Side-pull",5,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+9/3/2024 13:50:31,V6,Arête,"Crimp, Pinch, Sloper, Undercling, Side-pull",6,No,,Footwork issue,,No,Maybe,No,,No,No
+9/3/2024 13:53:32,V6,Slab,"Edge, Pinch, Side-pull",1,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+9/3/2024 13:57:58,V5,Slab,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,No,No
+9/3/2024 13:59:38,V5,Slab,"Sloper, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,No
+9/3/2024 14:02:41,V7,Roof,"Sloper, Side-pull",2,No,,Beta to the next move,,Maybe,No,Maybe,,No,No
+9/3/2024 14:04:34,V7,Vertical,"Pinch, Sloper",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,No
+9/3/2024 14:07:48,V7,Vertical,Sloper,6,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+9/3/2024 14:10:44,V7,Vertical,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+9/3/2024 14:12:24,V7,Vertical,"Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Yes,Maybe
+9/3/2024 14:15:24,V7,Vertical,"Sloper, Undercling, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+9/3/2024 14:16:55,V7,Vertical,"Sloper, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+9/3/2024 14:19:15,V7,Vertical,"Sloper, Undercling, Side-pull",6,No,,"Beta to the next move, Footwork issue",,No,No,No,,Maybe,Maybe
+9/3/2024 14:22:23,V5,Arête,"Jug, Crimp, Undercling, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+9/3/2024 14:26:07,V6,Overhang,"Jug, Sloper, Side-pull",1,No,,"Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,Maybe,Yes,,No,Maybe
+9/3/2024 14:31:45,V7,Overhang,"Crimp, Side-pull",2,Yes,6,,,Maybe,Maybe,Yes,,Maybe,Maybe
+9/3/2024 14:36:03,V6,Slab,"Sloper, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+9/3/2024 14:37:50,V6,Vertical,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+9/3/2024 14:43:45,V6,Roof,"Jug, Sloper, Side-pull",2,Yes,5,,,Maybe,No,Yes,,Maybe,Maybe
+9/3/2024 14:47:39,V5,Vertical,"Crimp, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Yes,Maybe,,Maybe,Maybe
+9/3/2024 14:52:37,V5,Vertical,"Crimp, Side-pull",2,Yes,6,,,Maybe,Yes,Yes,,Maybe,Maybe
+9/3/2024 14:54:24,V4,Slab,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+9/3/2024 14:56:27,V4,Slab,"Edge, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+9/3/2024 14:58:15,V4,Vertical,"Edge, Side-pull",8,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+9/3/2024 15:00:08,V4,Slab,"Edge, Side-pull",9,No,,"Lack familiarity with the move, Too tired",,No,Yes,Maybe,,Maybe,Maybe
+9/8/2024 14:01:21,V4,Overhang,"Jug, Sloper, Side-pull",1,Yes,6,,,Maybe,Maybe,Yes,,Yes,Maybe
+9/8/2024 14:01:40,V5,Vertical,"Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Yes,Yes
+9/8/2024 14:05:48,V5,Vertical,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+9/8/2024 14:09:02,V5,Vertical,"Crimp, Sloper, Side-pull",3,Yes,,,,No,Maybe,Yes,,Yes,Yes
+9/8/2024 14:12:54,V7,Arête,"Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold, Wrong body position",,Maybe,Maybe,Yes,,Maybe,Maybe
+9/8/2024 14:14:41,V7,Arête,"Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+9/8/2024 14:20:25,V6,Arête,"Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+9/8/2024 14:22:56,V6,Overhang,"Edge, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Yes,Maybe
+9/8/2024 14:27:27,V6,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,Maybe,No
+9/8/2024 14:30:03,V7,Overhang,"Jug, Edge, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+9/8/2024 14:31:46,V7,Overhang,"Jug, Pinch, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+9/8/2024 14:34:01,V7,Arête,"Jug, Edge, Pinch, Side-pull",4,No,,Beta to the next move,,Maybe,Yes,Maybe,,Yes,Maybe
+9/8/2024 14:36:43,V7,Overhang,"Jug, Edge, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Maybe,,Yes,Maybe
+9/8/2024 14:39:54,V7,Arête,"Jug, Pinch, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,No
+9/8/2024 14:43:05,V7,Overhang,"Jug, Edge, Crimp, Pinch, Side-pull",7,No,,Suboptimal sequence,,Maybe,Maybe,Yes,,Maybe,Maybe
+9/8/2024 14:46:19,V7,Arête,"Jug, Crimp, Pinch, Side-pull",8,No,,Dry fire,,No,No,Maybe,,No,No
+9/8/2024 14:48:44,V7,Arête,"Jug, Crimp, Pinch, Side-pull",9,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+9/8/2024 14:55:27,V7,Vertical,"Crimp, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+9/8/2024 14:58:12,V8,Overhang,"Edge, Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,No
+9/8/2024 15:00:27,V8,Overhang,"Jug, Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,No,No
+9/8/2024 15:02:15,V8,Overhang,"Jug, Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Maybe,,Yes,Maybe
+9/8/2024 15:07:27,V6,Arête,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+9/8/2024 15:10:47,V6,Arête,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Yes,Maybe
+9/8/2024 15:14:04,V6,Arête,"Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+9/8/2024 15:18:09,V6,Arête,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Too tired",,No,No,No,,No,No
+9/8/2024 15:21:50,V5,Vertical,"Pinch, Sloper, Side-pull",1,Yes,7,,,No,No,Maybe,,Yes,Maybe
+9/8/2024 15:24:42,V7,Vertical,"Pinch, Pocket, Side-pull",1,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+9/8/2024 15:27:28,V7,Vertical,"Pinch, Pocket, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Yes,No
+9/8/2024 15:30:18,V7,Vertical,"Crimp, Pinch, Pocket, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Maybe,Yes
+9/12/2024 14:23:08,V4,Overhang,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Maybe,,Maybe,Maybe
+9/12/2024 14:25:48,V4,Overhang,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+9/12/2024 14:28:39,V4,Overhang,"Edge, Crimp, Side-pull",3,Yes,6,,,No,Maybe,Maybe,,Yes,Yes
+9/12/2024 14:35:44,V5,Vertical,"Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+9/12/2024 14:37:32,V5,Vertical,"Pinch, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Maybe,No
+9/12/2024 14:39:35,V5,Vertical,"Pinch, Sloper, Side-pull",4,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+9/12/2024 14:43:19,V5,Vertical,"Jug, Crimp, Side-pull",1,Yes,7,,,Yes,Maybe,Yes,,Maybe,Maybe
+9/12/2024 14:48:47,V6,Overhang,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,Yes,Maybe,Yes,,Yes,Maybe
+9/12/2024 14:52:42,V6,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,No
+9/12/2024 14:55:14,V5,Overhang,"Crimp, Sloper, Side-pull",4,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+9/12/2024 15:00:12,V6,Overhang,"Sloper, Side-pull",1,Yes,7,,,Yes,Maybe,Yes,,Maybe,Maybe
+9/12/2024 15:05:04,V5,Overhang,"Edge, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+9/12/2024 15:07:19,V5,Overhang,"Edge, Side-pull",4,No,,Beta to the next move,,No,No,No,,No,Maybe
+9/12/2024 15:10:02,V5,Overhang,"Edge, Side-pull",5,No,,"Suboptimal sequence, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Maybe
+9/12/2024 15:12:39,V5,Overhang,"Edge, Side-pull",6,No,,"Suboptimal sequence, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Yes,Yes
+9/12/2024 15:15:30,V5,Overhang,"Edge, Crimp, Side-pull",7,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+9/12/2024 15:20:54,V6,Roof,"Jug, Sloper, Side-pull",2,Yes,6,,,No,Yes,Maybe,,Yes,Yes
+9/21/2024 10:55:24,V4,Overhang,"Sloper, Side-pull",1,Yes,6,,,Yes,No,Maybe,,No,No
+9/21/2024 10:56:08,V5,Arête,"Pinch, Sloper, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,Yes
+9/21/2024 11:00:57,V6,Overhang,"Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,No
+9/21/2024 11:06:14,V6,Overhang,"Sloper, Side-pull",4,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+9/21/2024 11:09:42,V5,Slab,"Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+9/21/2024 11:11:45,V5,Slab,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+9/21/2024 11:13:49,V5,Slab,"Edge, Sloper, Undercling, Side-pull",5,No,,"Beta to the next move, Too nervous",,No,Yes,No,,Maybe,Maybe
+9/21/2024 11:16:01,V5,Slab,"Sloper, Side-pull",6,No,,"Suboptimal sequence, Footwork issue",,No,Maybe,No,,Maybe,Maybe
+9/21/2024 11:18:04,V5,Slab,"Edge, Sloper, Undercling, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+9/21/2024 11:21:06,V5,Slab,"Edge, Sloper, Side-pull",8,Yes,6,,,No,Maybe,Yes,,Yes,Maybe
+9/21/2024 11:25:15,V6,Vertical,Crimp,1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+9/21/2024 11:27:11,V6,Vertical,Crimp,2,No,,Beta to the next move,,Maybe,Maybe,Yes,,Maybe,No
+9/21/2024 11:30:36,V7,Vertical,"Pinch, Pocket",1,No,,"Beta to the next move, Dry fire",,No,No,Maybe,,No,No
+9/21/2024 11:33:35,V7,Vertical,"Pinch, Pocket, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,No
+9/21/2024 11:35:37,V7,Vertical,"Pinch, Pocket, Side-pull",3,No,,"Beta to the next move, Too tired",,Maybe,No,Yes,,Maybe,Maybe
+9/21/2024 11:38:32,V6,Arête,"Crimp, Sloper",2,No,,"Wrong body position, Footwork issue",,No,No,No,,Maybe,Maybe
+9/21/2024 11:40:56,V6,Arête,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Yes,Maybe
+9/21/2024 11:44:28,V6,Arête,"Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Yes,Maybe
+9/21/2024 11:47:38,V6,Arête,"Crimp, Sloper, Side-pull",6,No,,Footwork issue,,Maybe,No,No,,Maybe,Maybe
+9/21/2024 11:49:05,V6,Arête,"Crimp, Sloper, Side-pull",7,No,,"Beta to the next move, Wrong body position",,No,Maybe,No,,Maybe,Maybe
+9/21/2024 11:51:27,V6,Vertical,"Edge, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+9/21/2024 11:54:33,V6,Arête,"Edge, Pinch, Side-pull",2,Yes,7,,,No,Maybe,Maybe,,Yes,Yes
+9/21/2024 11:57:02,V5,Roof,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+9/21/2024 11:58:51,V5,Arête,"Edge, Crimp, Pinch, Undercling, Side-pull",1,Yes,6,,,No,Maybe,Yes,,Maybe,No
+9/26/2024 12:35:09,V4,Arête,"Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+9/26/2024 12:37:57,V4,Arête,"Crimp, Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Footwork issue",,No,Maybe,No,,Maybe,No
+9/26/2024 12:40:12,V4,Arête,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,No
+9/26/2024 12:42:25,V4,Arête,"Sloper, Undercling, Side-pull",5,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+9/26/2024 12:46:47,V4,Arête,"Crimp, Sloper, Undercling, Side-pull",7,No,,Beta to the next move,,Maybe,Maybe,Maybe,,Maybe,No
+9/26/2024 12:48:52,V4,Arête,"Crimp, Sloper, Undercling, Side-pull",8,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Maybe
+9/26/2024 12:53:20,V5,Roof,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,Maybe
+9/26/2024 12:54:40,V5,Overhang,"Pinch, Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,Yes,,Yes,Maybe
+9/26/2024 12:56:36,V5,Overhang,"Pinch, Sloper, Side-pull",3,Yes,6,,,Maybe,Maybe,Yes,,Maybe,Maybe
+9/26/2024 13:03:08,V6,Vertical,"Crimp, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,Maybe
+9/26/2024 13:05:31,V6,Vertical,"Crimp, Undercling, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+9/26/2024 13:08:09,V6,Vertical,"Crimp, Sloper, Undercling, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,No,Yes,,Yes,Yes
+9/26/2024 13:12:14,V6,Vertical,"Edge, Sloper, Undercling, Side-pull",4,Yes,7,,,No,Yes,Yes,,Yes,Yes
+9/26/2024 13:17:06,V7,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+9/26/2024 13:19:05,V7,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+9/26/2024 13:21:19,V7,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Yes,Maybe,,Yes,Maybe
+9/26/2024 13:23:56,V7,Vertical,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+9/26/2024 13:28:07,V7,Overhang,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,Maybe
+9/26/2024 13:31:44,V7,Overhang,"Pinch, Side-pull",3,No,,"Suboptimal sequence, Too tired",,Maybe,No,Yes,,Maybe,No
+9/26/2024 13:34:53,V6,Overhang,"Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+9/26/2024 13:41:31,V7,Overhang,"Pinch, Sloper, Side-pull",5,No,,"Beta to the next move, Dry fire",,No,No,Maybe,,No,No
+9/26/2024 13:42:27,V7,Overhang,"Pinch, Sloper, Side-pull",6,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,No,Yes,,Maybe,No
+9/26/2024 13:46:49,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+9/26/2024 13:49:19,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",2,Yes,7,,,Maybe,Maybe,Yes,,Yes,No
+9/26/2024 13:52:46,V5,Roof,"Jug, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Yes,,Maybe,No
+9/26/2024 13:54:51,V5,Arête,"Jug, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,No
+9/26/2024 13:57:53,V5,Overhang,"Jug, Side-pull",3,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,No
+9/26/2024 14:00:23,V5,Overhang,"Jug, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+9/29/2024 15:41:31,V4,Vertical,"Jug, Edge, Side-pull",1,Yes,5,,,No,No,Maybe,,Maybe,No
+9/29/2024 15:44:52,V5,Overhang,"Jug, Sloper, Flake, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Maybe,No
+9/29/2024 15:50:38,V5,Slab,"Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,No,,Yes,Maybe
+9/29/2024 15:52:24,V5,Slab,"Crimp, Side-pull",3,No,,Suboptimal sequence,,No,Yes,No,,Yes,Maybe
+9/29/2024 15:54:40,V5,Slab,"Crimp, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+9/29/2024 15:58:42,V5,Slab,"Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Yes,Maybe
+9/29/2024 16:01:23,V5,Slab,"Crimp, Side-pull",7,No,,"Beta to the next move, Too tired, Too nervous",,No,No,No,,Maybe,No
+9/29/2024 16:03:56,V5,Slab,"Crimp, Undercling, Side-pull",8,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Yes,Maybe
+9/29/2024 16:09:18,V7,Arête,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+9/29/2024 16:10:39,V7,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Maybe,No
+9/29/2024 16:13:08,V7,Arête,Crimp,3,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Maybe,No
+9/29/2024 16:14:41,V7,Overhang,"Crimp, Pinch, Pocket, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Maybe,,Yes,Maybe
+9/29/2024 16:18:13,V7,Arête,"Crimp, Pinch, Pocket, Side-pull",5,No,,Finished second half,,Maybe,Yes,Maybe,,Yes,Maybe
+9/29/2024 16:23:13,V5,Vertical,"Edge, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+9/29/2024 16:24:48,V5,Vertical,"Edge, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+9/29/2024 16:26:23,V5,Vertical,"Edge, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,No,No
+9/29/2024 16:28:18,V5,Vertical,"Edge, Side-pull",6,No,,"Beta to the next move, Footwork issue",,No,No,No,,Maybe,Maybe
+9/29/2024 16:30:50,V5,Vertical,"Edge, Side-pull",8,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+9/29/2024 16:32:32,V5,Vertical,"Edge, Side-pull",9,No,,Beta to the next move,,No,No,No,,No,No
+9/29/2024 16:37:34,V6,Roof,"Jug, Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,No
+9/29/2024 16:40:14,V7,Overhang,"Pinch, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+9/29/2024 16:41:34,V7,Overhang,"Pinch, Side-pull",2,No,,"Lack familiarity with the move, Too tired, Dry fire",,No,Maybe,Maybe,,Maybe,Maybe
+9/29/2024 16:43:43,V7,Overhang,"Pinch, Sloper, Side-pull",3,No,,Beta to the next move,,No,No,Yes,,Maybe,Yes
+9/29/2024 16:46:11,V7,Overhang,"Jug, Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Too tired",,No,No,Yes,,Yes,Yes
+9/29/2024 16:50:07,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",1,No,,"Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+9/29/2024 16:53:22,V7,Roof,"Jug, Crimp, Undercling, Side-pull",2,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+9/29/2024 16:57:30,V5,Arête,"Edge, Crimp, Side-pull",1,No,,Lack familiarity with the move,,No,No,No,,No,No
+9/29/2024 16:59:28,V5,Arête,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Too tired",,Maybe,Yes,Yes,,Maybe,Maybe
+9/29/2024 17:01:22,V5,Overhang,"Crimp, Side-pull",3,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Yes,,Yes,Maybe
+10/3/2024 13:24:01,V4,Vertical,"Crimp, Sloper, Side-pull",1,Yes,6,,,No,No,Maybe,,Yes,Maybe
+10/3/2024 13:27:50,V5,Vertical,"Jug, Crimp, Undercling, Side-pull",1,Yes,6,,,No,Maybe,No,,Yes,Maybe
+10/3/2024 13:33:50,V4,Arête,"Edge, Sloper, Undercling",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+10/3/2024 13:37:18,V6,Overhang,"Edge, Side-pull",1,No,,Lack familiarity with the move,,No,Maybe,No,,Maybe,Maybe
+10/3/2024 13:39:46,V6,Arête,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Yes,Maybe
+10/3/2024 13:42:42,V6,Overhang,"Crimp, Sloper, Undercling, Side-pull",3,Yes,6,,,No,Yes,Maybe,,Yes,Yes
+10/3/2024 13:48:27,V7,Arête,"Crimp, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+10/3/2024 13:49:57,V7,Overhang,"Crimp, Undercling",3,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,No
+10/3/2024 13:55:18,V7,Slab,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Yes,Maybe
+10/3/2024 13:59:38,V6,Slab,"Edge, Pinch, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Yes,Maybe
+10/3/2024 14:02:29,V7,Vertical,"Edge, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Yes
+10/3/2024 14:05:22,V7,Vertical,"Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Yes
+10/3/2024 14:08:15,V7,Vertical,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+10/3/2024 14:11:03,V7,Vertical,"Crimp, Sloper, Side-pull",4,Yes,7,,,No,Maybe,No,,Maybe,Yes
+10/3/2024 14:16:57,V7,Overhang,"Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Maybe,,Maybe,No
+10/3/2024 14:19:13,V7,Overhang,"Jug, Edge, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Maybe,No
+10/3/2024 14:21:25,V7,Overhang,"Edge, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,Maybe
+10/3/2024 14:25:11,V7,Overhang,"Jug, Edge, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Yes,Yes,,Yes,Maybe
+10/3/2024 14:27:14,V7,Overhang,"Jug, Edge, Side-pull",8,No,,"Cannot grab on to the hold, Footwork issue",,No,Yes,Yes,,Maybe,Maybe
+10/3/2024 14:31:07,V8,Overhang,"Jug, Undercling, Side-pull",3,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+10/3/2024 14:35:34,V5,Arête,"Jug, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Yes,,Maybe,No
+10/3/2024 14:37:34,V7,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+10/3/2024 14:39:57,V7,Overhang,"Edge, Side-pull",10,No,,"Beta to the next move, Cannot grab on to the hold, Footwork issue",,No,No,Maybe,,No,Maybe
+10/3/2024 14:42:49,V5,Overhang,"Jug, Side-pull",1,Yes,7,,,Yes,Yes,Maybe,,Maybe,Yes
+10/6/2024 14:33:32,V4,Vertical,"Crimp, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,No
+10/6/2024 14:39:05,V5,Overhang,"Jug, Sloper, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Yes,Maybe
+10/6/2024 14:43:31,V6,Vertical,"Jug, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,No,No
+10/6/2024 14:45:59,V6,Arête,"Jug, Side-pull",2,No,,Beta to the next move,,No,No,No,,No,No
+10/6/2024 14:47:36,V6,Overhang,"Jug, Side-pull",4,No,,Beta to the next move,,No,No,Yes,,No,No
+10/6/2024 14:50:59,V6,Overhang,"Jug, Side-pull",5,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+10/6/2024 14:51:45,V6,Arête,"Jug, Crimp, Pinch",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+10/6/2024 14:54:58,V6,Vertical,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+10/6/2024 14:58:28,V6,Overhang,"Jug, Edge, Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+10/6/2024 15:02:15,V6,Vertical,"Jug, Crimp, Side-pull",3,No,,Finished second half,,No,Maybe,No,,Maybe,Maybe
+10/6/2024 15:06:17,V7,Overhang,"Pinch, Sloper, Side-pull",1,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,No
+10/6/2024 15:07:49,V7,Overhang,"Pinch, Sloper, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,No
+10/6/2024 15:09:57,V7,Overhang,"Pinch, Sloper, Side-pull",3,No,2,"Beta to the next move, Cannot grab on to the hold, Too tired",,Maybe,Yes,Yes,,Maybe,Maybe
+10/6/2024 15:13:48,V8,Vertical,"Jug, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+10/6/2024 15:16:25,V8,Vertical,"Jug, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+10/6/2024 15:18:41,V7,Overhang,"Crimp, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,No,Maybe
+10/6/2024 15:19:56,V7,Overhang,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,No,Maybe
+10/6/2024 15:21:54,V7,Roof,"Crimp, Side-pull",2,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,No
+10/6/2024 15:25:23,V7,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Too tired",,No,No,No,,No,No
+10/6/2024 15:27:16,V7,Overhang,"Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/6/2024 15:28:39,V7,Overhang,"Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+10/6/2024 15:33:53,V5,Roof,"Jug, Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,No
+10/6/2024 15:37:20,V5,Roof,"Jug, Edge, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+10/6/2024 15:39:18,V5,Roof,"Jug, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,No
+10/6/2024 15:41:13,V5,Roof,"Jug, Side-pull",3,Yes,7,,,Maybe,No,Yes,,Yes,Yes
+10/6/2024 15:46:23,V6,Arête,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+10/6/2024 15:48:31,V6,Roof,"Edge, Pinch, Side-pull",1,No,,"Lack familiarity with the move, Footwork issue",,No,No,Maybe,,Maybe,No
+10/6/2024 15:51:29,V6,Roof,"Edge, Pinch, Side-pull",2,Yes,6,,,Maybe,No,Yes,,Maybe,Maybe
+10/6/2024 15:56:50,V6,Arête,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+10/6/2024 15:59:12,V6,Arête,"Edge, Side-pull",3,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+10/6/2024 16:04:20,V5,Arête,"Jug, Sloper, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Maybe,Maybe
+10/9/2024 16:21:18,V4,Arête,"Edge, Crimp, Side-pull",1,Yes,7,,,No,No,Maybe,,Yes,Maybe
+10/9/2024 16:24:19,V5,Vertical,"Crimp, Pinch, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+10/9/2024 16:26:39,V6,Roof,"Crimp, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+10/9/2024 16:30:39,V7,Vertical,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,No,Yes
+10/9/2024 16:32:20,V7,Overhang,"Sloper, Side-pull",1,No,,"Beta to the next move, Too tired",,No,Yes,Yes,,Maybe,Maybe
+10/9/2024 16:34:28,V7,Arête,"Edge, Crimp, Sloper",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Yes,,No,No
+10/9/2024 16:37:12,V7,Overhang,"Edge, Crimp",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,No
+10/9/2024 16:39:11,V7,Arête,"Edge, Crimp, Sloper, Side-pull",3,No,,Suboptimal sequence,,No,No,Yes,,No,No
+10/9/2024 16:41:33,V7,Overhang,"Edge, Crimp, Sloper",4,No,,"Beta to the next move, Suboptimal sequence",,Yes,No,Yes,,Maybe,No
+10/9/2024 16:43:36,V7,Arête,"Edge, Crimp, Sloper",5,No,,"Beta to the next move, Cannot grab on to the hold",,Yes,Maybe,Yes,,Yes,Maybe
+10/9/2024 16:46:41,V5,Slab,"Crimp, Sloper, Side-pull",1,Yes,7,,,No,Yes,No,,Yes,Maybe
+10/9/2024 16:51:36,V8,Roof,"Crimp, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/9/2024 16:53:34,V8,Roof,"Crimp, Sloper",2,No,,Beta to the next move,,No,Yes,No,,Maybe,No
+10/9/2024 16:55:12,V8,Roof,"Crimp, Sloper, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+10/9/2024 16:57:33,V7,Overhang,"Jug, Sloper",1,No,,Beta to the next move,,No,Maybe,Maybe,,No,No
+10/9/2024 16:59:51,V7,Overhang,"Jug, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+10/9/2024 17:02:16,V8,Arête,"Crimp, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/9/2024 17:07:22,V6,Arête,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+10/9/2024 17:10:07,V6,Arête,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Yes,Yes
+10/9/2024 17:14:11,V8,Overhang,"Crimp, Pinch, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+10/9/2024 17:16:33,V6,Overhang,"Jug, Side-pull",2,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+10/9/2024 17:22:13,V7,Overhang,"Crimp, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/9/2024 17:26:10,V5,Roof,"Jug, Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+10/9/2024 17:29:01,V5,Roof,"Pinch, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+10/9/2024 17:31:42,V5,Roof,"Jug, Edge, Pinch, Sloper, Side-pull",5,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+10/9/2024 17:33:34,V8,Vertical,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/9/2024 17:34:46,V7,Overhang,"Crimp, Sloper, Undercling",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+10/9/2024 17:38:50,V7,Vertical,"Crimp, Side-pull",4,No,,Beta to the next move,,No,No,No,,No,No
+10/13/2024 14:27:21,V4,Arête,"Crimp, Sloper, Side-pull",1,Yes,6,,,No,No,Maybe,,Yes,Maybe
+10/13/2024 14:29:39,V5,Overhang,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,Yes,No,Yes,,Maybe,No
+10/13/2024 14:31:53,V5,Overhang,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,No
+10/13/2024 14:34:27,V5,Overhang,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Yes,Maybe,Yes,,Maybe,No
+10/13/2024 14:36:55,V5,Overhang,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Yes,Yes,,Maybe,No
+10/13/2024 14:43:38,V5,Overhang,"Crimp, Side-pull",7,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+10/13/2024 14:47:59,V6,Overhang,"Jug, Sloper",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+10/13/2024 14:52:06,V6,Overhang,"Jug, Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Yes,,Yes,No
+10/13/2024 14:55:47,V6,Overhang,"Jug, Crimp, Sloper, Side-pull",3,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+10/13/2024 15:01:31,V7,Vertical,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,Maybe
+10/13/2024 15:04:40,V6,Roof,"Jug, Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,No
+10/13/2024 15:07:57,V6,Roof,"Jug, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Yes,No
+10/13/2024 15:11:36,V6,Roof,"Jug, Crimp, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move, Too tired",,No,No,No,,No,No
+10/13/2024 15:16:03,V6,Roof,"Jug, Undercling, Side-pull",4,Yes,,,,Maybe,Maybe,Yes,,Maybe,Yes
+10/13/2024 15:21:26,V7,Vertical,"Crimp, Pinch, Side-pull",2,No,,"Lack familiarity with the move, Too tired",,No,Yes,Maybe,,Yes,Maybe
+10/13/2024 15:25:29,V6,Roof,"Jug, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,No
+10/13/2024 15:29:32,V6,Roof,"Jug, Crimp, Undercling",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/13/2024 15:32:34,V6,Roof,"Jug, Crimp, Undercling, Side-pull",3,Yes,6,,,Yes,Maybe,Yes,,Yes,Maybe
+10/17/2024 13:30:16,V4,Vertical,"Pinch, Sloper, Side-pull",1,Yes,7,,,No,Yes,No,,Maybe,Maybe
+10/17/2024 13:33:12,V5,Slab,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+10/17/2024 13:36:07,V5,Slab,"Crimp, Sloper, Side-pull",2,Yes,6,,,No,Yes,No,,Yes,Yes
+10/17/2024 13:44:45,V6,Vertical,"Pinch, Side-pull",2,No,,"Lack familiarity with the move, Footwork issue",,No,No,Maybe,,Maybe,Yes
+10/17/2024 13:47:49,V6,Vertical,"Pinch, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,No
+10/17/2024 13:50:11,V6,Vertical,"Pinch, Side-pull",4,Yes,7,,,Maybe,Maybe,Maybe,,Yes,Yes
+10/17/2024 13:53:29,V7,Slab,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+10/17/2024 13:55:24,V7,Slab,"Crimp, Pocket, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,No,,Yes,Maybe
+10/17/2024 13:58:02,V6,Slab,"Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,No
+10/17/2024 13:59:59,V6,Slab,"Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:01:54,V6,Slab,"Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Footwork issue",,No,Yes,No,,Yes,Maybe
+10/17/2024 14:04:05,V6,Slab,"Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Yes,No,,Yes,Maybe
+10/17/2024 14:06:26,V6,Slab,"Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Wrong body position",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:08:13,V6,Slab,"Crimp, Undercling, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:11:32,V6,Slab,"Crimp, Sloper, Undercling, Side-pull",7,No,,Cannot grab on to the hold,,Maybe,Yes,Yes,,Yes,Yes
+10/17/2024 14:15:43,V7,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:17:37,V7,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:20:50,V7,Vertical,"Crimp, Side-pull",4,No,,"Suboptimal sequence, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+10/17/2024 14:22:24,V7,Vertical,"Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:24:18,V7,Vertical,"Crimp, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+10/17/2024 14:26:34,V7,Vertical,"Crimp, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,No,No
+10/17/2024 14:26:55,V7,Vertical,"Crimp, Side-pull",6,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Maybe
+10/17/2024 14:31:14,V7,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:33:26,V7,Vertical,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Yes,No
+10/17/2024 14:35:40,V6,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+10/17/2024 14:37:14,V6,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+10/17/2024 14:39:35,V6,Vertical,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,Maybe
+10/17/2024 14:45:03,V7,Roof,"Jug, Edge, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Footwork issue",,No,Maybe,Yes,,Yes,Maybe
+10/17/2024 14:47:57,V5,Vertical,"Edge, Crimp, Sloper, Side-pull",1,Yes,6,,,No,Maybe,No,,Yes,Maybe
+10/17/2024 14:53:22,V4,Arête,"Crimp, Sloper, Side-pull",2,Yes,6,,,No,Maybe,Maybe,,Yes,Yes
+10/22/2024 13:21:26,V4,Vertical,"Crimp, Sloper, Side-pull",1,Yes,6,,,No,Maybe,Maybe,,Maybe,Maybe
+10/22/2024 13:23:46,V5,Vertical,"Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+10/22/2024 13:26:45,V5,Vertical,"Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,Maybe
+10/22/2024 13:33:51,V6,Arête,"Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,Maybe
+10/22/2024 13:36:00,V6,Arête,"Edge, Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Yes,Maybe
+10/22/2024 13:39:07,V6,Arête,"Edge, Pinch, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Yes,No
+10/22/2024 13:42:07,V6,Arête,"Edge, Pinch, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+10/22/2024 13:45:47,V6,Arête,"Edge, Crimp, Pinch, Sloper, Side-pull",4,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+10/22/2024 13:49:11,V6,Vertical,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Yes,Maybe,,Maybe,Maybe
+10/22/2024 13:51:45,V6,Vertical,"Crimp, Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold, Wrong body position",,No,Maybe,Yes,,Yes,Maybe
+10/22/2024 13:55:02,V6,Vertical,"Crimp, Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Maybe,,Yes,Maybe
+10/22/2024 13:59:39,V6,Vertical,"Crimp, Sloper, Side-pull",1,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Maybe,,Maybe,Maybe
+10/22/2024 14:01:00,V6,Vertical,"Crimp, Pocket, Side-pull",2,No,,"Lack familiarity with the move, Footwork issue",,No,Maybe,Maybe,,Maybe,Maybe
+10/22/2024 14:02:44,V6,Vertical,"Crimp, Side-pull",3,No,,"Suboptimal sequence, Too nervous",,No,No,No,,No,No
+10/22/2024 14:05:11,V6,Vertical,"Crimp, Sloper, Side-pull",4,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+10/22/2024 14:11:01,V8,Overhang,"Edge, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Yes,No,,Maybe,Maybe
+10/22/2024 14:13:59,V8,Vertical,"Edge, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+10/22/2024 14:16:20,V8,Vertical,"Edge, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+10/22/2024 14:18:01,V8,Vertical,"Edge, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/22/2024 14:20:35,V8,Vertical,"Edge, Undercling, Side-pull",5,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Maybe
+10/22/2024 14:24:43,V8,Vertical,"Edge, Undercling, Side-pull",6,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Yes,,Maybe,Maybe
+10/22/2024 14:28:49,V8,Vertical,"Edge, Undercling, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Yes,Yes,,Maybe,Maybe
+10/22/2024 14:31:33,V5,Vertical,"Jug, Crimp, Sloper, Side-pull",1,Yes,7,,,No,Maybe,Maybe,,Yes,Maybe
+10/27/2024 14:31:37,V4,Vertical,"Sloper, Undercling, Side-pull",1,Yes,7,,,Maybe,Yes,No,,Maybe,Maybe
+10/27/2024 14:33:41,V5,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,No,,Yes,No
+10/27/2024 14:35:56,V5,Vertical,"Crimp, Pinch, Side-pull",2,Yes,7,,,No,Yes,No,,Yes,Yes
+10/27/2024 14:40:07,V6,Arête,"Jug, Edge, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,Maybe
+10/27/2024 14:46:04,V6,Vertical,"Edge, Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,No
+10/27/2024 14:47:47,V6,Vertical,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+10/27/2024 14:51:48,V7,Vertical,"Edge, Pinch, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Yes,Maybe
+10/27/2024 14:54:41,V7,Vertical,"Edge, Pinch, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,Maybe,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 14:57:40,V7,Vertical,"Pinch, Side-pull",3,No,,"Wrong body position, Too tired",,No,Maybe,Yes,,Yes,No
+10/27/2024 15:01:11,V7,Vertical,"Edge, Pinch, Side-pull",4,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,No
+10/27/2024 15:03:29,V7,Vertical,Pinch,5,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,Maybe
+10/27/2024 15:08:30,V7,Vertical,"Edge, Pinch, Side-pull",6,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+10/27/2024 15:13:28,V7,Roof,"Sloper, Side-pull",1,No,,Lack familiarity with the move,,No,No,Maybe,,Maybe,Maybe
+10/27/2024 15:15:19,V7,Roof,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Yes,Maybe
+10/27/2024 15:18:17,V7,Roof,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,Maybe
+10/27/2024 15:21:26,V7,Roof,"Crimp, Sloper, Side-pull",5,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+10/27/2024 15:27:22,V7,Roof,"Jug, Crimp, Side-pull",6,No,,Beta to the next move,,No,No,No,,Maybe,No
+10/27/2024 15:30:28,V7,Roof,"Jug, Crimp, Sloper, Side-pull",6,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired, Dry fire",,No,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 15:34:24,V7,Roof,"Crimp, Sloper, Side-pull",7,No,,"Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 15:38:26,V7,Roof,"Jug, Crimp, Sloper, Side-pull",7,No,,"Lack familiarity with the move, Too tired",,No,No,No,,Maybe,Maybe
+10/27/2024 15:43:44,V5,Slab,"Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,Maybe,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 15:45:16,V5,Slab,"Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Wrong body position",,No,Maybe,No,,Maybe,No
+10/27/2024 15:47:00,V5,Slab,"Sloper, Side-pull",3,No,,"Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 15:49:19,V5,Slab,"Sloper, Side-pull",5,No,,"Lack familiarity with the move, Footwork issue, Too tired",,No,Maybe,No,,No,No
+10/27/2024 15:51:26,V5,Slab,"Sloper, Side-pull",6,No,,"Beta to the next move, Too tired",,No,Yes,No,,Yes,Maybe
+10/27/2024 15:57:44,V6,Arête,"Jug, Crimp, Undercling",1,No,,Lack familiarity with the move,,No,No,Maybe,,Maybe,No
+10/27/2024 16:02:53,V6,Arête,"Jug, Edge, Crimp, Side-pull",2,No,,"Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/27/2024 16:03:13,V5,Slab,"Jug, Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+10/27/2024 16:05:37,V5,Slab,"Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+10/27/2024 16:07:41,V5,Slab,"Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Yes,Maybe
+10/27/2024 16:10:39,V5,Slab,"Crimp, Sloper, Side-pull",7,No,,Too tired,,No,Yes,No,,Yes,Yes
+10/27/2024 16:14:54,V6,Roof,"Jug, Side-pull",1,No,,Too tired,,No,Maybe,Yes,,Yes,No
+10/31/2024 13:15:28,V4,Arête,"Edge, Crimp, Side-pull",1,No,,Lack familiarity with the move,,No,Maybe,Maybe,,Maybe,No
+10/31/2024 13:15:56,V5,Vertical,"Edge, Crimp, Sloper, Undercling",2,Yes,,,,No,No,No,,Yes,Yes
+10/31/2024 13:20:08,V6,Vertical,"Crimp, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Maybe,Maybe
+10/31/2024 13:21:39,V6,Vertical,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+10/31/2024 13:56:54,V6,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+10/31/2024 13:58:49,V6,Vertical,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+10/31/2024 14:00:57,V8,Vertical,"Edge, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+10/31/2024 14:03:37,V8,Vertical,"Edge, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+10/31/2024 14:07:37,V8,Vertical,"Edge, Side-pull",3,No,,"Cannot grab on to the hold, Too nervous",,No,No,No,,Maybe,No
+10/31/2024 14:10:25,V8,Vertical,"Edge, Side-pull",4,No,,"Footwork issue, Too nervous",,Maybe,Maybe,Yes,,No,Maybe
+10/31/2024 14:14:07,V8,Vertical,"Edge, Undercling, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Yes,Maybe
+10/31/2024 14:18:45,V8,Vertical,"Edge, Undercling, Side-pull",6,No,,"Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+10/31/2024 14:22:21,V6,Vertical,"Crimp, Sloper, Undercling, Side-pull",1,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+11/2/2024 15:12:20,V4,Vertical,"Edge, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+11/2/2024 15:13:55,V4,Vertical,"Edge, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+11/2/2024 15:18:40,V4,Vertical,"Edge, Side-pull",5,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+11/2/2024 15:19:02,V4,Vertical,"Edge, Side-pull",8,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+11/2/2024 15:21:19,V5,Arête,"Crimp, Pinch",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,No
+11/2/2024 15:23:08,V5,Arête,"Crimp, Pinch, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+11/2/2024 15:25:39,V5,Arête,"Crimp, Pinch, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move, Dry fire",,Maybe,Maybe,Yes,,Yes,Maybe
+11/2/2024 15:28:18,V5,Arête,"Crimp, Pinch, Side-pull",5,Yes,7,,,Maybe,Yes,Yes,,Yes,Maybe
+11/2/2024 15:35:44,V4,Vertical,"Edge, Side-pull",9,Yes,6,,,No,Yes,Yes,,Yes,Yes
+11/2/2024 15:38:25,V6,Roof,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Yes,Maybe
+11/2/2024 15:44:01,V6,Roof,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+11/2/2024 15:45:53,V6,Roof,"Crimp, Sloper, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Yes,,Maybe,Maybe
+11/2/2024 15:48:49,V6,Roof,"Jug, Crimp, Sloper, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,Maybe
+11/2/2024 15:51:54,V6,Roof,"Jug, Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+11/2/2024 15:54:09,V6,Roof,"Jug, Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Yes,Maybe,,Maybe,Maybe
+11/2/2024 15:56:57,V6,Roof,"Crimp, Sloper, Side-pull",6,No,,"Beta to the next move, Too tired",,Maybe,Maybe,Yes,,Maybe,No
+11/2/2024 15:58:56,V6,Roof,"Crimp, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move, Too nervous",,No,No,Maybe,,Maybe,No
+11/2/2024 16:01:35,V6,Roof,"Jug, Crimp, Pinch, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+11/2/2024 16:03:51,V6,Roof,"Jug, Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,No,Maybe,,Maybe,Maybe
+11/2/2024 16:06:51,V6,Roof,"Jug, Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,Yes,No,No,,Maybe,No
+11/2/2024 16:09:20,V6,Roof,"Jug, Crimp, Pinch, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+11/2/2024 16:12:25,V6,Roof,"Jug, Crimp, Pinch, Side-pull",7,Yes,7,,,Maybe,No,Yes,,Maybe,Maybe
+11/2/2024 16:20:11,V6,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,No,Maybe,,Maybe,No
+11/2/2024 16:22:55,V6,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,No,Maybe
+11/2/2024 16:25:43,V6,Vertical,"Crimp, Side-pull",4,No,,Finished second half ,,No,No,Yes,,Yes,Yes
+11/2/2024 16:30:58,V7,Vertical,"Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+11/2/2024 16:32:59,V7,Vertical,"Pinch, Sloper, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Yes,Yes
+11/2/2024 16:35:48,V7,Vertical,"Pinch, Sloper, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,Maybe
+11/2/2024 16:37:05,V7,Vertical,"Pinch, Sloper, Side-pull",5,No,,"Lack familiarity with the move, Footwork issue",,Maybe,No,Yes,,Maybe,Maybe
+11/2/2024 16:38:36,V7,Vertical,"Pinch, Sloper, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Yes,Maybe
+11/2/2024 16:47:59,V6,Roof,"Jug, Crimp, Undercling, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,No,No,No,,Maybe,No
+11/2/2024 16:51:27,V6,Roof,"Jug, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Maybe,,Maybe,No
+11/2/2024 16:51:57,V6,Roof,"Jug, Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,No
+11/2/2024 16:54:51,V6,Roof,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/2/2024 16:58:40,V5,Roof,"Jug, Edge, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Too tired",,Maybe,Maybe,Maybe,,Maybe,Maybe
+11/2/2024 17:00:39,V5,Roof,"Jug, Edge, Undercling, Side-pull",3,No,,"Suboptimal sequence, Lack familiarity with the move, Footwork issue, Too tired",,Maybe,No,Yes,,Maybe,Maybe
+11/7/2024 12:23:04,V4,Vertical,"Pinch, Sloper, Side-pull",1,No,6,,,No,Yes,No,,Yes,Yes
+11/7/2024 12:25:11,V5,Vertical,"Sloper, Pocket",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+11/7/2024 12:27:20,V5,Vertical,"Sloper, Pocket, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+11/7/2024 12:29:31,V5,Vertical,"Sloper, Pocket",3,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Yes,Yes
+11/7/2024 12:32:31,V5,Vertical,Pocket,4,No,,Beta to the next move,,No,No,No,,No,No
+11/7/2024 12:36:35,V5,Vertical,"Crimp, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,No,No
+11/7/2024 12:38:19,V5,Vertical,"Crimp, Sloper, Side-pull",3,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+11/7/2024 12:43:48,V6,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+11/7/2024 12:45:58,V6,Vertical,"Crimp, Side-pull",3,Yes,7,,,Maybe,Maybe,Yes,,Yes,Yes
+11/7/2024 12:51:06,V7,Arête,"Crimp, Sloper, Side-pull",1,Yes,7,,,No,Maybe,Yes,,Yes,Maybe
+11/7/2024 12:53:53,V7,Arête,"Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Maybe,No
+11/7/2024 12:56:01,V7,Arête,"Crimp, Side-pull",2,No,,"Lack familiarity with the move, Cannot grab on to the hold, Dry fire",,No,Yes,No,,Yes,Yes
+11/7/2024 12:58:32,V7,Arête,"Crimp, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,No,Yes,Yes,,Maybe,Maybe
+11/7/2024 13:01:34,V8,Vertical,"Edge, Side-pull",1,No,,"Cannot grab on to the hold, Too nervous",,No,No,Maybe,,No,No
+11/7/2024 13:03:45,V8,Vertical,"Edge, Side-pull",2,No,,"Wrong body position, Footwork issue",,Maybe,Yes,Yes,,Maybe,No
+11/7/2024 13:05:47,V8,Vertical,"Edge, Side-pull",3,No,,"Cannot grab on to the hold, Too tired",,No,Yes,Yes,,Yes,Maybe
+11/7/2024 13:08:58,V8,Vertical,"Edge, Side-pull",4,No,,"Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+11/7/2024 13:13:50,V7,Vertical,"Crimp, Undercling",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Maybe,No
+11/7/2024 13:15:24,V7,Vertical,"Crimp, Undercling, Side-pull",2,No,,"Suboptimal sequence, Cannot grab on to the hold",,Maybe,No,Yes,,No,No
+11/7/2024 13:17:14,V7,Vertical,"Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Footwork issue",,Maybe,No,Yes,,Maybe,No
+11/7/2024 13:19:36,V7,Overhang,"Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Yes,,Maybe,Maybe
+11/7/2024 13:22:19,V7,Arête,"Crimp, Undercling, Side-pull",5,Yes,6,,,Maybe,Maybe,Yes,,Yes,Yes
+11/7/2024 13:26:26,V5,Vertical,"Jug, Undercling, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Yes,Maybe
+11/10/2024 15:39:10,V4,Vertical,"Crimp, Pocket, Side-pull",1,Yes,6,,,No,Yes,Yes,,Yes,Yes
+11/10/2024 15:42:08,V5,Roof,"Jug, Edge",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,No
+11/10/2024 15:45:12,V5,Roof,"Jug, Crimp, Undercling",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Yes,No
+11/10/2024 15:49:15,V5,Roof,"Jug, Crimp, Sloper, Undercling",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Maybe,,Maybe,No
+11/10/2024 15:53:10,V5,Roof,"Crimp, Pinch, Sloper, Undercling, Side-pull",4,Yes,6,,,No,Yes,Yes,,Yes,Yes
+11/10/2024 15:59:42,V6,Overhang,"Edge, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Yes,,Maybe,No
+11/10/2024 16:01:54,V6,Overhang,"Edge, Crimp, Side-pull",2,Yes,5,,,No,Maybe,No,,Yes,Maybe
+11/10/2024 16:08:09,V7,Overhang,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+11/10/2024 16:10:08,V7,Overhang,"Jug, Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Yes,Yes,,Yes,Maybe
+11/10/2024 16:12:44,V7,Overhang,"Jug, Crimp, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+11/10/2024 16:15:09,V7,Overhang,"Crimp, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,No
+11/10/2024 16:16:30,V7,Overhang,"Crimp, Side-pull",6,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Maybe,Maybe
+11/10/2024 16:19:00,V7,Overhang,"Crimp, Sloper, Undercling, Side-pull",7,No,,Beta to the next move,,Maybe,Yes,Yes,,Yes,Yes
+11/10/2024 16:24:22,V7,Overhang,"Crimp, Side-pull",8,No,,Too tired,,No,Yes,Yes,,Maybe,Maybe
+11/10/2024 16:29:07,V6,Roof,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/10/2024 16:32:59,V7,Vertical,"Crimp, Pinch, Side-pull",1,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+11/10/2024 16:40:27,V7,Roof,"Jug, Sloper, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+11/10/2024 16:42:59,V7,Roof,"Jug, Sloper, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+11/10/2024 16:47:03,V7,Roof,"Jug, Sloper, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+11/10/2024 16:49:35,V7,Roof,"Jug, Undercling, Side-pull",8,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,No
+11/10/2024 16:53:34,V7,Roof,"Jug, Undercling, Side-pull",9,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+11/10/2024 16:57:04,V7,Roof,"Jug, Crimp, Sloper, Side-pull",9,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Maybe,Maybe
+11/10/2024 17:01:20,V7,Roof,"Jug, Sloper, Side-pull",10,No,,"Suboptimal sequence, Lack familiarity with the move",,Maybe,Maybe,Yes,,Maybe,No
+11/10/2024 17:05:08,V7,Roof,"Jug, Sloper, Undercling, Side-pull",11,No,,Too tired,,Maybe,No,Yes,,Yes,Maybe
+11/10/2024 17:10:31,V5,Overhang,"Jug, Sloper, Side-pull",1,No,,"Beta to the next move, Too tired",,No,No,Yes,,Maybe,Maybe
+11/10/2024 17:13:34,V5,Overhang,"Sloper, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Yes,Maybe
+11/10/2024 17:16:10,V5,Overhang,"Jug, Sloper, Undercling, Side-pull",3,No,,"Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Yes,Maybe
+11/14/2024 13:18:48,V4,Vertical,"Crimp, Side-pull",1,Yes,6,,,No,No,No,,Maybe,Yes
+11/14/2024 13:19:16,V5,Vertical,"Jug, Sloper, Undercling, Side-pull",1,Yes,6,,,No,No,Yes,,Yes,Maybe
+11/14/2024 13:21:11,V6,Vertical,"Jug, Sloper, Pocket, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+11/14/2024 13:23:51,V6,Vertical,"Sloper, Pocket, Undercling, Side-pull",2,Yes,6,,,No,No,Maybe,,Yes,Yes
+11/14/2024 13:28:40,V7,Vertical,"Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Yes
+11/14/2024 13:30:40,V7,Vertical,"Sloper, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Yes,Yes
+11/14/2024 13:32:22,V7,Vertical,"Crimp, Sloper, Side-pull",5,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+11/14/2024 13:34:03,V7,Vertical,"Crimp, Sloper, Side-pull",7,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,No,Maybe,,No,No
+11/14/2024 13:36:11,V7,Vertical,"Crimp, Sloper, Side-pull",10,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,No,Maybe
+11/14/2024 13:37:54,V7,Vertical,"Crimp, Sloper, Side-pull",11,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+11/14/2024 13:39:44,V7,Vertical,"Sloper, Side-pull",12,No,,"Beta to the next move, Wrong body position",,No,No,No,,Maybe,Maybe
+11/14/2024 13:42:47,V7,Vertical,"Crimp, Sloper, Side-pull",13,No,,"Beta to the next move, Wrong body position",,No,Yes,Yes,,Maybe,Yes
+11/14/2024 13:48:00,V7,Overhang,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,Yes,,Yes,Maybe
+11/14/2024 13:50:10,V7,Overhang,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+11/14/2024 13:53:52,V6,Vertical,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,Yes,,Maybe,No
+11/14/2024 13:56:49,V6,Overhang,"Crimp, Sloper, Side-pull",3,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+11/14/2024 14:01:35,V8,Overhang,"Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Maybe,,Yes,Maybe
+11/14/2024 14:05:45,V8,Overhang,"Crimp, Sloper, Side-pull",3,No,,Beta to the next move,,Maybe,Maybe,Yes,,Maybe,Maybe
+11/14/2024 14:08:36,V7,Vertical,Crimp,1,No,,"Beta to the next move, Suboptimal sequence, Dry fire",,No,No,No,,Maybe,No
+11/14/2024 14:10:22,V7,Vertical,Crimp,2,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Yes,Yes
+11/14/2024 14:12:08,V7,Vertical,Crimp,3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+11/14/2024 14:13:30,V7,Vertical,Crimp,4,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+11/14/2024 14:14:57,V7,Vertical,Crimp,5,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+11/14/2024 14:21:55,V6,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Yes,Maybe,,Maybe,Maybe
+11/14/2024 14:23:45,V6,Vertical,"Crimp, Side-pull",4,Yes,7,,,No,Yes,Maybe,,Yes,Yes
+11/14/2024 14:27:40,V7,Arête,"Crimp, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+11/14/2024 14:28:54,V7,Arête,"Crimp, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,No,No
+11/14/2024 14:31:06,V7,Vertical,"Crimp, Side-pull",3,No,,Suboptimal sequence,,No,No,No,,Maybe,No
+11/14/2024 14:33:06,V7,Arête,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+11/14/2024 14:35:12,V7,Arête,"Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+11/14/2024 14:38:05,V7,Arête,"Crimp, Side-pull",5,No,,"Lack familiarity with the move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+11/14/2024 14:40:40,V7,Arête,"Crimp, Side-pull",6,No,,"Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Maybe,No
+11/14/2024 14:42:47,V7,Arête,"Crimp, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+11/17/2024 14:43:24,V4,Overhang,"Jug, Crimp, Side-pull",1,Yes,7,,,Maybe,Yes,Yes,,Yes,Yes
+11/17/2024 14:50:25,V5,Overhang,"Jug, Sloper, Side-pull",1,Yes,,,,No,Maybe,Yes,,Yes,Maybe
+11/17/2024 14:56:18,V6,Arête,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Yes,No
+11/17/2024 14:59:33,V7,Overhang,"Crimp, Side-pull",1,No,,Suboptimal sequence,,No,No,Yes,,Maybe,No
+11/17/2024 15:02:23,V7,Overhang,"Crimp, Side-pull",2,No,,"Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,No
+11/17/2024 15:05:43,V7,Overhang,"Crimp, Side-pull",3,No,,"Lack familiarity with the move, Too tired",,Maybe,Maybe,Yes,,Yes,No
+11/17/2024 15:08:55,V7,Overhang,"Crimp, Side-pull",4,No,,"Cannot grab on to the hold, Too tired",,Yes,Maybe,Yes,,Maybe,No
+11/17/2024 15:13:33,V6,Roof,"Crimp, Pinch, Undercling",2,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,No
+11/17/2024 15:19:14,V6,Vertical,"Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+11/17/2024 15:21:54,V6,Vertical,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/17/2024 15:24:15,V6,Vertical,"Crimp, Undercling, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,No,No
+11/17/2024 15:26:40,V6,Vertical,"Crimp, Side-pull",3,No,,Beta to the next move,,Maybe,No,Maybe,,Maybe,No
+11/17/2024 15:28:30,V6,Vertical,"Crimp, Side-pull",4,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+11/17/2024 15:30:56,V6,Overhang,"Edge, Crimp, Sloper, Side-pull",1,No,,Lack familiarity with the move,,Maybe,No,Yes,,No,No
+11/17/2024 15:33:48,V6,Overhang,"Edge, Pinch, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Yes,No
+11/17/2024 15:36:31,V6,Overhang,"Edge, Crimp, Pinch, Sloper, Side-pull",3,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Maybe
+11/17/2024 15:39:10,V6,Overhang,"Edge, Crimp, Sloper, Side-pull",4,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,No
+11/17/2024 15:42:10,V6,Overhang,"Edge, Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,No
+11/17/2024 15:44:08,V6,Overhang,"Edge, Crimp, Sloper, Side-pull",6,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+11/17/2024 15:48:49,V6,Roof,"Pocket, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+11/17/2024 15:51:36,V6,Vertical,"Jug, Pinch, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+11/17/2024 15:54:22,V6,Slab,"Jug, Pinch, Side-pull",2,Yes,7,,,No,Maybe,Yes,,Yes,Maybe
+11/17/2024 15:59:55,V5,Overhang,"Jug, Pinch, Side-pull",2,Yes,6,,,No,No,Yes,,Yes,Maybe
+11/21/2024 13:25:12,V4,Overhang,"Jug, Side-pull",1,Yes,6,,,Maybe,No,Yes,,Maybe,No
+11/21/2024 13:30:40,V5,Vertical,"Edge, Crimp, Side-pull",2,Yes,6,,,No,Yes,Maybe,,Maybe,Maybe
+11/21/2024 13:35:11,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/21/2024 13:37:29,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+11/21/2024 13:39:47,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,Yes,,Maybe,Maybe
+11/21/2024 13:42:28,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",4,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+11/21/2024 13:44:42,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",5,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+11/21/2024 13:46:51,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",6,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,No,No
+11/21/2024 13:48:44,V7,Overhang,Pocket,1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,Maybe,No
+11/21/2024 13:50:54,V7,Overhang,Pocket,2,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/21/2024 13:52:58,V7,Overhang,Pocket,3,No,,"Beta to the next move, Lack familiarity with the move",,No,No,No,,No,No
+11/21/2024 13:54:43,V7,Overhang,"Pocket, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+11/21/2024 13:57:18,V7,Overhang,Pocket,5,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Maybe
+11/21/2024 13:59:56,V6,Vertical,"Sloper, Pocket",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+11/21/2024 14:02:40,V6,Vertical,"Sloper, Pocket, Side-pull",2,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+11/21/2024 14:05:08,V6,Vertical,"Sloper, Pocket",3,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,Maybe,,No,No
+11/21/2024 14:07:03,V6,Vertical,"Sloper, Pocket",5,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Yes,,Maybe,No
+11/21/2024 14:09:31,V5,Overhang,"Sloper, Pocket",5,No,,"Cannot grab on to the hold, Wrong body position, Too tired",,No,No,Yes,,Yes,No
+11/21/2024 14:12:38,V6,Vertical,"Sloper, Pocket",6,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+11/21/2024 14:16:35,V7,Arête,"Crimp, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+11/21/2024 14:18:37,V7,Arête,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+11/21/2024 14:20:36,V7,Arête,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+11/21/2024 14:24:15,V6,Overhang,"Jug, Sloper, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,Yes,,Maybe,No
+11/21/2024 14:26:33,V6,Overhang,"Jug, Sloper, Side-pull",2,Yes,7,,,Maybe,No,Yes,,Yes,Yes
+11/21/2024 14:32:12,V8,Overhang,"Edge, Side-pull",1,No,,"Suboptimal sequence, Footwork issue",,No,Maybe,No,,Maybe,No
+11/21/2024 14:33:59,V8,Overhang,"Edge, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,Maybe,Yes,Maybe,,Yes,No
+11/21/2024 14:35:50,V8,Overhang,"Edge, Side-pull",3,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Yes,Maybe
+11/21/2024 14:40:21,V6,Vertical,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,Maybe,No
+11/21/2024 14:43:26,V7,Overhang,"Jug, Crimp, Side-pull",2,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Maybe
+11/21/2024 14:45:00,V7,Overhang,"Jug, Crimp, Side-pull",2,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+11/21/2024 14:46:49,V7,Overhang,"Jug, Crimp, Side-pull",3,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,No
+11/21/2024 14:48:17,V7,Overhang,"Jug, Crimp, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Yes,,Maybe,Maybe
+11/21/2024 14:50:02,V7,Overhang,"Jug, Pinch, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,Yes
+11/21/2024 14:52:47,V5,Overhang,"Jug, Crimp, Side-pull",1,No,,"Suboptimal sequence, Too tired",,No,No,Yes,,Maybe,Maybe
+11/21/2024 14:54:43,V5,Overhang,"Crimp, Side-pull",2,No,,Too tired,,No,No,Yes,,Maybe,Maybe
+11/24/2024 14:50:11,V4,Slab,"Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,Maybe
+11/24/2024 14:52:39,V4,Slab,"Edge, Sloper, Side-pull",2,Yes,7,,,No,Maybe,No,,Yes,Yes
+11/24/2024 14:55:36,V5,Vertical,"Edge, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+11/24/2024 14:59:00,V5,Vertical,"Edge, Undercling, Side-pull",2,Yes,6,,,No,Maybe,Yes,,Yes,Yes
+11/24/2024 15:05:52,V6,Overhang,"Crimp, Pocket, Undercling, Side-pull",1,Yes,7,,,Maybe,Maybe,Yes,,Yes,Maybe
+11/24/2024 15:09:38,V7,Vertical,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,No
+11/24/2024 15:10:54,V7,Vertical,"Edge, Crimp, Side-pull",4,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+11/24/2024 15:12:58,V7,Vertical,"Edge, Crimp, Side-pull",5,No,,Beta to the next move,,No,Yes,No,,Maybe,No
+11/24/2024 15:20:56,V7,Arête,"Crimp, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+11/24/2024 15:23:02,V8,Arête,"Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Footwork issue",,No,No,No,,No,No
+11/24/2024 15:26:15,V8,Arête,"Crimp, Sloper, Side-pull",5,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,No,Yes,,Yes,No
+11/24/2024 15:28:34,V8,Overhang,"Crimp, Sloper, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold",,Yes,No,Yes,,Yes,Maybe
+11/24/2024 15:31:50,V7,Overhang,"Jug, Crimp, Sloper, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+11/24/2024 15:33:55,V7,Overhang,"Crimp, Pinch, Pocket",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+11/24/2024 15:37:04,V7,Roof,"Jug, Crimp, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+11/24/2024 15:38:43,V7,Roof,"Jug, Crimp, Sloper, Undercling",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/24/2024 15:42:23,V7,Overhang,"Crimp, Pinch, Undercling, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Yes,Maybe
+11/24/2024 15:44:48,V7,Overhang,"Crimp, Pinch, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,Yes,,Yes,Yes
+11/24/2024 15:49:16,V7,Overhang,"Crimp, Pinch, Side-pull",5,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,Yes,,Yes,Yes
+11/24/2024 15:53:30,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Wrong body position",,No,No,Yes,,Maybe,No
+11/24/2024 15:56:01,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",4,No,,Cannot grab on to the hold,,No,No,Yes,,Yes,Maybe
+11/24/2024 15:59:32,V7,Overhang,"Crimp, Sloper, Undercling, Side-pull",5,No,,"Suboptimal sequence, Too tired, Too nervous",,No,No,Yes,,Maybe,No
+11/24/2024 16:04:32,V7,Overhang,"Crimp, Side-pull",6,No,,"Suboptimal sequence, Footwork issue",,No,Maybe,Yes,,No,Maybe
+11/24/2024 16:07:14,V6,Vertical,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+11/24/2024 16:09:28,V6,Vertical,"Edge, Crimp, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move, Footwork issue",,No,Maybe,Yes,,Maybe,No
+11/24/2024 16:11:34,V6,Vertical,"Edge, Crimp, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Yes,Maybe
+11/24/2024 16:16:16,V7,Overhang,"Crimp, Side-pull",1,No,,"Cannot grab on to the hold, Too tired",,No,Maybe,Yes,,Maybe,Maybe
+11/24/2024 16:18:20,V7,Overhang,"Crimp, Side-pull",2,No,,"Cannot grab on to the hold, Too tired",,Yes,Yes,Yes,,Yes,Yes
+11/26/2024 14:00:49,V4,Vertical,"Pinch, Sloper, Pocket, Side-pull",1,Yes,7,,,Yes,Yes,Yes,,Yes,Maybe
+11/26/2024 14:04:32,V5,Slab,"Edge, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move, Cannot grab on to the hold",,No,No,No,,Yes,Maybe
+11/26/2024 14:06:54,V5,Slab,"Edge, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+11/26/2024 14:09:09,V5,Slab,"Edge, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+11/26/2024 14:11:01,V5,Slab,"Edge, Sloper, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+11/26/2024 14:14:24,V5,Slab,"Edge, Sloper, Side-pull",6,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Maybe,No,,Maybe,Maybe
+11/26/2024 14:16:38,V5,Slab,"Edge, Sloper, Side-pull",6,No,,"Lack familiarity with the move, Wrong body position",,No,No,No,,Maybe,No
+11/26/2024 14:19:30,V5,Slab,"Crimp, Sloper, Side-pull",7,No,,"Cannot grab on to the hold, Wrong body position",,No,Maybe,No,,Yes,Maybe
+11/26/2024 14:23:35,V5,Slab,"Edge, Sloper, Side-pull",7,Yes,7,,,No,Yes,Maybe,,Yes,Yes
+11/26/2024 14:29:12,V6,Vertical,Pinch,2,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+11/26/2024 14:30:53,V6,Vertical,"Pinch, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+11/26/2024 14:33:15,V6,Vertical,"Edge, Pinch, Side-pull",3,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,No
+11/26/2024 14:35:48,V6,Vertical,"Pinch, Side-pull",4,Yes,7,,,Maybe,Yes,Yes,,Yes,Maybe
+11/26/2024 14:42:12,V4,Slab,"Jug, Undercling, Side-pull",1,Yes,6,,,No,Yes,Yes,,Yes,Maybe
+11/26/2024 14:46:27,V7,Overhang,"Jug, Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,No,Maybe,,Yes,Maybe
+11/26/2024 14:50:23,V7,Overhang,"Jug, Crimp, Side-pull",3,No,,"Lack familiarity with the move, Cannot grab on to the hold",,Yes,No,Yes,,Yes,Yes
+11/26/2024 14:55:40,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,Maybe
+11/26/2024 14:59:38,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,Yes,Maybe,Yes,,Maybe,Maybe
+11/26/2024 15:04:51,V6,Arête,"Sloper, Pocket, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Maybe,Yes,,Yes,No
+11/26/2024 15:06:50,V7,Overhang,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+11/26/2024 15:10:08,V7,Overhang,"Jug, Sloper, Side-pull",2,No,,Beta to the next move,,No,No,No,,Maybe,No
+11/26/2024 15:12:47,V6,Overhang,"Sloper, Side-pull",2,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Yes,,Maybe,No
+11/26/2024 15:13:20,V7,Overhang,"Jug, Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+12/5/2024 12:42:06,V4,Arête,"Crimp, Pinch, Side-pull",1,Yes,6,,,No,Maybe,No,,Yes,Maybe
+12/5/2024 12:45:20,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,No,,Yes,Maybe
+12/5/2024 12:46:55,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+12/5/2024 12:48:44,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+12/5/2024 12:51:30,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,No
+12/5/2024 12:53:26,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+12/5/2024 12:55:28,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",6,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/5/2024 12:57:19,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+12/5/2024 13:00:53,V5,Vertical,"Edge, Crimp, Side-pull",8,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,No,,Maybe,No
+12/5/2024 13:03:00,V5,Vertical,"Edge, Crimp, Undercling, Side-pull",8,No,,"Beta to the next move, Suboptimal sequence",,No,No,Yes,,Yes,No
+12/5/2024 13:05:28,V5,Vertical,"Crimp, Undercling, Side-pull",9,No,6,,,Maybe,Yes,Yes,,Yes,Maybe
+12/5/2024 13:11:27,V6,Vertical,"Pinch, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+12/5/2024 13:13:56,V6,Vertical,"Pinch, Sloper, Side-pull",4,Yes,7,,,No,No,Yes,,Yes,Maybe
+12/5/2024 13:17:13,V7,Roof,"Crimp, Side-pull",1,No,,"Beta to the next move, Too tired",,No,No,Maybe,,No,No
+12/5/2024 13:19:53,V7,Roof,"Crimp, Undercling, Side-pull",2,No,,"Suboptimal sequence, Too tired",,Maybe,Maybe,Yes,,Maybe,Maybe
+12/5/2024 13:26:09,V8,Vertical,"Edge, Side-pull",1,No,,"Lack familiarity with the move, Too tired",,Yes,Maybe,Yes,,Maybe,Maybe
+12/5/2024 13:30:27,V6,Overhang,"Jug, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,No
+12/5/2024 13:32:29,V6,Overhang,"Sloper, Side-pull",1,No,,Too tired,,Maybe,No,Yes,,Maybe,No
+12/5/2024 13:36:53,V5,Arête,"Pinch, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Too tired",,No,Maybe,No,,Maybe,Maybe
+12/5/2024 13:38:37,V5,Arête,"Jug, Pinch, Sloper, Side-pull",2,Yes,6,,,Maybe,No,Yes,,Yes,Maybe
+12/8/2024 14:45:47,V4,Overhang,"Pinch, Side-pull",1,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+12/8/2024 14:49:05,V5,Arête,"Edge, Side-pull",1,No,,Beta to the next move,,No,No,No,,No,Maybe
+12/8/2024 14:51:28,V5,Arête,"Edge, Side-pull",2,No,,Beta to the next move,,No,Yes,No,,No,No
+12/8/2024 14:53:19,V5,Arête,"Edge, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,No,,No,No
+12/8/2024 14:55:45,V5,Overhang,"Jug, Undercling, Side-pull",1,Yes,7,,,No,No,Maybe,,Yes,Yes
+12/8/2024 15:01:01,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,Yes,,Maybe,Maybe
+12/8/2024 15:03:22,V7,Overhang,"Jug, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Maybe,Maybe
+12/8/2024 15:05:29,V7,Overhang,"Crimp, Undercling, Side-pull",4,No,,Cannot grab on to the hold,,Maybe,No,Maybe,,No,No
+12/8/2024 15:07:38,V7,Overhang,"Crimp, Undercling, Side-pull",5,No,,"Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Maybe,Maybe
+12/8/2024 15:10:30,V6,Vertical,Edge,2,No,,Beta to the next move,,No,No,No,,No,No
+12/8/2024 15:12:27,V6,Vertical,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Yes,Maybe
+12/8/2024 15:15:05,V6,Vertical,"Edge, Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,Maybe
+12/8/2024 15:18:49,V6,Vertical,"Edge, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+12/8/2024 15:21:55,V6,Vertical,"Edge, Crimp, Side-pull",5,No,,"Lack familiarity with the move, Cannot grab on to the hold, Too tired",,Maybe,No,Yes,,Maybe,Maybe
+12/8/2024 15:26:58,V6,Vertical,"Edge, Crimp, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Maybe,,Yes,Maybe
+12/8/2024 15:32:19,V6,Vertical,"Edge, Crimp, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move, Footwork issue",,Maybe,No,Yes,,No,No
+12/8/2024 15:36:24,V6,Vertical,"Edge, Crimp, Side-pull",7,Yes,6,,,Maybe,Maybe,Yes,,Maybe,Maybe
+12/8/2024 15:42:26,V6,Roof,"Jug, Sloper, Side-pull",1,Yes,6,,,No,Maybe,Yes,,Yes,Yes
+12/8/2024 15:46:04,V5,Arête,"Edge, Side-pull",3,No,,Beta to the next move,,No,No,No,,No,No
+12/8/2024 15:48:16,V7,Overhang,"Crimp, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+12/8/2024 16:02:27,V5,Slab,"Crimp, Side-pull",2,Yes,7,,,No,Yes,No,,Yes,Maybe
+12/8/2024 16:05:10,V7,Overhang,"Crimp, Side-pull",5,No,,"Beta to the next move, Too tired",,No,No,Yes,,Maybe,Maybe
+12/8/2024 16:34:51,V7,Overhang,"Crimp, Undercling, Side-pull",2,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+12/11/2024 14:37:31,V4,Overhang,"Jug, Side-pull",1,Yes,6,,,No,No,Maybe,,Maybe,Maybe
+12/11/2024 14:42:15,V5,Vertical,"Crimp, Sloper, Side-pull",1,Yes,6,,,No,Maybe,No,,Yes,Yes
+12/11/2024 14:45:12,V6,Arête,"Jug, Crimp, Undercling, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,Maybe,Yes,Yes,,Maybe,No
+12/11/2024 14:48:52,V6,Overhang,"Jug, Crimp, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Yes,,Maybe,Maybe
+12/11/2024 14:51:24,V6,Arête,"Jug, Crimp, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,Yes,,Maybe,No
+12/11/2024 14:55:29,V6,Overhang,"Jug, Crimp, Undercling, Side-pull",4,No,,"Lack familiarity with the move, Cannot grab on to the hold",,No,Yes,Maybe,,Maybe,Maybe
+12/11/2024 14:58:55,V6,Arête,"Jug, Crimp, Undercling, Side-pull",5,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+12/11/2024 15:02:52,V6,Overhang,"Jug, Crimp, Sloper, Undercling, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,Maybe,Yes,,Maybe,Maybe
+12/11/2024 15:07:00,V6,Vertical,"Pinch, Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+12/11/2024 15:09:55,V6,Vertical,"Pinch, Sloper, Undercling, Side-pull",2,Yes,6,,,No,No,Maybe,,Yes,Maybe
+12/11/2024 15:14:10,V7,Vertical,"Edge, Side-pull",2,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+12/11/2024 15:16:15,V7,Vertical,"Edge, Side-pull",4,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Yes,,Maybe,Maybe
+12/11/2024 15:18:53,V7,Overhang,"Edge, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Yes,,Maybe,No
+12/11/2024 15:20:53,V7,Overhang,"Edge, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,Maybe,Maybe,Yes,,Maybe,Maybe
+12/11/2024 15:23:35,V7,Overhang,"Edge, Crimp, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Yes,Maybe
+12/11/2024 15:26:05,V7,Vertical,"Edge, Crimp, Side-pull",8,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+12/11/2024 15:29:54,V7,Overhang,"Edge, Side-pull",9,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Maybe
+12/11/2024 15:32:08,V7,Overhang,"Edge, Crimp, Sloper, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move, Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,No
+12/11/2024 15:36:58,V7,Overhang,"Crimp, Sloper, Side-pull",2,Yes,7,,,No,No,Yes,,Maybe,Maybe
+12/11/2024 15:40:16,V7,Overhang,"Crimp, Sloper, Undercling",1,No,,"Beta to the next move, Dry fire",,No,No,Maybe,,Maybe,Maybe
+12/11/2024 15:42:06,V7,Vertical,"Crimp, Sloper, Undercling",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/11/2024 15:45:52,V7,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Maybe,Maybe
+12/11/2024 15:47:39,V7,Vertical,"Crimp, Side-pull",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,Maybe,,Maybe,No
+12/11/2024 15:50:50,V7,Vertical,"Crimp, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/11/2024 15:53:44,V7,Vertical,"Crimp, Side-pull",4,No,,Too tired,,No,Maybe,Yes,,Maybe,Yes
+12/15/2024 9:41:39,V4,Arête,"Edge, Pinch, Side-pull",1,Yes,6,,,No,Maybe,Yes,,Yes,Maybe
+12/15/2024 9:46:07,V5,Vertical,"Jug, Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/15/2024 9:48:58,V5,Vertical,"Jug, Sloper, Side-pull",2,Yes,6,,,No,Yes,No,,Maybe,Yes
+12/15/2024 9:55:02,V6,Overhang,"Sloper, Undercling, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move, Footwork issue",,No,No,Maybe,,Maybe,Maybe
+12/15/2024 9:57:17,V6,Overhang,"Jug, Sloper, Undercling",2,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,Maybe
+12/15/2024 10:00:47,V6,Overhang,"Jug, Edge, Crimp, Undercling, Side-pull",3,Yes,7,,,Maybe,No,Yes,,Yes,Maybe
+12/15/2024 10:07:10,V7,Roof,"Jug, Edge, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+12/15/2024 10:09:10,V7,Roof,"Jug, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+12/15/2024 10:11:48,V7,Roof,"Jug, Edge, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Yes,No
+12/15/2024 10:16:30,V7,Roof,"Jug, Edge, Side-pull",5,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+12/15/2024 10:17:56,V7,Roof,"Jug, Edge, Undercling, Side-pull",6,No,,Lack familiarity with the move,,No,No,Maybe,,Maybe,Maybe
+12/15/2024 10:23:11,V7,Roof,"Jug, Edge, Sloper, Side-pull",6,Yes,7,,,Maybe,No,Yes,,Yes,Maybe
+12/15/2024 10:32:34,V6,Slab,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/15/2024 10:34:53,V6,Slab,"Crimp, Side-pull",5,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/15/2024 10:36:09,V6,Slab,"Crimp, Side-pull",6,No,,Beta to the next move,,No,Yes,No,,Yes,Yes
+12/15/2024 10:39:29,V6,Vertical,"Edge, Sloper, Side-pull",1,No,,"Lack familiarity with the move, Footwork issue",,No,No,Yes,,No,No
+12/15/2024 10:41:48,V6,Vertical,"Edge, Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,Maybe,No,Yes,,Maybe,Maybe
+12/15/2024 10:46:22,V6,Vertical,"Edge, Crimp, Sloper, Side-pull",3,No,,"Beta to the next move, Lack familiarity with the move",,No,No,Maybe,,Yes,Yes
+12/15/2024 10:49:04,V6,Vertical,"Edge, Sloper, Side-pull",4,No,,Suboptimal sequence,,No,No,Yes,,Maybe,Maybe
+12/15/2024 10:52:40,V6,Vertical,"Edge, Crimp, Sloper, Side-pull",5,Yes,6,,,No,No,Yes,,Yes,Yes
+12/15/2024 11:00:14,V7,Vertical,"Sloper, Undercling, Side-pull",1,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,Yes
+12/15/2024 11:02:37,V7,Vertical,"Sloper, Undercling, Side-pull",4,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Yes,Maybe
+12/15/2024 11:07:58,V6,Roof,Pocket,1,No,,Beta to the next move,,No,No,Maybe,,Yes,Maybe
+12/15/2024 11:11:16,V6,Roof,"Edge, Pocket, Side-pull",3,Yes,7,,,No,No,Yes,,Yes,Maybe
+12/15/2024 11:16:24,V5,Roof,"Jug, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+12/15/2024 11:18:29,V5,Roof,"Jug, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Maybe,No
+12/15/2024 11:21:16,V5,Roof,"Jug, Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move, Too tired",,No,No,No,,Maybe,Maybe
+12/15/2024 11:24:54,V5,Roof,"Jug, Sloper, Undercling, Side-pull",4,Yes,4,,,Yes,No,Maybe,,Maybe,No
+12/18/2024 12:36:44,V4,Vertical,"Crimp, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+12/18/2024 12:37:49,V4,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+12/18/2024 12:39:42,V4,Vertical,"Crimp, Sloper, Undercling, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Yes,Maybe
+12/18/2024 12:41:37,V4,Vertical,"Edge, Crimp, Undercling, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Yes,No,,Maybe,No
+12/18/2024 12:43:23,V4,Vertical,"Edge, Crimp, Undercling, Side-pull",5,Yes,6,,,No,Yes,No,,Yes,Maybe
+12/18/2024 12:48:08,V5,Vertical,"Crimp, Pinch, Sloper, Side-pull",1,Yes,6,,,No,No,Maybe,,Yes,Yes
+12/18/2024 12:51:59,V6,Arête,"Jug, Crimp, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,No,,Maybe,No
+12/18/2024 12:55:57,V6,Arête,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,Yes,Maybe,Maybe,,Maybe,No
+12/18/2024 12:59:02,V6,Arête,"Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,Maybe,Maybe,,Maybe,Yes
+12/18/2024 13:02:32,V6,Arête,"Jug, Crimp, Side-pull",6,No,,"Cannot grab on to the hold, Wrong body position, Too nervous",,No,No,Maybe,,Maybe,No
+12/18/2024 13:05:03,V6,Arête,"Crimp, Side-pull",7,No,,"Beta to the next move, Cannot grab on to the hold, Wrong body position",,Maybe,Maybe,Yes,,Maybe,Maybe
+12/18/2024 13:10:00,V6,Arête,"Jug, Crimp, Undercling, Side-pull",8,Yes,7,,,Maybe,Yes,Maybe,,Yes,Yes
+12/18/2024 13:14:48,V7,Vertical,"Edge, Pinch, Undercling, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Yes,No
+12/18/2024 13:16:19,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/18/2024 13:18:31,V7,Vertical,"Crimp, Pinch, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/18/2024 13:23:14,V7,Vertical,"Crimp, Pinch, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,No,,Yes,Maybe
+12/18/2024 13:26:01,V7,Vertical,"Crimp, Pinch, Side-pull",6,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/18/2024 13:27:59,V7,Vertical,"Crimp, Pinch, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,Maybe
+12/18/2024 13:31:24,V7,Vertical,"Crimp, Pinch, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Yes,Maybe
+12/18/2024 13:33:16,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",8,No,,"Beta to the next move, Too tired",,No,No,No,,Maybe,Maybe
+12/18/2024 13:38:07,V7,Slab,"Crimp, Side-pull",1,No,,"Beta to the next move, Dry fire",,No,No,No,,Maybe,No
+12/18/2024 13:40:09,V7,Vertical,"Crimp, Side-pull",3,No,,Beta to the next move,,No,No,No,,No,No
+12/18/2024 13:42:42,V7,Slab,"Crimp, Side-pull",4,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/18/2024 13:45:05,V6,Vertical,"Jug, Sloper, Side-pull",1,No,,"Beta to the next move, Footwork issue",,No,No,Maybe,,Maybe,No
+12/18/2024 13:46:47,V6,Vertical,"Jug, Sloper, Side-pull",2,Yes,5,,,Maybe,No,Yes,,Maybe,Maybe
+12/18/2024 13:50:39,V8,Overhang,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold, Dry fire",,No,Maybe,No,,Maybe,Maybe
+12/18/2024 13:54:31,V7,Roof,"Crimp, Side-pull",1,No,,"Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,Maybe
+12/18/2024 13:56:01,V7,Roof,"Crimp, Undercling, Side-pull",2,No,,Too tired,,Yes,No,Yes,,Maybe,No
+12/18/2024 13:58:26,V6,Vertical,"Edge, Crimp, Side-pull",3,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/18/2024 14:00:53,V6,Vertical,"Edge, Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold, Too tired",,No,Maybe,Yes,,Yes,Yes
+12/18/2024 14:04:17,V6,Vertical,"Edge, Crimp, Undercling, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Yes,Yes
+12/18/2024 14:07:35,V6,Vertical,"Edge, Crimp, Undercling, Side-pull",7,No,,"Beta to the next move, Too tired",,No,Yes,Yes,,Yes,Yes
+12/18/2024 14:11:45,V5,Vertical,"Crimp, Sloper, Side-pull",3,Yes,6,,,Maybe,Maybe,Yes,,Maybe,Maybe
+12/21/2024 10:24:13,V4,Slab,"Jug, Crimp, Side-pull",1,No,,"Suboptimal sequence, Lack familiarity with the move",,No,No,No,,Yes,Maybe
+12/21/2024 10:26:17,V4,Slab,"Jug, Crimp, Undercling, Side-pull",2,No,5,,,Maybe,Maybe,Maybe,,Yes,Maybe
+12/21/2024 10:29:41,V5,Vertical,"Crimp, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,No,,Maybe,No
+12/21/2024 10:31:31,V5,Vertical,"Crimp, Sloper, Side-pull",2,Yes,6,,,No,Yes,Maybe,,Yes,Yes
+12/21/2024 10:39:09,V5,Slab,"Crimp, Side-pull",1,Yes,7,,,No,Yes,No,,Yes,Yes
+12/21/2024 11:01:37,V6,Vertical,"Edge, Crimp, Side-pull",1,No,,"Cannot grab on to the hold, Wrong body position",,No,Maybe,Maybe,,Maybe,No
+12/21/2024 11:05:14,V6,Vertical,"Edge, Crimp, Side-pull",2,Yes,6,,,No,Yes,No,,Yes,Yes
+12/21/2024 11:09:02,V4,Vertical,"Jug, Edge, Side-pull",1,No,,Beta to the next move,,No,Yes,No,,Maybe,Maybe
+12/21/2024 11:12:14,V4,Vertical,"Jug, Edge, Side-pull",2,No,,Beta to the next move,,No,No,Yes,,No,Maybe
+12/21/2024 11:15:01,V4,Vertical,"Jug, Edge, Side-pull",4,No,,Beta to the next move,,No,No,Yes,,No,Maybe
+12/21/2024 11:18:07,V4,Vertical,"Jug, Edge, Undercling, Side-pull",6,No,,Lack familiarity with the move,,No,Yes,Yes,,Maybe,Maybe
+12/21/2024 11:22:13,V4,Vertical,"Jug, Edge, Undercling, Side-pull",7,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,No
+12/21/2024 11:24:00,V4,Vertical,"Jug, Edge, Undercling, Side-pull",9,No,,Beta to the next move,,No,Maybe,Yes,,Maybe,Maybe
+12/21/2024 11:32:45,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+12/21/2024 11:37:55,V7,Vertical,"Crimp, Pinch, Side-pull",2,No,,Beta to the next move,,No,Maybe,Maybe,,Yes,Maybe
+12/21/2024 11:40:22,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/21/2024 11:44:47,V4,Vertical,"Jug, Crimp, Undercling, Side-pull",10,No,7,,,No,Maybe,Yes,,Yes,Maybe
+12/21/2024 11:48:45,V7,Vertical,"Edge, Crimp, Undercling, Side-pull",4,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/21/2024 11:50:30,V7,Vertical,"Edge, Crimp, Side-pull",5,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/21/2024 11:51:40,V7,Vertical,"Crimp, Pinch, Undercling, Side-pull",5,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,Maybe
+12/21/2024 11:53:57,V8,Vertical,"Edge, Side-pull",1,No,,"Beta to the next move, Too tired",,No,Yes,No,,Yes,Maybe
+12/23/2024 19:48:04,V4,Arête,"Edge, Pinch, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,Yes
+12/23/2024 19:50:28,V5,Vertical,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+12/23/2024 19:53:29,V5,Vertical,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,No,No,,Maybe,Maybe
+12/23/2024 19:55:47,V5,Vertical,"Crimp, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Yes,Maybe
+12/23/2024 20:00:49,V5,Vertical,"Crimp, Side-pull",5,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,Maybe,Maybe
+12/23/2024 20:06:41,V5,Vertical,"Crimp, Side-pull",6,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+12/23/2024 20:10:20,V6,Vertical,"Crimp, Side-pull",1,No,,"Beta to the next move, Lack familiarity with the move",,No,Maybe,Maybe,,Maybe,Maybe
+12/23/2024 20:13:08,V6,Vertical,"Crimp, Sloper, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,Maybe,,Maybe,No
+12/23/2024 20:16:02,V6,Vertical,"Crimp, Sloper, Side-pull",3,Yes,6,,,No,Maybe,Yes,,Maybe,Maybe
+12/23/2024 20:20:01,V7,Arête,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+12/23/2024 20:24:02,V5,Vertical,"Crimp, Pinch, Side-pull",1,Yes,5,,,No,Maybe,Maybe,,Maybe,Maybe
+12/23/2024 20:26:22,V7,Arête,"Crimp, Side-pull",2,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+12/23/2024 20:31:16,V6,Arête,"Edge, Crimp, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+12/23/2024 20:33:59,V6,Arête,"Edge, Crimp, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/23/2024 20:37:03,V6,Arête,"Edge, Pinch",3,No,,Beta to the next move,,No,Maybe,No,,Maybe,Maybe
+12/23/2024 20:42:43,V6,Arête,"Edge, Side-pull",3,Yes,7,,,No,Maybe,Maybe,,Yes,Yes
+12/23/2024 20:49:56,V7,Overhang,"Crimp, Side-pull",1,No,,"Cannot grab on to the hold, Too tired",,No,No,Maybe,,Maybe,Maybe
+12/23/2024 20:54:08,V6,Overhang,"Sloper, Side-pull",1,No,,"Beta to the next move, Wrong body position",,No,Maybe,Maybe,,Maybe,Maybe
+12/23/2024 20:56:43,V7,Overhang,"Edge, Crimp, Side-pull",2,No,,"Beta to the next move, Too tired",,No,No,Maybe,,Maybe,Maybe
+12/23/2024 21:05:11,V6,Arête,"Edge, Sloper, Side-pull",1,No,,Beta to the next move,,No,No,Yes,,Maybe,Maybe
+12/23/2024 21:07:04,V6,Arête,"Edge, Sloper, Side-pull",2,No,,Beta to the next move,,No,Maybe,No,,No,No
+12/23/2024 21:08:31,V6,Arête,"Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,No,,No,No
+12/23/2024 21:09:53,V6,Arête,"Edge, Sloper, Side-pull",4,No,,Beta to the next move,,No,No,Maybe,,No,No
+12/23/2024 21:11:35,V6,Overhang,"Sloper, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+12/23/2024 21:13:58,V7,Vertical,Crimp,1,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,No
+12/23/2024 21:15:44,V7,Vertical,Crimp,2,No,,"Beta to the next move, Cannot grab on to the hold, Too tired",,No,No,No,,No,No
+12/23/2024 21:18:50,V6,Overhang,Sloper,3,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+12/23/2024 21:20:30,V6,Overhang,"Sloper, Side-pull",4,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+12/23/2024 21:25:44,V6,Overhang,"Pocket, Undercling, Side-pull",1,Yes,6,,,Maybe,Maybe,Maybe,,Yes,Maybe
+12/23/2024 21:35:18,V7,Arête,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+12/23/2024 21:36:54,V7,Overhang,"Crimp, Side-pull",2,No,,Beta to the next move,,No,Yes,Yes,,Yes,Maybe
+12/23/2024 21:39:12,V7,Arête,"Jug, Crimp",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+12/23/2024 21:43:19,V7,Arête,"Edge, Crimp, Side-pull",4,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+12/23/2024 21:47:31,V7,Overhang,"Jug, Crimp, Side-pull",5,No,,"Beta to the next move, Too tired",,No,Maybe,Maybe,,Maybe,Maybe
+12/26/2024 19:47:52,V4,Roof,"Jug, Side-pull",1,Yes,6,,,Maybe,Maybe,Maybe,,Maybe,Maybe
+12/26/2024 19:51:42,V5,Overhang,"Jug, Undercling, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,No,No
+12/26/2024 19:53:42,V5,Overhang,"Jug, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Maybe,,Maybe,No
+12/26/2024 19:55:59,V5,Overhang,"Jug, Undercling, Side-pull",3,Yes,6,,,No,Maybe,Maybe,,Yes,Maybe
+12/26/2024 20:01:29,V6,Overhang,"Edge, Pinch, Side-pull",1,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,Maybe
+12/26/2024 20:04:45,V6,Overhang,"Edge, Pinch, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,No
+12/26/2024 20:07:34,V6,Overhang,"Edge, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,Yes,,Maybe,No
+12/26/2024 20:10:36,V6,Overhang,"Edge, Side-pull",4,No,,Beta to the next move,,Maybe,No,Yes,,Maybe,Maybe
+12/26/2024 20:16:23,V6,Overhang,"Edge, Pinch, Side-pull",4,No,,Beta to the next move,,Maybe,Maybe,Yes,,Yes,Maybe
+12/26/2024 20:26:02,V6,Overhang,"Edge, Pinch, Side-pull",5,Yes,7,,,No,Maybe,Yes,,Yes,Yes
+12/26/2024 20:29:13,V6,Arête,"Edge, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Maybe,,Maybe,Maybe
+12/26/2024 20:31:34,V6,Arête,"Edge, Undercling, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,Maybe,No,,Maybe,Maybe
+12/26/2024 20:33:31,V6,Arête,"Edge, Undercling, Side-pull",3,No,,Beta to the next move,,No,No,Maybe,,Maybe,Maybe
+12/26/2024 20:38:10,V6,Roof,"Jug, Crimp, Undercling",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+12/26/2024 20:41:30,V6,Roof,"Jug, Crimp, Undercling",2,No,,"Beta to the next move, Suboptimal sequence, Lack familiarity with the move",,No,Maybe,Yes,,Yes,Maybe
+12/26/2024 20:43:57,V7,Arête,"Crimp, Pinch, Side-pull",1,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Maybe
+12/26/2024 20:46:21,V7,Arête,"Crimp, Pinch, Side-pull",2,No,,"Beta to the next move, Cannot grab on to the hold",,No,No,Yes,,Maybe,Maybe
+12/26/2024 20:48:29,V7,Arête,"Crimp, Pinch, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,Yes,,Maybe,Maybe
+12/26/2024 20:53:04,V7,Arête,"Crimp, Pinch, Side-pull",4,No,,"Beta to the next move, Suboptimal sequence, Cannot grab on to the hold",,No,Maybe,Maybe,,Maybe,Maybe
+12/26/2024 20:54:13,V7,Arête,"Crimp, Pinch, Side-pull",5,Yes,7,,,No,Yes,Yes,,Yes,Yes
+12/26/2024 21:03:27,V6,Roof,"Crimp, Sloper, Side-pull",3,Yes,7,,,No,No,Yes,,Maybe,Maybe
+12/26/2024 21:06:09,V8,Roof,"Sloper, Side-pull",1,No,,Beta to the next move,,No,Maybe,No,,Maybe,No
+12/26/2024 21:11:49,V6,Roof,"Jug, Sloper, Undercling",1,No,,Beta to the next move,,No,No,Maybe,,No,No
+12/26/2024 21:13:55,V6,Roof,"Jug, Sloper, Side-pull",3,No,,Beta to the next move,,No,Maybe,Maybe,,Maybe,No
+12/26/2024 21:18:38,V6,Roof,"Jug, Sloper, Side-pull",3,Yes,5,,,Maybe,No,Yes,,Maybe,No
+12/29/2024 10:38:59,V4,Slab,"Crimp, Side-pull",1,Yes,7,,,No,Yes,Maybe,,Yes,No
+12/29/2024 10:41:33,V5,Slab,"Crimp, Side-pull",1,Yes,6,,,No,Yes,No,,Yes,Maybe
+12/29/2024 10:50:47,V7,Slab,"Crimp, Side-pull",1,No,,Beta to the next move,,No,No,Maybe,,Maybe,No
+12/29/2024 10:52:49,V7,Slab,"Crimp, Side-pull",2,No,,"Beta to the next move, Suboptimal sequence",,No,No,No,,No,No
+12/29/2024 10:56:06,V7,Slab,"Crimp, Side-pull",3,No,,"Beta to the next move, Suboptimal sequence, Wrong body position",,No,Maybe,Maybe,,Maybe,No
+12/29/2024 11:02:40,V7,Slab,"Crimp, Side-pull",5,No,,Beta to the next move,,No,No,No,,Maybe,Maybe
+12/29/2024 11:04:07,V7,Slab,"Crimp, Side-pull",6,No,,"Suboptimal sequence, Cannot grab on to the hold",,No,No,Maybe,,Yes,Maybe
+12/29/2024 11:09:56,V7,Slab,"Crimp, Side-pull",7,No,,"Beta to the next move, Suboptimal sequence, Too tired",,No,No,Maybe,,Maybe,No
+12/29/2024 11:11:45,V7,Slab,"Crimp, Side-pull",8,No,,"Beta to the next move, Too tired",,No,Maybe,No,,Maybe,Yes
+12/29/2024 11:18:35,V8,Vertical,"Edge, Side-pull",1,No,,"Wrong body position, Too tired",,Maybe,No,Maybe,,Yes,No
+12/29/2024 11:20:32,V8,Vertical,"Edge, Side-pull",2,No,,Beta to the next move,,No,Yes,Maybe,,Yes,Maybe
+12/29/2024 11:22:09,V8,Vertical,"Edge, Side-pull",3,No,,Beta to the next move,,Maybe,Yes,Yes,,Yes,Maybe
+12/29/2024 11:24:14,V8,Vertical,"Edge, Side-pull",4,No,,"Suboptimal sequence, Wrong body position, Footwork issue",,No,Yes,Yes,,Maybe,Maybe
+12/29/2024 11:26:50,V8,Vertical,"Edge, Side-pull",5,No,,Beta to the next move,,No,Yes,No,,Maybe,No
+12/29/2024 11:29:06,V8,Vertical,"Edge, Side-pull",6,No,,"Cannot grab on to the hold, Too tired",,No,Yes,Maybe,,Maybe,Maybe
+12/29/2024 11:31:39,V8,Vertical,"Edge, Side-pull",8,No,,Too tired,,Maybe,Maybe,Maybe,,Yes,Yes
