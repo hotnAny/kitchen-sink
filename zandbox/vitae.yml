@@ -288,6 +288,42 @@ Professional Experiences:
       link: ''
 Publications:
   Conferences & Journals:
+    - startYear: '2025'
+      endYear: ''
+      label: ISBI
+      description: >-
+        Hongyan Gu, Ellie Onstott, Wenzhong Yan, Tengyou Xu, Ruolin Wang, Zida
+        Wu, Xiang 'Anthony' Chen, Mohammad Haeri. Z-Stack Scanning can Improve
+        AI Detection of Mitosis: A Case Study of Meningiomas. 2025 IEEE
+        International Symposium on Biomedical Imaging.
+      link: ''
+    - startYear: '2025'
+      endYear: ''
+      label: NAACL
+      description: >-
+        Ziwen Li, Xiang 'Anthony' Chen, and Youngseung Jeon. 2025. GraPPI: A
+        Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein
+        Interaction Exploration. In Findings of the Association for
+        Computational Linguistics: NAACL 2025.
+      link: ''
+    - startYear: '2025'
+      endYear: ''
+      label: IUI
+      description: >-
+        Youngseung Jeon, Christopher Hwang, Xiang 'Anthony' Chen. Empowering
+        Medical Data Labeling for Non-Experts with DANNY: Enhancing Accuracy and
+        Mitigating Over-Reliance on AI. In Proceedings of the 30th International
+        Conference on Intelligent User Interfaces.
+      link: ''
+    - startYear: '2025'
+      endYear: ''
+      label: CHI
+      description: >-
+        Xingyu Bruce Liu, Shitao Fang, Weiyan Shi, Chien-Sheng Wu, Takeo
+        Igarashi, Xiang 'Anthony' Chen. Proactive Conversational Agents with
+        Inner Thoughts. In Proceedings of the 2025 CHI Conference on Human
+        Factors in Computing Systems.
+      link: ''
     - startYear: '2024'
       endYear: ''
       label: IUI
@@ -1265,6 +1301,13 @@ Press:
       link: ''
 Talks:
   '':
+    - startYear: '2025'
+      endYear: ''
+      label: ''
+      description: |-
+        Rethinking HCI's Grand Challenges in the Era of Generative AI
+        University of Cambridge (hosted by Per Ola Kristensson)
+      link: ''
     - startYear: '2024'
       endYear: ''
       label: ''
@@ -1469,32 +1512,32 @@ Teaching & Mentoring:
       link: ''
   Ph.D. Students Mentored:
     - startYear: '2022'
-      endYear: ''
+      endYear: now
       label: ''
       description: Youngseung Jeon (UCLA ECE)
       link: ''
     - startYear: '2020'
-      endYear: ''
+      endYear: now
       label: ''
       description: Xingyu Liu (UCLA ECE)
       link: ''
     - startYear: '2019'
-      endYear: ''
+      endYear: '2024'
       label: ''
       description: Ruolin Wang (UCLA ECE)
       link: ''
     - startYear: '2019'
-      endYear: ''
+      endYear: '2024'
       label: ''
       description: Noyan Evirgen (UCLA ECE)
       link: ''
     - startYear: '2018'
-      endYear: ''
+      endYear: '2025'
       label: ''
       description: Hongyan Gu (UCLA ECE)
       link: ''
     - startYear: '2018'
-      endYear: ''
+      endYear: '2024'
       label: ''
       description: Jiahao Li (UCLA MAE)
       link: ''
@@ -1700,7 +1743,7 @@ Service:
       endYear: Now
       label: ''
       description: |-
-        CHI 2015-2016
+        CHI 2015-2016, 2025
         UIST 2015-2016
         Ubicomp 2016
         CHI PLAY 2014
