@@ -296,7 +296,7 @@ Publications:
         Wu, Xiang 'Anthony' Chen, Mohammad Haeri. Z-Stack Scanning can Improve
         AI Detection of Mitosis: A Case Study of Meningiomas. 2025 IEEE
         International Symposium on Biomedical Imaging.
-      link: ''
+      link: 'https://ieeexplore.ieee.org/abstract/document/10980734'
     - startYear: '2025'
       endYear: ''
       label: NAACL
@@ -305,7 +305,7 @@ Publications:
         Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein
         Interaction Exploration. In Findings of the Association for
         Computational Linguistics: NAACL 2025.
-      link: ''
+      link: 'https://aclanthology.org/2025.findings-naacl.201/'
     - startYear: '2025'
       endYear: ''
       label: IUI
@@ -314,7 +314,7 @@ Publications:
         Medical Data Labeling for Non-Experts with DANNY: Enhancing Accuracy and
         Mitigating Over-Reliance on AI. In Proceedings of the 30th International
         Conference on Intelligent User Interfaces.
-      link: ''
+      link: 'https://dl.acm.org/doi/full/10.1145/3708359.3712161'
     - startYear: '2025'
       endYear: ''
       label: CHI
@@ -323,7 +323,7 @@ Publications:
         Igarashi, Xiang 'Anthony' Chen. Proactive Conversational Agents with
         Inner Thoughts. In Proceedings of the 2025 CHI Conference on Human
         Factors in Computing Systems.
-      link: ''
+      link: 'https://dl.acm.org/doi/full/10.1145/3706598.3713760'
     - startYear: '2024'
       endYear: ''
       label: IUI
@@ -332,7 +332,7 @@ Publications:
         Enhancing User Understanding through Text-to-Image Model Explanations.
         In Proceedings of the 29th International Conference on Intelligent User
         Interfaces.
-      link: ''
+      link: 'https://dl.acm.org/doi/abs/10.1145/3640543.3645173'
     - startYear: '2024'
       endYear: ''
       label: CHI
@@ -342,7 +342,7 @@ Publications:
         Situational Impairments. In Proceedings of the 2024 CHI Conference on
         Human Factors in Computing Systems.
       award: Best Paper Honorable Mention Award
-      link: ''
+      link: 'https://dl.acm.org/doi/full/10.1145/3613904.3642065'
     - startYear: '2024'
       endYear: ''
       label: ANC
@@ -362,7 +362,7 @@ Publications:
         2024. Speed Labeling: Non-stop Scrolling for Fast Image Labeling. The
         50th International Conference on Graphics Interface and Human-Computer
         Interaction (Gl 2024), Halifax, Nova Scotia, Canada, 3-6 June 2024.
-      link: ''
+      link: 'https://dl.acm.org/doi/abs/10.1145/3670947.3670958'
     - startYear: '2024'
       endYear: ''
       label: alt.chi
@@ -370,7 +370,7 @@ Publications:
         Xiang 'Anthony' Chen. HCI Papers Cite HCI Papers, Increasingly So. In
         Proceedings of the 2024 CHI Conference on Human Factors in Computing
         Systems.
-      link: ''
+      link: 'https://dl.acm.org/doi/full/10.1145/3613905.3644070'
     - startYear: '2024'
       endYear: ''
       label: ICHI
@@ -379,7 +379,7 @@ Publications:
         Shino Magaki, Mohammad Haeri, Xiang 'Anthony' Chen. Supporting Mitosis
         Detection AI Training with Inter-Observer Eye-Gaze Consistencies. In
         2024 IEEE 12th International Conference on Healthcare Informatics.
-      link: ''
+      link: 'https://ieeexplore.ieee.org/abstract/document/10628541'
     - startYear: '2024'
       endYear: ''
       label: MEDIA
@@ -986,6 +986,34 @@ Publications:
         revolutionize accessibility. Commun. ACM, 2019.
       link: 'https://dl.acm.org/doi/abs/10.1145/3339824'
   'Workshop, Demo, Work-in-Progress, Poster, and Consortium Papers':
+    - startYear: '2025'
+      endYear: ''
+      label: CHI
+      description: >-
+        Xingyu Bruce Liu, Haijun Xia, Xiang 'Anthony' Chen. Interacting with
+        Thoughtful AI. In CHI 2025 Workshop on Tools for Thought: Research and
+        Design for Understanding, Protecting, and Augmenting Human Cognition
+        with Generative AI.
+      link: ''
+    - startYear: '2024'
+      endYear: ''
+      label: CHI
+      description: >-
+        Youngseung Jeon, Matthew K. Hong, Yan-Ying Chen, Kalani Murakami,
+        Jonathan Q. Li, Xiang 'Anthony' Chen, and Matthew Klenk. Weaving ML with
+        Human Aesthetic Assessments to Augment Design Space Exploration: An
+        Automotive Wheel Design Case Study. In Extended Abstracts of the CHI
+        Conference on Human Factors in Computing Systems.
+      link: ''
+    - startYear: '2024'
+      endYear: ''
+      label: IUI
+      description: >-
+        Chunxu Yang, Mohammad Haeri, Shino Magaki, Neda Zarrin-Khameh, Hongyan
+        Gu, and Xiang 'Anthony' Chen. A Human-AI Collaborative System to Support
+        Mitosis Assessment in Pathology. In Companion Proceedings of the 29th
+        International Conference on Intelligent User Interfaces.
+      link: ''
     - startYear: '2023'
       endYear: ''
       label: CHI
@@ -1084,13 +1112,22 @@ Publications:
       link: ''
 Patents:
   '':
+    - startYear: '2025'
+      endYear: ''
+      label: ''
+      description: >-
+        Xiang 'Anthony' Chen, Hongyan Gu, Mohammad Haeri, Shino Magaki. Systems
+        and Methods for Mitosis Detection and Quantification Using Digital
+        Pathology. U.S. Patent Application PCT/US2025/013235, filed January 27,
+        2025.
+      link: ''
     - startYear: '2022'
       endYear: ''
       label: ''
       description: >-
         Gierad Laput, Christopher Harrison, and Xiang 'Anthony' Chen. Method of
         Fabricating Soft Fibers Using Fused Deposition Modeling. U.S. Patent
-        Application 15/772,193, issued filed April 5, 2022.
+        Application 15/772,193, issued April 5, 2022.
       link: 'https://patents.google.com/patent/US11292169B2/en'
     - startYear: '2019'
       endYear: ''
@@ -1367,19 +1404,6 @@ Talks:
       endYear: ''
       label: ''
       description: |-
-        Expanding the Interaction Bandwidth Between Human and AI
-        Tsinghua University (hosted by Chun Yu)
-        Peking University (hosted by Yizhou Wang)
-        Fudan University (hosted by Tun Lu)
-        Tongji University (hosted by Yang Shi)
-        Sun Yat-Sen University
-        South China University of Technology (hosted by C. L. Philip Chen)
-        Xiamen University (hosted by Junfeng Yao)
-      link: ''
-    - startYear: '2019'
-      endYear: ''
-      label: ''
-      description: |-
         Designing Explainable Intelligent Systems
         The 5th Summer School on Computational Interaction, New York, U.S.
       link: ''
@@ -1409,7 +1433,7 @@ Talks:
       label: ''
       description: |-
         Enabling End-User Creativity with New Fabrication Techniques
-        X-Studio, Tsinghua University, Beijing, China (hosted by Ying-Qing Xu
+        X-Studio, Tsinghua University, Beijing, China (hosted by Ying-Qing Xu)
       link: ''
     - startYear: '2015'
       endYear: ''
@@ -1565,6 +1589,12 @@ Service:
       endYear: Now
       label: ''
       description: |-
+        Katelyn Morrison (CMU HCII)
+        Zhaoliang Zheng (UCLA ECE)
+        Kunlin Cai (UCLA ECE)
+        Kia Karbasi (UCLA ECE)
+        Julian De Gortari Briseno (UCLA ECE)
+        Wenzhuo Yu (UCLA ECE)
         Jeffrey Jiang (UCLA ECE)
         Tonmoy Monsoor (UCLA ECE)
         Mahmoud Essalat (UCLA ECE)
@@ -1578,6 +1608,14 @@ Service:
       endYear: Now
       label: ''
       description: |-
+        Christina Minyoung Lee (UCLA ECE)
+        William Jinglin Huang (UCLA ECE)
+        Ziwen Li (UCLA ECE)
+        Chunxu Yang (UCLA ECE)
+        Haolin Xiong (UCLA ECE)
+        Xiaoying Yang (UCLA ECE)
+        Matthew Waliman (UCLA ECE)
+        Rikako Hatoya (UCLA ECE)
         Oyku Bozkurt (UCLA ECE)
         Steve Mendoza (UCLA ECE)
         Siyou Pei (UCLA ECE)
@@ -1586,6 +1624,11 @@ Service:
         Akash Singh (UCLA ECE)
       link: ''
   Pre-college Education & Outreach:
+    - startYear: '2024'
+      endYear: ''
+      label: ''
+      description: Gesture Lecturer for the UCLA Summer Institute CS97 Generative AI
+      link: ''
     - startYear: '2020'
       endYear: ''
       label: ''
@@ -1595,12 +1638,12 @@ Service:
       link: ''
   Review Panel:
     - startYear: '2023'
-      endYear: '2023'
+      endYear: ''
       label: ''
       description: 'Andy Hill CARE Fund '
       link: ''
     - startYear: '2021'
-      endYear: '2022'
+      endYear: '2024'
       label: ''
       description: National Science Foundation
       link: ''
@@ -1611,6 +1654,13 @@ Service:
       description: Proceedings of the ACM on Human-Computer Interaction
       link: ''
   Program Committee:
+    - startYear: '2026'
+      endYear: ''
+      label: CHI
+      description: >-
+        Computational Interaction Subcommittee Chair for ACM CHI Conference on
+        Human Factors in Computing Systems
+      link: ''
     - startYear: '2021'
       endYear: '2022'
       label: CSCW
