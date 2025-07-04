@@ -182,6 +182,11 @@ Awards:
       description: University of Hong Kong Crimson Summer Exchange Co-Fellowship
       link: ''
   Awards Won by Students:
+    - startYear: '2025'
+      endYear: ''
+      label: ''
+      description: Xingyu Liu - UCLA ECE Dissertation Year Fellowship
+      link: ''
     - startYear: '2024'
       endYear: ''
       label: ''
@@ -324,6 +329,25 @@ Publications:
         Inner Thoughts. In Proceedings of the 2025 CHI Conference on Human
         Factors in Computing Systems.
       link: 'https://dl.acm.org/doi/full/10.1145/3706598.3713760'
+    - startYear: '2025'
+      endYear: ''
+      label: DIS
+      description: >-
+        Xiang 'Anthony' Chen, Tiffany Knearem, and Yang Li. 2025. The GenUI
+        Study: Exploring the Design of Generative UI Tools to Support UX
+        Practitioners and Beyond. In Proceedings of the 2025 ACM Designing
+        Interactive Systems Conference. 
+      link: 'https://doi.org/10.1145/3715336.3735780'
+    - startYear: '2025'
+      endYear: ''
+      label: UIST
+      description: >-
+        Ruolin Wang, Xingyu Bruce Liu, Biao Wang, Wayne Zhang, Ziqian Liao,
+        Ziwen Li, Amy Pavel, Xiang 'Anthony' Chen. CoSight: Exploring Viewer
+        Contributions to Online Video Accessibility Through Descriptive
+        Commenting. The 38th Annual ACM Symposium on User Interface Software and
+        Technology.
+      link: ''
     - startYear: '2024'
       endYear: ''
       label: IUI
@@ -1351,6 +1375,13 @@ Talks:
       description: |-
         Building Human-Centered AI Systems
         Stanford HCI Seminar (hosted by Michael Bernstein)
+      link: ''
+    - startYear: '2024'
+      endYear: ''
+      label: ''
+      description: |-
+        Rethinking HCI's Grand Challenges in the Era of Generative AI
+        Singapore Management University (hosted by Tony Tang)
       link: ''
     - startYear: '2023'
       endYear: ''
